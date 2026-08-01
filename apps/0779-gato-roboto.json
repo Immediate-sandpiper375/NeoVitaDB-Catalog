@@ -1,0 +1,17 @@
+{
+  "id": 779,
+  "name": "Gato Roboto",
+  "author": "m1s3ry",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "GATOROBOT",
+  "repo": "m1s3ry/gato-roboto-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0779-gato-roboto.png",
+  "description": "Patch and install instructions in Release Page (Github). Original game by DoinkSoft. Pounce inside of your cozy armored mech and set off on a dangerous trek through an alien underworld full of irritable creatures and treacherous obstacles in a valiant effort to save your stranded captain and his crashed spaceship.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 1438,
+  "name": "GreenVita",
+  "author": "DayOS",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "GREENVITA",
+  "repo": "Day-OS/green-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1438-greenvita.png",
+  "description": "Play your favorite Xbox games on your PS Vita with GreenVita.\nGreenVita connects to Xbox Cloud Gaming by establishing a WebRTC connection and replicating the web requests made by the official Xbox Cloud Gaming web client.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

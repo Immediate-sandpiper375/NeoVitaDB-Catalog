@@ -1,0 +1,17 @@
+{
+  "id": 385,
+  "name": "PUP-Extractor",
+  "author": "Princess-Of-Sleeping",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "PSP2PUP00",
+  "repo": "Princess-of-Sleeping/PSV-PUP-Extractor",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0385-pup-extractor.png",
+  "description": "Application that allows you to extract firmware updates for PSVITA/PSTV in .PUP format.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1384,
+  "name": "2ship2harkinian Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "2SHIP2HAR",
+  "repo": "Rinnegatamante/2ship2harkinian",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1384-2ship2harkinian-vita.png",
+  "description": "2ship2harkinian is a sourceport of The Legend of Zelda: Majora's Mask based off the decompilation efforts of the game. It features several enhancements and mods support. The Vita port is based on version 1.1.2 (Satoko Charlie).",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: N64",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "data": "https://www.rinnegatamante.eu/files/vitadb/2s2h.zip"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 1219,
+  "name": "Cradle Song Vita",
+  "author": "grimiku",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "CRDLSV098",
+  "repo": "Grimiku/Cradle-Song-Vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1219-cradle-song-vita.png",
+  "description": "Port of Cradle Song for PSVITA. The game itself is a short visual novel made back in 2011 by Dischan.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

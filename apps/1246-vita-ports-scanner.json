@@ -1,0 +1,17 @@
+{
+  "id": 1246,
+  "name": "Vita Ports Scanner",
+  "author": "lp1",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "LP1HT0001",
+  "repo": "lp1dev/vita_ports_scanner",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1246-vita-ports-scanner.png",
+  "description": "TCP hosts/ports scanner for local networks, which for each scan type 3 different scan levels.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

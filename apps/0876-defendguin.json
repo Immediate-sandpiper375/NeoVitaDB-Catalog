@@ -1,0 +1,17 @@
+{
+  "id": 876,
+  "name": "Defendguin",
+  "author": "Island_Games",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "ISLD00004",
+  "repo": "island-games/Defendguin",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0876-defendguin.png",
+  "description": "Defendguin is a clone of the arcade game \"Defender,\" but with a Linux theme. Your mission is to defend little penguinoids from being captured and mutated.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

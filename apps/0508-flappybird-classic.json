@@ -1,0 +1,17 @@
+{
+  "id": 508,
+  "name": "FlappyBird Classic",
+  "author": "Creckeryop",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "FLAPPY001",
+  "repo": "Creckeryop/Flappy-Bird-Classic-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0508-flappybird-classic.png",
+  "description": "A Flappy Bird clone for PSVITA/PSTV.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

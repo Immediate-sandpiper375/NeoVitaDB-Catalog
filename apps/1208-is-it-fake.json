@@ -1,0 +1,17 @@
+{
+  "id": 1208,
+  "name": "Is It Fake?",
+  "author": "AntHJ",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "ISITFAKE0",
+  "repo": "AntHJ/Is-It-Fake",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1208-is-it-fake.png",
+  "description": "The basics of the app are that it will look to see the capacity of the SD and compare it with a table of SD values to see if it falls within the peramiters of a genuine SD.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1121,
+  "name": "Late Shift Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "LATESHIFT",
+  "repo": "Rinnegatamante/OpenFMV",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1121-late-shift-vita.png",
+  "description": "This is a complete rewrite from scratch of the FMV game Late Shift from CtrlMovie studio. It runs on OpenFMV engine, an FMV game engine wrote from scratch to mimic Wales Interactive engine used for their FMV games.\nLate Shift is a high stakes FMV crime thriller. Forced into a brutal London heist, your choices matter in this interactive cinematic experience with adaptable storylines that lead to one of seven conclusions. Your decisions are you.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: Steam",
+  "screenshots": [],
+  "trophies": true,
+  "ai": false,
+  "data": "https://www.rinnegatamante.eu/files/vitadb/lateshift_data.zip"
+}

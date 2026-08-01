@@ -1,0 +1,17 @@
+{
+  "id": 1223,
+  "name": "Bewilder House Vita",
+  "author": "MaloneCZSD",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "BEHO20247",
+  "repo": "malone46/BewilderHouseOpSource",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1223-bewilder-house-vita.png",
+  "description": "Port of Bewilder House for PSVITA.\nBewilder House is a short indie 3D horror game made by Minoteam.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

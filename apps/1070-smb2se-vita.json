@@ -1,0 +1,17 @@
+{
+  "id": 1070,
+  "name": "SMB2SE Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SMB2SAKED",
+  "repo": "Rinnegatamante/smb2se-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1070-smb2se-vita.png",
+  "description": "This is a wrapper/port of Super Monkey Ball 2: Sakura Edition for the PS Vita.\nThe port works by loading the official Android ARMv7 executables in memory, resolving its imports with native functions and patching it in order to properly run. By doing so, it's basically as if we emulate a minimalist Android environment in which we run natively the executable as is.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": true,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 1290,
+  "name": "vitaPDF",
+  "author": "joel16",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VITAPDF16",
+  "repo": "joel16/vitaPDF",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1290-vitapdf.png",
+  "description": "A simple homebrew file browser that is used for viewing various documents on the PlayStation VITA. vitaPDF utilizes various libraries to offer a simple and user friendly expereince.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

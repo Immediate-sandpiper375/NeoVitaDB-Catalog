@@ -1,0 +1,17 @@
+{
+  "id": 796,
+  "name": "MVPlayer",
+  "author": "AntHJ",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "MVPLAYER0",
+  "repo": "AntHJ/MVPlayer",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0796-mvplayer.png",
+  "description": "Using the PC tools provided on the GitHub page to convert and prepare your downloaded movies, you can now have a professional looking video library and player with several features such as bookmarking and image stretch/zoom.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

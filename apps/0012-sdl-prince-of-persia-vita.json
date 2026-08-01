@@ -1,0 +1,18 @@
+{
+  "id": 12,
+  "name": "SDL Prince of Persia Vita",
+  "author": "usineur",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SPOP00001",
+  "repo": "usineur/SDLPoP-Vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0012-sdl-prince-of-persia-vita.png",
+  "description": "SDLPoP is an open-source project that aims to allow people to play the original Prince of Persia DOS games on modern systems without the use of tools like DosBox. It was originally created by disassembling the code of the original game to get the source.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "data": "https://www.rinnegatamante.eu/files/vitadb/prince.zip"
+}

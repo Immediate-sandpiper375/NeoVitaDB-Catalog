@@ -1,0 +1,17 @@
+{
+  "id": 36,
+  "name": "AdrenalineEasyInstaller",
+  "author": "Freakler",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "ADRINSTAL",
+  "repo": "Freakler/vita-AdrenalineEasyInstaller",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0036-adrenalineeasyinstaller.png",
+  "description": "An easy to use installer for the 6.61 Adrenaline eCFW by TheFloW.\nSupports Adrenaline from v.1.0 to v.5.1.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

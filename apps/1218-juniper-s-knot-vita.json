@@ -1,0 +1,17 @@
+{
+  "id": 1218,
+  "name": "Juniper's Knot Vita",
+  "author": "grimiku",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "JNPRSK099",
+  "repo": "Grimiku/Junipers-Knot-Vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1218-juniper-s-knot-vita.png",
+  "description": "Port of Juniper's Knot for PSVITA. The game itself is a short visual novel made back in 2012 by Dischan.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

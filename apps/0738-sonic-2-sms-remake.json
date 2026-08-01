@@ -1,0 +1,17 @@
+{
+  "id": 738,
+  "name": "Sonic 2 SMS Remake",
+  "author": "MDashK & Creative Araya",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "S2SMSR001",
+  "repo": "MDashK/Sonic-2-SMS-Remake-Vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0738-sonic-2-sms-remake.png",
+  "description": "Sonic 2 SMS Remake is a fan game that represents a redesigned version of the Master System game released by SEGA in 1993. This is an unofficial port, based on version 2.0.C of the game for PC.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 1355,
+  "name": "Alisa Vita",
+  "author": "Rinnegatamante & PatnosD",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "ALSA50001",
+  "repo": "Rinnegatamante/Alisa-Vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1355-alisa-vita.png",
+  "description": "This is a port of Alisa: Developer's Cut for PSVita.\nAlisa is a indie survival horror game heavily inspired by the classics of this genre like the original Resident Evil.",
+  "requirements": "- Game Data Files: Steam",
+  "screenshots": [],
+  "trophies": true,
+  "ai": false
+}

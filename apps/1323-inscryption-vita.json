@@ -1,0 +1,17 @@
+{
+  "id": 1323,
+  "name": "Inscryption Vita",
+  "author": "gl00mm",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "INSC12345",
+  "repo": "gl00mm/Inscryption_PSVITA",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1323-inscryption-vita.png",
+  "description": "Inscryption is an inky black card-based odyssey that blends the deckbuilding roguelike, escape-room style puzzles, and psychological horror into a blood-laced smoothie. Darker still are the secrets inscrybed upon the cards...",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

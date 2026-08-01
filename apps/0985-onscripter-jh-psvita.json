@@ -1,0 +1,17 @@
+{
+  "id": 985,
+  "name": "ONScripter-jh-PSVita",
+  "author": "YuriSizuku",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "VITAONSJH",
+  "repo": "YuriSizuku/psv-OnscripterJH",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0985-onscripter-jh-psvita.png",
+  "description": "Port of ONScripter-jh for PSVITA. ONScripter (O-N-Scripter) is a program that interprets and executes scripts written for NScripter in its own way. It can run games on Windows, Android, iOS, etc. using the exact same game data.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

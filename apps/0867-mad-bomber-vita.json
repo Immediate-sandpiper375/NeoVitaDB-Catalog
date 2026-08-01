@@ -1,0 +1,17 @@
+{
+  "id": 867,
+  "name": "Mad Bomber Vita",
+  "author": "SonicMastr",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "BOMB00001",
+  "repo": "SonicMastr/Mad-Bomber-Vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0867-mad-bomber-vita.png",
+  "description": "Mad Bomber is a clone of the excellent 1981 Atari 2600 video game \"Kaboom!\" by Larry Kaplan of Activision. (Kaboom! was originally going to be an Atari-produced 2600 port of their 1978 arcade game, \"Avalanche.\")",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

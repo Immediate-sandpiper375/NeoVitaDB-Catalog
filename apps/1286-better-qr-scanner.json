@@ -1,0 +1,17 @@
+{
+  "id": 1286,
+  "name": "Better QR Scanner",
+  "author": "Harommel Rabbid",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "BETTERQRS",
+  "repo": "HarommelRabbid/BetterQRScanner",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1286-better-qr-scanner.png",
+  "description": "Multi-functional QR tool that scans and generates QR codes for the PSVita.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

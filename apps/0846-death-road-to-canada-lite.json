@@ -1,0 +1,18 @@
+{
+  "id": 846,
+  "name": "Death Road to Canada Lite",
+  "author": "Rinnegatamante & CatoTheYounger",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "DRTCANADA",
+  "repo": "Rinnegatamante/Death-Road-to-Canada-Lite",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0846-death-road-to-canada-lite.png",
+  "description": "This is a wrapper/port of Death Road to Canada for the PS Vita.\nThe port works by loading the official Android ARMv7 executable in memory, resolving its imports with native functions and patching it in order to properly run.\nBy doing so, it's basically as if we emulate a minimalist Android environment in which we run natively the executables as it is.\nThis release is bundled with a mod made by CatoTheYounger to reduce workload of game maps in order to make the game playable on Vita hardware (Thus why the release is named Lite).",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- fd_fix.skprx OR repatch_ex.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "data": "https://www.rinnegatamante.eu/files/vitadb/canada.zip"
+}

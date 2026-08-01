@@ -1,0 +1,18 @@
+{
+  "id": 612,
+  "name": "Max Payne",
+  "author": "fgsfds & TheFloW",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "MAXP00000",
+  "repo": "fgsfdsfgs/max_vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0612-max-payne.png",
+  "description": "Port of Max Payne for PSVITA/PSTV based on the Android mobile version.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "data": "https://www.rinnegatamante.eu/files/vitadb/max.zip"
+}

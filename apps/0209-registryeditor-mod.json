@@ -1,0 +1,17 @@
+{
+  "id": 209,
+  "name": "RegistryEditor MOD",
+  "author": "devnoname120",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "REGEDIT01",
+  "repo": "devnoname120/RegistryEditorMOD",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0209-registryeditor-mod.png",
+  "description": "Simple app that allows you to read and edit all registry settings in an organized manner. UI heavily based on TheFloW's VitaShell.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

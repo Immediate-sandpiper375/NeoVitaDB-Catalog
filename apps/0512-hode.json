@@ -1,0 +1,17 @@
+{
+  "id": 512,
+  "name": "hode",
+  "author": "usineur",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "HODEVITA1",
+  "repo": "usineur/hode",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0512-hode.png",
+  "description": "hode is a reimplementation of the engine used by the game Heart of Darkness developed by Amazing Studio.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

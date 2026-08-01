@@ -1,0 +1,17 @@
+{
+  "id": 542,
+  "name": "DVD Screensaver",
+  "author": "Electric",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "DVDS42069",
+  "repo": "Electric1447/Vita-DVD-Screensaver",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0542-dvd-screensaver.png",
+  "description": "An app that shows the bouncing DVD logo like in old DVD players.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

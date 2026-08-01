@@ -1,0 +1,17 @@
+{
+  "id": 1395,
+  "name": "SuperMarioBros C Vita",
+  "author": "Gustavo3211",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SMBV00001",
+  "repo": "Gustavo3211/SuperMarioBros-C-Vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1395-supermariobros-c-vita.png",
+  "description": "Port of super Mario Bros based off the decompilation of the original NES game.",
+  "requirements": "- Game Data Files: NES",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

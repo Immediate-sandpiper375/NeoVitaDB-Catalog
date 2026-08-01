@@ -1,0 +1,18 @@
+{
+  "id": 1060,
+  "name": "7 Billion Humans Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "7BILLION7",
+  "repo": "Rinnegatamante/seven-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1060-7-billion-humans-vita.png",
+  "description": "This is a wrapper/port of 7 Billion Humans for the PS Vita.\nThe port works by loading the official Android ARMv7 executable in memory, resolving its imports with native functions and patching it in order to properly run. By doing so, it's basically as if we emulate a minimalist Android environment in which we run natively the executable as is.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- fd_fix.skprx OR repatch_ex.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "data": "https://www.rinnegatamante.eu/files/vitadb/7billion.zip"
+}

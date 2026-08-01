@@ -1,0 +1,17 @@
+{
+  "id": 647,
+  "name": "Howard",
+  "author": "Narwher",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "HOWD42069",
+  "repo": "Narwher/Howard",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0647-howard.png",
+  "description": "Cross platform, retro shoot-em-up inspired by games like Thexder, Metroid and Cave Story. It's written in GameMaker Studio 1.4.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

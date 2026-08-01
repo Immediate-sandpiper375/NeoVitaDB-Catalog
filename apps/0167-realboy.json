@@ -1,0 +1,17 @@
+{
+  "id": 167,
+  "name": "Realboy",
+  "author": "xerpi",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "XERP00003",
+  "repo": "xerpi/realboy-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0167-realboy.png",
+  "description": "RealBoy is a Free, Fast and Accurate, Game Boy/Game Boy Color/Super Game Boy Emulator.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

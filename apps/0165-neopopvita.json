@@ -1,0 +1,17 @@
+{
+  "id": 165,
+  "name": "NeopopVITA",
+  "author": "frangarcj",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "FRAN00004",
+  "repo": "frangarcj/NeopopVITA",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0165-neopopvita.png",
+  "description": "Neogeo Pocket Color emulator for PSVita.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

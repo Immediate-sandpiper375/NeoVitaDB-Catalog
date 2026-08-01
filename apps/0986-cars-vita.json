@@ -1,0 +1,17 @@
+{
+  "id": 986,
+  "name": "Cars Vita",
+  "author": "SiulPop",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "CARS00001",
+  "repo": "SiulPop/Cars-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0986-cars-vita.png",
+  "description": "Port of Cars, a game made by CST1229 in GameMaker Studio, for PSVITA.\nIt's a game based off a Formula 1 game for old flip phones.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

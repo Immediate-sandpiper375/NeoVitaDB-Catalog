@@ -1,0 +1,17 @@
+{
+  "id": 817,
+  "name": "vita-ftp-client",
+  "author": "cy33hc",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "FTPCLI001",
+  "repo": "cy33hc/vita-ftp-client",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0817-vita-ftp-client.png",
+  "description": "A simple FTP client for PSVITA.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

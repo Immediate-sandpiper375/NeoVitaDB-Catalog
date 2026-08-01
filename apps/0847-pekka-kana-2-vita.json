@@ -1,0 +1,17 @@
+{
+  "id": 847,
+  "name": "Pekka Kana 2 Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "PEKKAKANA",
+  "repo": "Rinnegatamante/Pekka-Kana-2-Vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0847-pekka-kana-2-vita.png",
+  "description": "This is a wrapper/port of Pekka Kana 2 Android for the PS Vita.\nThe port works by loading the official Android ARMv7 executable in memory, resolving its imports with native functions and patching it in order to properly run.\nBy doing so, it's basically as if we emulate a minimalist Android environment in which we run natively the executable as is.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- fd_fix.skprx OR repatch_ex.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

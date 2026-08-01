@@ -1,0 +1,18 @@
+{
+  "id": 814,
+  "name": "osu!octave",
+  "author": "gl33ntwine",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "OSU000001",
+  "repo": "v-atamanenko/osu-octave",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0814-osu-octave.png",
+  "description": "osu!octave is a free and open source rhythm game designed to play osu!standard beatmaps, optimized for best performance and playability on PlayStation Vita.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "data": "https://www.rinnegatamante.eu/files/vitadb/data-maps.zip"
+}

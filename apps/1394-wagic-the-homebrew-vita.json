@@ -1,0 +1,17 @@
+{
+  "id": 1394,
+  "name": "Wagic the Homebrew Vita",
+  "author": "bren",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "WAGC00001",
+  "repo": "Brendonm17/wagic-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1394-wagic-the-homebrew-vita.png",
+  "description": "Native port of Wagic the Homebrew for PlayStation Vita. Supports card art and touch controls.",
+  "requirements": "- libshacccg.suprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

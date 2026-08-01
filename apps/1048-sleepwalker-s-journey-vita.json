@@ -1,0 +1,17 @@
+{
+  "id": 1048,
+  "name": "Sleepwalker's Journey Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SLEEPWALK",
+  "repo": "Rinnegatamante/sleepwalkers-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1048-sleepwalker-s-journey-vita.png",
+  "description": "This is a wrapper/port of Sleepwalker's Journey for PSVITA.\nThe port works by loading the official Android ARMv6 executable in memory, resolving its imports with native functions and patching it in order to properly run. By doing so, it's basically as if we emulate a minimalist Android environment in which we run natively the executable as it is.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- fd_fix.skprx OR repatch_ex.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

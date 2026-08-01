@@ -1,0 +1,17 @@
+{
+  "id": 252,
+  "name": "FTPlaystation",
+  "author": "Red7s",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "FTP200001",
+  "repo": "ItsDeidara/FTPlaystation",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0252-ftplaystation.png",
+  "description": "Standalone FTP server utility for PSVITA/PSTV.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

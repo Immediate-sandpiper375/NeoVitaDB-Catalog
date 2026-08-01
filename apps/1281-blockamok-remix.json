@@ -1,0 +1,17 @@
+{
+  "id": 1281,
+  "name": "Blockamok Remix",
+  "author": "Mode8fx",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "BLOC52665",
+  "repo": "Mode8fx/blockamok",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1281-blockamok-remix.png",
+  "description": "Fly through a 3D world of never-ending blocks and survive for as long as you can! Includes customization options for gameplay and visuals, along with five music tracks.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

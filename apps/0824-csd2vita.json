@@ -1,0 +1,17 @@
+{
+  "id": 824,
+  "name": "CSD2Vita",
+  "author": "hatoving",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "CSD2VITA0",
+  "repo": "hatoving/csd2",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0824-csd2vita.png",
+  "description": "Cook, Serve, Delicious! 2 is the massive sequel to the surprise best selling original, one of the few games that gives players complete control on how they want to build their restaurant.",
+  "requirements": "- YoYo Loader\n- Game Data Files: PC Steam",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 1305,
+  "name": "32 Secs Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "32SECS032",
+  "repo": "Rinnegatamante/32secs_vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1305-32-secs-vita.png",
+  "description": "This is a wrapper/port of 32 Secs for the PS Vita.\nThe port works by loading the official Android ARMv7 executable in memory, resolving its imports with native functions and patching it in order to properly run. By doing so, it's basically as if we emulate a minimalist Android environment in which we run natively the executable as it is.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

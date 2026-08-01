@@ -1,0 +1,17 @@
+{
+  "id": 1258,
+  "name": "Switchfin",
+  "author": "dragonflylee",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "SWITCHFIN",
+  "repo": "dragonflylee/switchfin",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1258-switchfin.png",
+  "description": "Switchfin is a third-party client for Jellyfin that provides a native user interface to browse and play movies and series.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

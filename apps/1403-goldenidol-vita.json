@@ -1,0 +1,17 @@
+{
+  "id": 1403,
+  "name": "GoldenIdol-Vita",
+  "author": "Wolff",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "IDOL00001",
+  "repo": "WolffsRoom/GoldenIdol-PSVita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1403-goldenidol-vita.png",
+  "description": "A port of The Case of the Golden Idol for the PlayStation Vita, adapted from the original Godot Engine PC release.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

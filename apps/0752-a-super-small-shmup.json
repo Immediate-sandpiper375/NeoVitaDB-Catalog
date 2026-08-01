@@ -1,0 +1,17 @@
+{
+  "id": 752,
+  "name": "A Super Small SHMUP",
+  "author": "Island_Games",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "ISLD00000",
+  "repo": "island-games/A-Super-Small-Shmup",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0752-a-super-small-shmup.png",
+  "description": "This is a small Galaga type game for the PSVita. It features 10 waves and a boss fight. It is also the first game to utilize the Bartender trophy system.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

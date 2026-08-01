@@ -1,0 +1,17 @@
+{
+  "id": 820,
+  "name": "pGEN",
+  "author": "cpasjuste",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "PGEN00001",
+  "repo": "Cpasjuste/pemu",
+  "asset": "pgen*.vpk",
+  "prerelease": false,
+  "icon": "0820-pgen.png",
+  "description": "Sega Genesis emulator, multiplatform port of Genesis Plus GX.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

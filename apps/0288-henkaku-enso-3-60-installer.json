@@ -1,0 +1,17 @@
+{
+  "id": 288,
+  "name": "Henkaku Enso 3.60 Installer",
+  "author": "Team Molecule",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "MLCL00003",
+  "repo": "henkaku/enso",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0288-henkaku-enso-3-60-installer.png",
+  "description": "Official installer for the first permanent CFW for PSVITA named Henkaku Enso. Note that this installer is for 3.60 FW.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 158,
+  "name": "GenesisPlusGX",
+  "author": "frangarcj",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "FRAN00003",
+  "repo": "frangarcj/Genesis-Plus-GX",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0158-genesisplusgx.png",
+  "description": "Genesis Plus GX is an open-source Sega 8/16 bit emulator focused on accuracy and portability.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

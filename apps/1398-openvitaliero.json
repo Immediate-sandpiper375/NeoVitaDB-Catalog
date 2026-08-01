@@ -1,0 +1,18 @@
+{
+  "id": 1398,
+  "name": "OpenVitaLiero",
+  "author": "Ak1M1223",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "LIER01337",
+  "repo": "Ak1M1223/vitaliero",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1398-openvitaliero.png",
+  "description": "Earthworm simulation game based on a real physical model. Features: 2 worms, 40 weapons, great playability. Four game modes: Kill'em All, Game of Tag, Capture the Flag and Simple CtF!",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "data": "https://www.rinnegatamante.eu/files/vitadb/openliero.zip"
+}

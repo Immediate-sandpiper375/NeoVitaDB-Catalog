@@ -1,0 +1,17 @@
+{
+  "id": 462,
+  "name": "Pingo",
+  "author": "Grzybojad",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "GRZB00003",
+  "repo": "Grzybojad/Pingo",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0462-pingo.png",
+  "description": "Pingo is a puzzle game in which your goal is to paint the whole level in as little steps as possible. Try to earn 3 stars in 60 hand crafted levels!",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

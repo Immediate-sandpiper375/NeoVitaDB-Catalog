@@ -1,0 +1,17 @@
+{
+  "id": 607,
+  "name": "Sonic 1",
+  "author": "Xeeynamo",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "RSDK00002",
+  "repo": "Xeeynamo/Sonic-1-2-2013-Decompilation",
+  "asset": "Sonic1-xeeynamo-v*.vpk",
+  "prerelease": false,
+  "icon": "0607-sonic-1.png",
+  "description": "A port of the first game of Sonic (Sonic The Hedgehog) based on a full decompilation of the original game.",
+  "requirements": "- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

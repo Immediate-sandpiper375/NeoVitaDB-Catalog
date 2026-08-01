@@ -1,0 +1,18 @@
+{
+  "id": 618,
+  "name": "GTA: SA Vita",
+  "author": "TheFloW & Rinnegatamante & aap",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "GTASA0000",
+  "repo": "TheOfficialFloW/gtasa_vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0618-gta-sa-vita.png",
+  "description": "A port of Grand Theft Auto: San Andreas for PSVITA/PSTV based on the Mobile (Android) version of the game.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "data": "https://www.rinnegatamante.eu/files/vitadb/gtasa.zip"
+}

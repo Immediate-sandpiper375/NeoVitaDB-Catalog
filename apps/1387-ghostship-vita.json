@@ -1,0 +1,18 @@
+{
+  "id": 1387,
+  "name": "Ghostship Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "GHSTSHP01",
+  "repo": "Rinnegatamante/Ghostship",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1387-ghostship-vita.png",
+  "description": "Ghostship is a sourceport of Super Mario 64 based off the decompilation efforts of the game. It features several enhancements and mods support. The Vita port is based on version 1.0.2 (Dutchman Charlie) with bugfixes from the in-development branch.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: N64",
+  "screenshots": [],
+  "trophies": true,
+  "ai": false,
+  "data": "https://www.rinnegatamante.eu/files/vitadb/ghostship.zip"
+}

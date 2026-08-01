@@ -1,0 +1,17 @@
+{
+  "id": 734,
+  "name": "Better Homebrew Browser",
+  "author": "M Ibrahim",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "BHBB00001",
+  "repo": "Ibrahim778/BetterHomebrewBrowser",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0734-better-homebrew-browser.png",
+  "description": "Homebrew Browser and Downloader for PSVITA with background downloads support.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

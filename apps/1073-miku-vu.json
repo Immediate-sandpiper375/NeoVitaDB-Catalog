@@ -1,0 +1,17 @@
+{
+  "id": 1073,
+  "name": "Miku Vu",
+  "author": "null & EK720 & Avellea & SonicMastr",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "MIKU00039",
+  "repo": "Avellea/mikuvu",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1073-miku-vu.png",
+  "description": "Application that shows random images taken from safebooru of Hatsune Miku and allows to save them on your Vita.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

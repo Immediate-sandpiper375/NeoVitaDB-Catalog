@@ -1,0 +1,17 @@
+{
+  "id": 1420,
+  "name": "Vita MHDH",
+  "author": "ChatGPT AI",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "MHDH00001",
+  "repo": "MuukalainenPuhuu/Vita-MH-DH",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1420-vita-mhdh.png",
+  "description": "This is a wrapper port of the Android version of Monster Hunter Dynamic Hunting a spin-off of the Main MH game series for Android & iOS. It has been released worldwide on June 1, 2011.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

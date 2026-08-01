@@ -1,0 +1,17 @@
+{
+  "id": 1435,
+  "name": "Garfield's Wild Ride Vita",
+  "author": "MemoryHunter",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "GSWR69420",
+  "repo": "memory-hunter/garfield-wild-ride-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1435-garfield-s-wild-ride-vita.png",
+  "description": "Garfield's Wild Ride is a 2013 action-casual endless runner game developed by Vetasoft. Taking place entirely in the lazy cat's daydreams, players use simple one-touch controls to fly Garfield through the air, dodge obstacles, and collect lasagna and coins to unlock power-ups and crazy costumes.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

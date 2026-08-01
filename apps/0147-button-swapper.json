@@ -1,0 +1,17 @@
+{
+  "id": 147,
+  "name": "button-swapper",
+  "author": "xyzz",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "XYZZ00001",
+  "repo": "xyzz/vita-button-swapper",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0147-button-swapper.png",
+  "description": "This homebrew allows you to swap X/O button assignment.\nOn Japanese Vitas O is confirm and X is cancel, while the rest of the world is X confirm, O cancel.\nPlease note that using this homebrew is different from swapping X/O in Accessibility settings => Button Assignment. This homebrew \"properly\" swaps the buttons, without using Accessibility settings.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

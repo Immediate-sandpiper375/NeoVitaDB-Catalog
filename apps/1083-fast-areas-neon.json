@@ -1,0 +1,17 @@
+{
+  "id": 1083,
+  "name": "fast-areas NEON",
+  "author": "OrbitalFlagStudio",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "NBDI56749",
+  "repo": "OrbitalFlagStudio/VitaGamesReleases",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1083-fast-areas-neon.png",
+  "description": "Port of fast-areas NEON for PSVITA.\nGo as far as you can, don't touch any obstacles, or you will lose!",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

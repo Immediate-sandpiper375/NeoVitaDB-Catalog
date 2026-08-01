@@ -1,0 +1,17 @@
+{
+  "id": 425,
+  "name": "modoru",
+  "author": "TheFloW",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "MODORU000",
+  "repo": "TheOfficialFloW/modoru",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0425-modoru.png",
+  "description": "modoru means \"to go back\" in Japanese and is a downgrader for the PS Vita,",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

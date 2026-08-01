@@ -1,0 +1,17 @@
+{
+  "id": 27,
+  "name": "JellyCar",
+  "author": "Drakon",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "JELY00001",
+  "repo": "DrakonPL/JellyCar",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0027-jellycar.png",
+  "description": "JellyCar is a great 2d game with soft body physics created by Walaber. This is a reimplemented version for Playstation Vita.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

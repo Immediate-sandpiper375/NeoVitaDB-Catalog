@@ -1,0 +1,17 @@
+{
+  "id": 1423,
+  "name": "Red Space Vita",
+  "author": "FARGUSJUNJA",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "REDVITASS",
+  "repo": "rerulon/redvitas",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1423-red-space-vita.png",
+  "description": "The first full-length Russian VN, released in September 2007. The game is set in an alternate future where the USSR never collapsed and the Cold War escalated into direct clashes in space. The player takes on the role of a spaceship captain who ends up in a little-studied sector of space and strives to return home.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

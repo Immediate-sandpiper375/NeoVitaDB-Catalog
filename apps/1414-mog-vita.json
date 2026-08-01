@@ -1,0 +1,18 @@
+{
+  "id": 1414,
+  "name": "Mog Vita",
+  "author": "withLogic",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "WLOGICMOG",
+  "repo": "withLogic/mog-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1414-mog-vita.png",
+  "description": "Port of Maze of Galious for PSVita.\nThe Maze of Galious (MoG in short) was originally a Konami game for the MSX computer system. Its real name is Knightmare II: The Maze of Galious and is the sequel of another Konami game called Knightmare.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "data": "https://www.rinnegatamante.eu/files/vitadb/mog.zip"
+}

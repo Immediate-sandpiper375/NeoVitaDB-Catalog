@@ -1,0 +1,17 @@
+{
+  "id": 1413,
+  "name": "A Bite at Freddy's Vita",
+  "author": "Rocroverss",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "ABAF00011",
+  "repo": "Rocroverss/A-Bite-at-Freddy-s-psvita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1413-a-bite-at-freddy-s-vita.png",
+  "description": "A Bite at Freddy's is a bite-sized Five Nights at Freddy's experience. Fnaf style. reddy Fazbear's Grill needs your help to test and repair the Freddy Fast-Food Delivery machine! Work alongside the restaurant manager to ensure food orders can be delivered from kitchen to customer without issue.\nComplete orders, repairs, and challenges!",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

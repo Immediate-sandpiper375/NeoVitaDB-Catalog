@@ -1,0 +1,17 @@
+{
+  "id": 787,
+  "name": "Shockolate",
+  "author": "Northfear",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SHOK00001",
+  "repo": "Northfear/systemshock-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0787-shockolate.png",
+  "description": "System Shock is a 1994 first-person action-adventure video game developed by LookingGlass Technologies and published by Origin Systems. It was directed by Doug Church with Warren Spector serving as producer. The game is set aboard a space station in a cyberpunk vision of the year 2072. Assuming the role of a nameless security hacker, the player attempts to hinder the plans of a malevolent artificial intelligence called SHODAN.",
+  "requirements": "- Game Data Files: PC GoG",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

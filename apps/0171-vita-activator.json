@@ -1,0 +1,17 @@
+{
+  "id": 171,
+  "name": "Vita Activator",
+  "author": "ZombieWizzard",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "ACTI00000",
+  "repo": "jitZpc/vita-activator",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0171-vita-activator.png",
+  "description": "Use this homebrew to get activation data on an HENkaku enabled PlayStation Vita.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

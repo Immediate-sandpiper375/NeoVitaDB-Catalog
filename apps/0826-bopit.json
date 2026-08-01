@@ -1,0 +1,17 @@
+{
+  "id": 826,
+  "name": "BopIt",
+  "author": "AntHJ",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "BOPIT0001",
+  "repo": "AntHJ/BopIt-Vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0826-bopit.png",
+  "description": "This was just a quick project for something to do. It's not great and I wouldn't say it's a finished product but this is all I'm going to do with it so feel free to do what you want with it.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

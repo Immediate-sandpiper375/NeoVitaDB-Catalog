@@ -1,0 +1,18 @@
+{
+  "id": 1295,
+  "name": "Biplanes Revival",
+  "author": "theSame",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "BPREVIVAL",
+  "repo": "DvaMishkiLapa/biplanes-revival-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1295-biplanes-revival.png",
+  "description": "An old cellphone arcade \"BlueTooth BiPlanes\" recreated for PC and PS Vita (originally developed by Morpheme Ltd. in 2004). This port is based on the tremendous work done by regular-dev. Multiplayer is compatible with the PC version.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "data": "https://www.rinnegatamante.eu/files/vitadb/biplanes_revival_data.zip"
+}

@@ -53,6 +53,30 @@ it scans for `"key": "` and cuts at the next quote. So `requirements` cannot
 contain quotes at all, and `description` cannot contain the two-character sequence
 `",`. CI rejects both.
 
+## Where the initial entries came from
+
+The catalog was seeded from a VitaDB dump with `tools/import_vitadb.py`. VitaDB
+stores the *resolved* result — a download URL behind its own redirector, plus a
+version, size and checksum computed by a server nobody else can run. This
+catalog stores the input instead, so the import keeps only what a contributor
+would have written by hand and drops everything the build recomputes.
+
+An entry survives the import only if its GitHub repository still publishes a
+stable release with a `.vpk` asset. Ids are carried over unchanged, so an entry
+here has the same id it had on VitaDB.
+
+Screenshots and trailers are *not* imported: the dump references files under
+VitaDB's own web root, which this catalog does not host. Re-add them per entry
+once the images live under `screenshots/` here.
+
+```bash
+python tools/import_vitadb.py --report-only    # resolve, write nothing
+python tools/import_vitadb.py                  # write apps/ and icons/
+```
+
+The tool never touches an id that already exists, so re-running it is safe and
+only picks up projects that have since published a usable release.
+
 ## How the build works
 
 `tools/build_catalog.py`, on a schedule and on every push:

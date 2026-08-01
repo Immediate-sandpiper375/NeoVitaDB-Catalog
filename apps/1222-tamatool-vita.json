@@ -1,0 +1,17 @@
+{
+  "id": 1222,
+  "name": "Tamatool Vita",
+  "author": "goodafternoon",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "TAMA99999",
+  "repo": "nn9dev/tamatool-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1222-tamatool-vita.png",
+  "description": "Vita port of Tamatool, a Tamagotchi emulator.\n\nYour Tamagotchi ROM must be placed in ux0:/data/tamatool with the name rom.bin\nSee project's readme for more information.\nhttps://github.com/nn9dev/tamatool-vita",
+  "requirements": "- Game Data Files: Tamagotchi",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

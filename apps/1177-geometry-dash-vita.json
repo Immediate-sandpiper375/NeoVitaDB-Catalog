@@ -1,0 +1,17 @@
+{
+  "id": 1177,
+  "name": "Geometry Dash Vita",
+  "author": "hatoving",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "GEOMETRYD",
+  "repo": "hatoving/gdash-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1177-geometry-dash-vita.png",
+  "description": "Port of the Android release of Geometry Dash for the PS Vita. Jump and fly your way through danger in this rhythm-based action platformer!\nPrepare for a near impossible challenge in the world of Geometry Dash. Push your skills to the limit as you jump, fly and flip your way through dangerous passages and spiky obstacles.",
+  "requirements": "- libshacccg.suprx\n- libfmodstudio.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

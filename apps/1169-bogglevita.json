@@ -1,0 +1,17 @@
+{
+  "id": 1169,
+  "name": "BoggleVita",
+  "author": "SoulTieGames",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "BOGGLESTG",
+  "repo": "SoulTieGames/BoggleVita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1169-bogglevita.png",
+  "description": "Boggle game for PSVITA.\nGrab a pen and paper and enjoy.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

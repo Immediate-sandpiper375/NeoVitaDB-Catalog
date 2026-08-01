@@ -1,0 +1,17 @@
+{
+  "id": 18,
+  "name": "BlockOut II",
+  "author": "bomblik",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "BOUT00002",
+  "repo": "bomblik/BlockOut_II_PSVITA",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0018-blockout-ii.png",
+  "description": "BlockOut II is an addictive action puzzle game by Jean-Luc PONS. It is also the first OpenGL homebrew game for Playstation Vita.\n\nBlockOut II is reimplementation of original 1989 puzzle video game, developed in Poland by Aleksander Ustaszewski and Miroslaw Zablocki and published by California Dreams for multiple platforms. Original BlockOut was the first video game which transfered tetris from 2D into 3D.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

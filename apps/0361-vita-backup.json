@@ -1,0 +1,17 @@
+{
+  "id": 361,
+  "name": "Vita Backup",
+  "author": "joel16",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VITABUP00",
+  "repo": "joel16/VitaBackup",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0361-vita-backup.png",
+  "description": "This utility aims to backup and restore VITA specific files (hardware ids, activation data, databases etc) on the go.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

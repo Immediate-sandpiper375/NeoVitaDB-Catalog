@@ -1,0 +1,17 @@
+{
+  "id": 168,
+  "name": "REminiscence Vita",
+  "author": "Enrique Somolinos Perez",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SOMO00001",
+  "repo": "enriquesomolinos/REminiscence-Vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0168-reminiscence-vita.png",
+  "description": "Classic game reimplementation of Flashback for PSVITA.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

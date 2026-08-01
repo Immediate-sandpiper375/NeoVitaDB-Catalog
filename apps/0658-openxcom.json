@@ -1,0 +1,18 @@
+{
+  "id": 658,
+  "name": "OpenXcom",
+  "author": "Northfear",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "XCOM00001",
+  "repo": "Northfear/OpenXcom-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0658-openxcom.png",
+  "description": "OpenXcom is an open-source clone of the popular \"UFO: Enemy Unknown\" (\"X-COM: UFO Defense\" in the USA release) and \"X-COM: Terror From the Deep\" videogames by Microprose, licensed under the GPL and written in C++ / SDL.",
+  "requirements": "- fd_fix.skprx OR repatch_ex.skprx\n- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "data": "https://www.rinnegatamante.eu/files/vitadb/openxcom-data.zip"
+}

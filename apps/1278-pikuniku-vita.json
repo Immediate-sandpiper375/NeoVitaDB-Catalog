@@ -1,0 +1,17 @@
+{
+  "id": 1278,
+  "name": "Pikuniku Vita",
+  "author": "gl00mm",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "PIKU12345",
+  "repo": "gl00mm/Pikuniku_PSVITA",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1278-pikuniku-vita.png",
+  "description": "Pikuniku is an absurdly wonderful puzzle-exploration game that takes place in a strange but playful world where not everything is as happy as it seems.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

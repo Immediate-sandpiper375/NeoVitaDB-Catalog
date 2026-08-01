@@ -1,0 +1,17 @@
+{
+  "id": 1293,
+  "name": "Vitaki",
+  "author": "ywnico & AAGaming",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "CHIAKI001",
+  "repo": "ywnico/vitaki-fork",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1293-vitaki.png",
+  "description": "Port of Chiaki, an application allowing to stream PS5 to other devices.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

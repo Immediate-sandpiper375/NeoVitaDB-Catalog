@@ -1,0 +1,17 @@
+{
+  "id": 500,
+  "name": "PSM Manager",
+  "author": "Yoti",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "PSMFIXER2",
+  "repo": "Yoti/psv_npdrmfix",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0500-psm-manager.png",
+  "description": "This program bypasses the PSN account requirement when using PSM games.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

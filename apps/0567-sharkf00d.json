@@ -1,0 +1,17 @@
+{
+  "id": 567,
+  "name": "ShaRKF00D",
+  "author": "OsirizX",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "SHARKF00D",
+  "repo": "OsirizX/ShaRKF00D",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0567-sharkf00d.png",
+  "description": "ShaRKF00D is an all in one extractor, decrypter, and installer for SceShaccCg module, required for homebrews to access runtime shader compiler.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

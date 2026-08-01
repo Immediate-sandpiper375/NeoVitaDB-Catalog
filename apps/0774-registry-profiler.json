@@ -1,0 +1,17 @@
+{
+  "id": 774,
+  "name": "Registry Profiler",
+  "author": "Codiak101",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "PSREGPROF",
+  "repo": "Codiak101/RegistryProfiler",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0774-registry-profiler.png",
+  "description": "This app allows certain registry values like the ones for brightness & volume to change and saved into profiles. The first menu gives the options to manage the profiles stored in a created file. When the app is first launched it saves a default profile of the device's current values along with any others later created. The horizontal menu gives the registry categories each containing the settings, some are checkboxes and others are number entries.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

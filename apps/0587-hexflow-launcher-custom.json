@@ -1,0 +1,17 @@
+{
+  "id": 587,
+  "name": "HEXFlow Launcher Custom",
+  "author": "BlackSheepBoy69 & VitaHEX games",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "HXLC00001",
+  "repo": "BlackSheepBoy69/HexFlow-Launcher-Unofficial-Custom",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0587-hexflow-launcher-custom.png",
+  "description": "Display and launch your games and homebrews in style.\nHexFlow Launcher features a 3d user interface to display your games with their box art and supports many customization options like custom covers and backgrounds.\n\nLaunching a game/app from HexFlow Launcher will close the launcher automaticaly without asking.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

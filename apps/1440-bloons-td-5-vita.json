@@ -1,0 +1,17 @@
+{
+  "id": 1440,
+  "name": "Bloons TD 5 Vita",
+  "author": "Claude AI",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "BTD500001",
+  "repo": "reallootfury/bloons-td-5-vita",
+  "asset": "btd5-vita-v1.00.vpk",
+  "prerelease": false,
+  "icon": "1440-bloons-td-5-vita.png",
+  "description": "An unofficial PlayStation Vita loader for the Android ARMv7 release of Bloons TD 5.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

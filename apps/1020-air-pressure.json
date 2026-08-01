@@ -1,0 +1,17 @@
+{
+  "id": 1020,
+  "name": "Air Pressure",
+  "author": "majonessyltetoy",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "AIRPRESSR",
+  "repo": "majonessyltetoy/airpressure",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1020-air-pressure.png",
+  "description": "Port of Air Pressure for PSVITA.\nAir Pressure is an unromantic visual novel.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

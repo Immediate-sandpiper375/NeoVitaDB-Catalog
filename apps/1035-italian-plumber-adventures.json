@@ -1,0 +1,17 @@
+{
+  "id": 1035,
+  "name": "Italian Plumber Adventures",
+  "author": "MEGAgameBoy",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "IPAV00001",
+  "repo": "MEGAgameBoy/Italian-Plumber-Adventures-PS-Vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1035-italian-plumber-adventures.png",
+  "description": "Italian Plumber Adventures is a new adventure starring an unknown character and reimagined from the perspective of JDSoft.\nOriginal game by JDSoft.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

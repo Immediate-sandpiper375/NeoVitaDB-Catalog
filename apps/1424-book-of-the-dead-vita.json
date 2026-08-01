@@ -1,0 +1,17 @@
+{
+  "id": 1424,
+  "name": "Book of the Dead Vita",
+  "author": "FARGUSJUNJA",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "NECROVITA",
+  "repo": "rerulon/dushi4kDX",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1424-book-of-the-dead-vita.png",
+  "description": "The first Russian VN in history, released in May 2006. The plot follows a married couple who move into a gloomy mansion they inherited, where events unfold in the spirit of Lovecraft's works.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

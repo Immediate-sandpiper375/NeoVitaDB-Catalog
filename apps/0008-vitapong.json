@@ -1,0 +1,17 @@
+{
+  "id": 8,
+  "name": "VitaPong",
+  "author": "nyorem",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "VITAPONG0",
+  "repo": "nyorem/vitapong",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0008-vitapong.png",
+  "description": "A simple clone of the classic game Pong for PSVITA/PSTV.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

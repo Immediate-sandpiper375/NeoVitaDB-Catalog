@@ -1,0 +1,17 @@
+{
+  "id": 1168,
+  "name": "Hollow Knight Vita",
+  "author": "PatnosD",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "HKVT12222",
+  "repo": "PatnosDD/Hollow-Knight-PsVita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1168-hollow-knight-vita.png",
+  "description": "Port of Hollow Knight for PSVITA.\nHollow Knight is a classically styled 2D action adventure across a vast interconnected world. Explore twisting caverns, ancient cities and deadly wastes; battle tainted creatures and befriend bizarre bugs; and solve ancient mysteries at the kingdom's heart.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": true,
+  "ai": false
+}

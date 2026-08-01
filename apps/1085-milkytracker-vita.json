@@ -1,0 +1,17 @@
+{
+  "id": 1085,
+  "name": "MilkyTracker Vita",
+  "author": "Morc",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "MILKTRACK",
+  "repo": "TheMorc/MilkyTrackerVita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1085-milkytracker-vita.png",
+  "description": "Port of MilkyTracker for PSVita.\nMilkyTracker is an multi-platform music application for creating .MOD and .XM module files. It attempts to recreate the module replay and user experience of the popular DOS program Fasttracker II, with special playback modes available for improved Amiga ProTracker 2/3 compatibility.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

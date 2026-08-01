@@ -1,0 +1,18 @@
+{
+  "id": 610,
+  "name": "Commander Genius",
+  "author": "Northfear",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "CGEN00001",
+  "repo": "Northfear/Commander-Genius",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0610-commander-genius.png",
+  "description": "Port of Commander Genius for PSVITA/PSTV. Commander Genius is an open-source clone of Commander Keen (1-6, Dreams) which allows you to play these episodes and some of the mods made for them.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "data": "https://www.rinnegatamante.eu/files/vitadb/CommanderGenius_data.zip"
+}

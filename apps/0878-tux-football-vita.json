@@ -1,0 +1,17 @@
+{
+  "id": 878,
+  "name": "Tux Football Vita",
+  "author": "Island_Games",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "ISLD00005",
+  "repo": "island-games/Tux-Football-Vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0878-tux-football-vita.png",
+  "description": "A PS Vita port of Tux Football. The game supports 2 players (PSTV), however, that mode is untested.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

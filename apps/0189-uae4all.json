@@ -1,0 +1,17 @@
+{
+  "id": 189,
+  "name": "UAE4ALL",
+  "author": "rsn8887 & cpasjuste",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "UAE4ALL00",
+  "repo": "rsn8887/uae4all2",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0189-uae4all.png",
+  "description": "UAE4ALL is an Amiga 500/1200 emulator for the PSVita. To play, you have to supply your own kickstart bios files, and put them in the \"ux0:/data/uae4all/kickstarts\" directory. Files must be named kick13.rom, kick20.rom, and kick31.rom.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

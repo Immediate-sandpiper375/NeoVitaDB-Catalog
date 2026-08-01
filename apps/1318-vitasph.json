@@ -1,0 +1,17 @@
+{
+  "id": 1318,
+  "name": "VitaSPH",
+  "author": "sjoerdwouters",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "PSVSPHSIM",
+  "repo": "sjoerdev/fluid-simulation-vitagl",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1318-vitasph.png",
+  "description": "Fluid simulation for the PSVita: play with physically simulated water.",
+  "requirements": "- libshacccg.suprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

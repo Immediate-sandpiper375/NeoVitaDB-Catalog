@@ -1,0 +1,17 @@
+{
+  "id": 1234,
+  "name": "Pureya Vita",
+  "author": "PatnosD",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "PRYA22322",
+  "repo": "PatnosDD/Pureya-PS-VITA",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1234-pureya-vita.png",
+  "description": "Pureya is a collection of arcade minigames that play with just 2 buttons.\nEvery 10 seconds, the game will jump from one random minigame to another.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

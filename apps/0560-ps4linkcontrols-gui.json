@@ -1,0 +1,17 @@
+{
+  "id": 560,
+  "name": "ps4linkcontrols-gui",
+  "author": "keltar",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "PS4LNKGUI",
+  "repo": "keltar/ps4linkcontrols-gui",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0560-ps4linkcontrols-gui.png",
+  "description": "Configurator GUI for ps4linkcontrols plugin.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

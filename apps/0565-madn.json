@@ -1,0 +1,17 @@
+{
+  "id": 565,
+  "name": "MaDn",
+  "author": "Dane64",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "MADN00000",
+  "repo": "Dane64/MaDn",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0565-madn.png",
+  "description": "Try to get all four pawns as fast as you can in the 'home' position and dont get angry when your pawn is hit just before your victory!",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

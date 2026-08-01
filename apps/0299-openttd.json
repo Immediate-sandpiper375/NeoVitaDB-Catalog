@@ -1,0 +1,18 @@
+{
+  "id": 299,
+  "name": "OpenTTD",
+  "author": "angguss",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "ANGU00001",
+  "repo": "angguss/OpenTTD",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0299-openttd.png",
+  "description": "OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe. Please note the game takes ~60 seconds to load.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "data": "https://www.rinnegatamante.eu/files/vitadb/openttd.zip"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 479,
+  "name": "PSP2-batteryFixer",
+  "author": "SKGleba",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "SKGB4TF1X",
+  "repo": "SKGleba/PSP2-batteryFixer",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0479-psp2-batteryfixer.png",
+  "description": "A small application packed with a kernel plugin for enso that fixes most of PSVita's battery-related problems.\nBasically the result is the same as hardware-disconnecting the battery or using a syscon keycombo.\nAs a bonus it deletes all the temp flags from the battery chip.\nNOTE: There are some compatibility issues with some PSVita 2000 revisions: https://github.com/SKGleba/PSP2-batteryFixer/issues/13",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

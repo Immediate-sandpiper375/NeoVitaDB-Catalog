@@ -1,0 +1,17 @@
+{
+  "id": 76,
+  "name": "Vita Moonlight",
+  "author": "AorsiniYT & xyzz & d3m3vilurr & ShadowPrince",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "XYZZ00002",
+  "repo": "xyzz/vita-moonlight",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0076-vita-moonlight.png",
+  "description": "Vita Moonlight allows you to stream your full collection of Steam games from your powerful Windows desktop to your PSVITA.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

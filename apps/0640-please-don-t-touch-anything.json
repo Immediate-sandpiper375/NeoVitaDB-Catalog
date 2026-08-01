@@ -1,0 +1,17 @@
+{
+  "id": 640,
+  "name": "Please, Don't Touch Anything",
+  "author": "hatoving",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "PDTA10721",
+  "repo": "hatoving/GMSVitaPortInstructions",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0640-please-don-t-touch-anything.png",
+  "description": "Please, Don't Touch Anything is a cryptic, brain-racking button-pushing simulation.\nCovering for a colleague who is taking a bathroom break, you find yourself in front of a mysterious panel which only component is a red button. And since you've clearly been instructed not to touch anything, the only thing you want to do now is push that damn button.\nPush it and expect to be held liable for any unintended aftermath. And there will be many. Credits to m1s3ry, Grossleymoo, Four Quarters Team and ForwardXP.",
+  "requirements": "- Game Data Files: Android OR PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

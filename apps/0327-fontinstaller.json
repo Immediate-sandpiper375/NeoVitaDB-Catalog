@@ -1,0 +1,17 @@
+{
+  "id": 327,
+  "name": "fontInstaller",
+  "author": "cxziaho",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "CXZV00001",
+  "repo": "cxziaho/fontInstaller",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0327-fontinstaller.png",
+  "description": "An app for installing the fontRedirect plugin, and selecting fonts using a GUI.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

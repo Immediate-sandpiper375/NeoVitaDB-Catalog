@@ -1,0 +1,17 @@
+{
+  "id": 868,
+  "name": "Sonic CD Vita",
+  "author": "SonicMastr",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SOCD00001",
+  "repo": "SonicMastr/Sonic-CD-Vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0868-sonic-cd-vita.png",
+  "description": "Port of Sonic CD for PSVITA/PSTV based on the decompilation of Sonic CD 2011.\nThis specific decompilation is based on the PC remake with improvements & tweaks from the mobile remakes.",
+  "requirements": "- Game Data Files: Android OR PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 810,
+  "name": "Sakura Succubus Vita",
+  "author": "SilverCrow",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "RNPYSS001",
+  "repo": "SilverCrow2323/Sakura-Succubus-Vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0810-sakura-succubus-vita.png",
+  "description": "Sakura Succubus is a visual novel about amassing a harem of sexy succubi. Featuring a cute idol, a domineering businesswoman, and a spacey social media star, thereâ€™s no shortage of women to woo!",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 427,
+  "name": "Julius Vita",
+  "author": "devnoname120 & Julius Team",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "JULIUS001",
+  "repo": "bvschaik/julius",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0427-julius-vita.png",
+  "description": "Caesar III is a video game that was released on September 30, 1998, developed by Impressions Games and published by Sierra On-Line. It is the third installment of the Caesar series of games and is part of Sierra's City Building Series. Players take on the role of a Roman governor, tasked with building up a grand Roman city, in which they must ensure their citizens have their needs met, that their city is safe and profitable, while meeting various goals set for them and dealing with various disasters, angry gods and hostile enemies.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

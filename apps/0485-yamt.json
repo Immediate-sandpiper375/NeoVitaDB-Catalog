@@ -1,0 +1,17 @@
+{
+  "id": 485,
+  "name": "YAMT",
+  "author": "SKGleba",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "SKGYAMT01",
+  "repo": "SKGleba/yamt-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0485-yamt.png",
+  "description": "Installer for a faster driver for SD2Vita. It mounts SD2Vita as ux0 and memcard (or if not found internal ux0 storage) as uma0.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

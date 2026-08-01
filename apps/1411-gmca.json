@@ -1,0 +1,17 @@
+{
+  "id": 1411,
+  "name": "GMCA",
+  "author": "thcolin",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "GMCA00001",
+  "repo": "thcolin/gamepad-media-center-aggregator",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1411-gmca.png",
+  "description": "GMCA is one native, controller-first client. Point it at any media center â€” Plex, Jellyfin, Emby or Stremio â€” and run it on any device you left in a drawer: Nintendo Switch, PS Vita or a Raspberry Pi wired to the TV. The interface never changes; only the accent colour and the tabs follow your server.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

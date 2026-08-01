@@ -1,0 +1,17 @@
+{
+  "id": 1201,
+  "name": "Coffee Talk Vita",
+  "author": "PatnosD",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "CFTK12345",
+  "repo": "PatnosDD/Coffee-Talk-PS-VITA",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1201-coffee-talk-vita.png",
+  "description": "Coffee Talk is a game about listening to peopleÃ¢â‚¬â„¢s problems and helping them by serving up a warm drink out of the ingredients you have in stock. It is a game that depicts lives as humanly as possible, while having a cast that is more than just humans.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

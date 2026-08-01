@@ -1,0 +1,17 @@
+{
+  "id": 515,
+  "name": "VITA-NoAutoAvls",
+  "author": "SKGleba",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "SKG4V2SW1",
+  "repo": "SKGleba/VITA-NoAutoAvls",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0515-vita-noautoavls.png",
+  "description": "A small utility to permanently enable/disable the Auto AVLS feature on Playstation Vita.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

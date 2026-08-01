@@ -1,0 +1,17 @@
+{
+  "id": 756,
+  "name": "Retroarch Bubble Builder",
+  "author": "AntHJ",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "RETBUBMKR",
+  "repo": "AntHJ/Retroarch-Bubble-Builder",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0756-retroarch-bubble-builder.png",
+  "description": "With this tool you are able to load your own images and resize them to make your own bubble and launch page.. if your using the Crazymac build or older verions of Retroarch the shortcut feature wasn't included, this app can also make your Retroarch compatible with the bubble shortcuts..",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

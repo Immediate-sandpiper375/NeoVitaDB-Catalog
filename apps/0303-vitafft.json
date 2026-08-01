@@ -1,0 +1,17 @@
+{
+  "id": 303,
+  "name": "VitaFFT",
+  "author": "pyroesp",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "MFFT00001",
+  "repo": "pyroesp/vitaFFT",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0303-vitafft.png",
+  "description": "This homebrew is a fast Fourier transformation (FFT) for the PSVita, which uses the internal microphone to read audio, formerly known as audio spectrum analyzer.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

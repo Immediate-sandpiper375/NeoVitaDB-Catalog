@@ -1,0 +1,17 @@
+{
+  "id": 1235,
+  "name": "Tiny Crate Vita",
+  "author": "Thatoneham & Harmony Honey",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "TICR00002",
+  "repo": "thatoneham/Tiny-Crate-Vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1235-tiny-crate-vita.png",
+  "description": "Tiny Crate is a cute little precision platformer with puzzle elements!\nLift and toss crates to traverse over spike pits and reach higher ground!\nWeigh down buttons to create platforms and solve the puzzle!",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

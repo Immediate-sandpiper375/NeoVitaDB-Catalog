@@ -1,0 +1,17 @@
+{
+  "id": 332,
+  "name": "SDLLopan",
+  "author": "nop90",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SDLLOPAN0",
+  "repo": "nop90-PSVITA/SDLLopan-VITA",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0332-sdllopan.png",
+  "description": "A classic remake for Linux Lopan (a Mahjong clone) by Dave Ashley.\nLike other Mahjongg games, you try to remove all the pieces. To remove pieces you must select a pair of pieces with the same drawing.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

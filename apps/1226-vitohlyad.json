@@ -1,0 +1,17 @@
+{
+  "id": 1226,
+  "name": "Vitohlyad",
+  "author": "gl33ntwine & Danil_linaD",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VUKR00001",
+  "repo": "v-atamanenko/vitohlyad",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1226-vitohlyad.png",
+  "description": "This application allows you to install a complete Ukrainian localization for the PlayStation Vita system, including all standard apps.\nTo use it, you need a homebrew-enabled PSVita running 3.60 or 3.65 firmware version. Compatibility with PSTV or other firmware versions has not been tested.\nWarning: After installing or uninstalling the localization using this application, a database update will be enforced. This means that your bubble layout will be reset.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

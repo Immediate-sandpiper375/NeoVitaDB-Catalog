@@ -1,0 +1,17 @@
+{
+  "id": 434,
+  "name": "MSweep",
+  "author": "Creckeryop",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "MSWEEPER1",
+  "repo": "Creckeryop/MSweep",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0434-msweep.png",
+  "description": "Simple Minesweeper game for PSVITA/PSTV.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

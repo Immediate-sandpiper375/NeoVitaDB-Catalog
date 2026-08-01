@@ -1,0 +1,17 @@
+{
+  "id": 541,
+  "name": "VICEVita",
+  "author": "ammeir",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "MEIR00002",
+  "repo": "ammeir/vicevita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0541-vicevita.png",
+  "description": "VICEVita is a port of the Versatile Commodore Emulator (VICE) for the PlayStation Vita.\nIt features a completely new UI with touch keyboard, savestates and control mappings.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 764,
+  "name": "Stock App Remover",
+  "author": "AntHJ",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "STKAPPREM",
+  "repo": "AntHJ/Stock-App-Remover",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0764-stock-app-remover.png",
+  "description": "This app is not destructive and does not actually \"remove\" the stock apps. It just hides them from the LiveArea. You can of course restore them.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

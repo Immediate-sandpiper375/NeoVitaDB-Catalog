@@ -1,0 +1,17 @@
+{
+  "id": 48,
+  "name": "PSVibe",
+  "author": "NamelessGhoul0",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "PSVIBE001",
+  "repo": "NamelessGhoul0/PSVibe",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0048-psvibe.png",
+  "description": "PSVibe is a simple controller vibrator, inspired by an old PS3 homebrew that can be used to test your controllers.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

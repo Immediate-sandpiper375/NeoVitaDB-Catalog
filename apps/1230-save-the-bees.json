@@ -1,0 +1,17 @@
+{
+  "id": 1230,
+  "name": "Save The Bees",
+  "author": "NathanKewley",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "STBB00002",
+  "repo": "NathanKewley/godot_save_the_bees",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1230-save-the-bees.png",
+  "description": "Small puzzle game for PSVITA. The game only has 7 small levels as it was a learning project.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

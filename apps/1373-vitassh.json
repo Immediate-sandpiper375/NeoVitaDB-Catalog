@@ -1,0 +1,17 @@
+{
+  "id": 1373,
+  "name": "VitaSSH",
+  "author": "Rompelhd",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "ROM000069",
+  "repo": "rompelhd/VitaSSH",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1373-vitassh.png",
+  "description": "VitaSSH is a proof-of-concept SSH client designed specifically for the PlayStation Vita, leveraging libssh2 for secure shell connections and VitaSDK for native Vita hardware integration. This experimental client provides basic SSH terminal functionality on the Vita's unique platform.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

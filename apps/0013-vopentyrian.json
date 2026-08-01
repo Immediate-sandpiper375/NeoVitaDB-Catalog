@@ -1,0 +1,17 @@
+{
+  "id": 13,
+  "name": "vOpenTyrian",
+  "author": "cpasjuste",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "VOPTIRYAN",
+  "repo": "Cpasjuste/vopentyrian",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0013-vopentyrian.png",
+  "description": "vOpenTyrian is a port of OpenTyrian to the PlayStation Vita handheld. Tyrian is an arcade-style vertical scrolling shooter.\nThe story is set in 20,031 where you play as Trent Hawkins, a skilled fighter-pilot employed to fight Microsol and save the galaxy.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 1256,
+  "name": "Jump King Vita",
+  "author": "Kalekki & Rocroverss",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "JUKI00088",
+  "repo": "Rocroverss/JumpKingGodot",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1256-jump-king-vita.png",
+  "description": "This is a Godot-made clone of Jump King, with core gameplay that closely resembles the original. \nMost entities and some foliage missing, along with music and the babe at the end.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

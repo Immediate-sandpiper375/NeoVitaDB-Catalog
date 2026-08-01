@@ -1,0 +1,17 @@
+{
+  "id": 1366,
+  "name": "ZATO Vita",
+  "author": "ZFhuang",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "ZATO01986",
+  "repo": "ZFhuang/ZATO-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1366-zato-vita.png",
+  "description": "Port of Z.A.T.O. // I Love the World and Everything In It for PSVita.\nThis is a visual novel made in RenPy.",
+  "requirements": "- Game Data Files: Steam",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

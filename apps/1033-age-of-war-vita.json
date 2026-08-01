@@ -1,0 +1,17 @@
+{
+  "id": 1033,
+  "name": "Age of War Vita",
+  "author": "mrdivdiz",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "AOWV00001",
+  "repo": "mrdivdiz/aowv",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1033-age-of-war-vita.png",
+  "description": "Port of Age of War for PSVITA.\nTake control of 16 different units and 15 different turrets to defend your base and destroy your enemy.\nIn this game, you start at the caveman age, then evolve! There are a total of 5 ages, each with its own unique units and turrets. Can you advance faster than your enemy?",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 621,
+  "name": "ccleste-vita",
+  "author": "Decomius",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "CCLESTVIT",
+  "repo": "Decomius/ccleste-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0621-ccleste-vita.png",
+  "description": "This is a port for PSVITA/PSTV of a C source port of the original celeste (Celeste classic) for the PICO-8, designed to be portable.\nCeleste is a platform game in which players control a girl named Madeline as she makes her way up a mountain while avoiding various deadly obstacles.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

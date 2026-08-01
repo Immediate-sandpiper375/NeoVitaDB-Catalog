@@ -1,0 +1,17 @@
+{
+  "id": 841,
+  "name": "Bugdom",
+  "author": "ywnico",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "BGDM00099",
+  "repo": "ywnico/bugdom-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0841-bugdom.png",
+  "description": "This is a port of Pangea Software's Bugdom to PlayStation Vita, based on the modern version of Bugdom written by Iliyas Jorio. Bugdom is a 1999 platform video game originally created by Pangea Software for Mac OS 9.",
+  "requirements": "- libshacccg.suprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

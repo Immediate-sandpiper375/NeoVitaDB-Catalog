@@ -1,0 +1,17 @@
+{
+  "id": 1386,
+  "name": "Star Warfare: Alien Invasion",
+  "author": "hatoving",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "STWF00001",
+  "repo": "hatoving/starwarfare-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1386-star-warfare-alien-invasion.png",
+  "description": "This is a a port of Star Warfare: Alien Invasion for the PlayStation Vita, playable with the Vita's controls and with trophies.",
+  "requirements": "- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": true,
+  "ai": false
+}

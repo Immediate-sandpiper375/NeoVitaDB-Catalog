@@ -1,0 +1,17 @@
+{
+  "id": 1084,
+  "name": "Destroy The Dot",
+  "author": "OrbitalFlagStudio",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "ABCD12354",
+  "repo": "OrbitalFlagStudio/VitaGamesReleases",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1084-destroy-the-dot.png",
+  "description": "Port of Destroy The Dot for PSVita.\nDestroy all BLACK DOT before they disappear but don't touch the RED DOT.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

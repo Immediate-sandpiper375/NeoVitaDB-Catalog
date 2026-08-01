@@ -1,0 +1,17 @@
+{
+  "id": 400,
+  "name": "VitaGrafix Configurator",
+  "author": "Kirezar",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VGCF00001",
+  "repo": "Kirezar/VitaGrafixConfigurator",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0400-vitagrafix-configurator.png",
+  "description": "A little app that allows you to properly edit settings of VitaGrafix plugin with an easy to use GUI.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

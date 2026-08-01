@@ -1,0 +1,17 @@
+{
+  "id": 439,
+  "name": "Bad Apple Vita",
+  "author": "knight-ryu12 & Princess-Of-Sleeping",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "BADA00001",
+  "repo": "knight-ryu12/badapplevita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0439-bad-apple-vita.png",
+  "description": "Bad Apple recreated with monoRLE graphical engine.\nBad Apple is a Japanese dance pop song originally featured in one of the arcade games from the Touhou series.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

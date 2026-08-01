@@ -1,0 +1,17 @@
+{
+  "id": 1095,
+  "name": "Halo 2D",
+  "author": "VegettoSan",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "HALO01172",
+  "repo": "VegettoSan/Halo2D_PsVita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1095-halo-2d.png",
+  "description": "A fanmade 2D platform game inspired to Halo.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

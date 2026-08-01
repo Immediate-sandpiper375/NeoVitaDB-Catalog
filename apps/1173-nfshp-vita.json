@@ -1,0 +1,17 @@
+{
+  "id": 1173,
+  "name": "NFSHP Vita",
+  "author": "Electry",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "NFSHP0000",
+  "repo": "Electry/nfshp_vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1173-nfshp-vita.png",
+  "description": "This is a wrapper/port of Need for Speed: Hot Pursuit Android for the PS Vita.\nThe port works by loading the official Android ARMv6 executable in memory, resolving its imports with native functions and patching it in order to properly run.",
+  "requirements": "- Game Data Files: Android\n- kubridge.skprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

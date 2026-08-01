@@ -1,0 +1,17 @@
+{
+  "id": 866,
+  "name": "Sonic 2 Vita",
+  "author": "SonicMastr",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SONIC0002",
+  "repo": "SonicMastr/Sonic-1-2-Vita",
+  "asset": "Sonic2*.vpk",
+  "prerelease": false,
+  "icon": "0866-sonic-2-vita.png",
+  "description": "A port of the second Sonic game (Sonic The Hedgehog 2) based on a full decompilation of the original game.",
+  "requirements": "- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

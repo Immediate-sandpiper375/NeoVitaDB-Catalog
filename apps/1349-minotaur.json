@@ -1,0 +1,17 @@
+{
+  "id": 1349,
+  "name": "Minotaur",
+  "author": "Digital33",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "D33S00002",
+  "repo": "Digital33Studios/minotaur",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1349-minotaur.png",
+  "description": "Enter the labyrinth and test your courage and wit. Will you survive to the exit, or will you perish at the mighty axe of the MINOTAUR?",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

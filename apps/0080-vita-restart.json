@@ -1,0 +1,17 @@
+{
+  "id": 80,
+  "name": "Vita Restart",
+  "author": "devnoname120",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VRST00001",
+  "repo": "devnoname120/vita-restart",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0080-vita-restart.png",
+  "description": "A quick way to reboot your system when Henkaku is running.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

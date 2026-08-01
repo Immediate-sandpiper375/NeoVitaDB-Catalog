@@ -1,0 +1,17 @@
+{
+  "id": 1401,
+  "name": "FMVita",
+  "author": "Wolff & TheFloW",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "FILEMNGR1",
+  "repo": "WolffsRoom/FMVita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1401-fmvita.png",
+  "description": "FMVita (File Manager Vita) is an enhanced VitaShell (by TheFloW) fork by WolffsRoom with animated backgrounds, full touchscreen dialogs, column view, undo system, QR code scanning/downloading, and independent settings at ux0:FMVita/.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

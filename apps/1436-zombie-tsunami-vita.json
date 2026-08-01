@@ -1,0 +1,17 @@
+{
+  "id": 1436,
+  "name": "Zombie Tsunami Vita",
+  "author": "ChatGPT AI",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "ZTSU00001",
+  "repo": "WolffsRoom/ZombieTsunami-Vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1436-zombie-tsunami-vita.png",
+  "description": "Unofficial wrapper/port of Zombie Tsunami for PlayStation Vita.\nThe port operates by loading the official Android ARMv7 executable directly into memory, linking its dependencies to native functions, and applying the necessary patches for it to run correctly. In practice, this creates a lightweight Android-like environment where the original executable can run natively without modification.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

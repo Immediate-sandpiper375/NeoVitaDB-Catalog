@@ -1,0 +1,17 @@
+{
+  "id": 819,
+  "name": "IMSCARED",
+  "author": "hatoving",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "IMSCARED0",
+  "repo": "hatoving/imscared",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0819-imscared.png",
+  "description": "IMSCARED is a metahorror game that protagonizes the player, putting him in a surreal first-person experience. Find keys, open doors and search for the exit to this nightmare. But I need to let you know, it will try to deceive You as many times as it can. Read the github page on how to get the game working.",
+  "requirements": "- YoYo Loader\n- Game Data Files: PC Steam",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 1425,
+  "name": "Dark Lands Vita",
+  "author": "Rocroverss",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "DLA000000",
+  "repo": "Rocroverss/Dark-Lands-psvita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1425-dark-lands-vita.png",
+  "description": "Dark Lands is a 2D action-platformer in which players take on the role of an Ancient Greek hero. With nothing but their reflexes and a faithful sword, they must survive a dark world filled with shadows, deadly obstacles, and relentless foes.\nThis is a wrapper/port of Dark Lands for the PS Vita.\nThe port works by loading the official Android ARMv7 executable in memory, resolving its imports with native functions and patching it in order to properly run. You must provide your own legally obtained Android APK.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

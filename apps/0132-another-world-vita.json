@@ -1,0 +1,17 @@
+{
+  "id": 132,
+  "name": "Another World Vita",
+  "author": "Enrique Somolinos Perez",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SOMO00002",
+  "repo": "enriquesomolinos/Another-World-Vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0132-another-world-vita.png",
+  "description": "Another World Vita is a port of the classic game Another World for PSVita. Based on the 0.2.1. version created by Gregory Montoir.\nAnother World, also known as Out of This World in North America and Outer World in Japan, is a 1991 cinematic platformer action-adventure game designed by Eric Chahi for Delphine Software. The game tells a story of Lester, a young scientist who, as a result of an experiment gone wrong, finds himself in a dangerous alien world where he is forced to fight for his survival.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 1390,
+  "name": "OpenMW Vita",
+  "author": "KingTorro",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "OMWV00001",
+  "repo": "TheLostPantheon/openmw",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1390-openmw-vita.png",
+  "description": "OpenMW for Vita is a native port of the open-source Morrowind engine, built on vitaGL. Runs the base game plus the Tribunal and Bloodmoon expansions through a custom GLSL pipeline. Dynamic fog scales draw distance on the fly to hold the target framerate, and both controller and front touchscreen are fully supported. Requires game data from a legally acquired copy of The Elder Scrolls III: Morrowind.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

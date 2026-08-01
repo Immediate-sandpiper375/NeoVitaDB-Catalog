@@ -1,0 +1,17 @@
+{
+  "id": 1220,
+  "name": "DSVita",
+  "author": "Grarak",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "DSVITA000",
+  "repo": "Grarak/DSVita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1220-dsvita.png",
+  "description": "Experimental NDS Emulator for ARM32/PSVita.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

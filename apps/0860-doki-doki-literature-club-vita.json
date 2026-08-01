@@ -1,0 +1,17 @@
+{
+  "id": 860,
+  "name": "Doki Doki Literature Club Vita",
+  "author": "SonicMastr",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "RNPYDDLC1",
+  "repo": "SonicMastr/Doki-Doki-Literature-Club-Vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0860-doki-doki-literature-club-vita.png",
+  "description": "Port of Doki Doki Literature Club! for PSVITA running under renpy.\nDoki Doki Literature Club! (DDLC) is a 2017 freeware visual novel developed by American independent game studio Team Salvato.",
+  "requirements": "- Game Data Files: PC Steam",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

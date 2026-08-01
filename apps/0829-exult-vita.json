@@ -1,0 +1,18 @@
+{
+  "id": 829,
+  "name": "Exult Vita",
+  "author": "einmueller",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "EXULT0042",
+  "repo": "einmueller/exult-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0829-exult-vita.png",
+  "description": "Ultima 7, an RPG from the early 1990's, still has a huge following. But, being a DOS game with a very nonstandard memory manager, it is difficult to run it on the latest computers. Exult is a project to create an Ultima 7 game engine that runs on modern operating systems, capable of using the data and graphics files that come with the game.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "data": "https://www.rinnegatamante.eu/files/vitadb/exult.zip"
+}

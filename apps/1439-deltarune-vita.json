@@ -1,0 +1,17 @@
+{
+  "id": 1439,
+  "name": "Deltarune Vita",
+  "author": "ChatGPT AI",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "DLTVITA01",
+  "repo": "WolffsRoom/DeltaruneVita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1439-deltarune-vita.png",
+  "description": "An unofficial port of DELTARUNE Chapters 1-5 for the PlayStation Vita.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: Steam",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

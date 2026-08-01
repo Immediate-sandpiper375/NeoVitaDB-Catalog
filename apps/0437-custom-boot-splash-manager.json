@@ -1,0 +1,17 @@
+{
+  "id": 437,
+  "name": "Custom Boot Splash Manager",
+  "author": "SKGleba",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "SKGCBSMGR",
+  "repo": "SKGleba/CBS-Manager",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0437-custom-boot-splash-manager.png",
+  "description": "This tool can display a Image/Animation during the PSVita boot process.\nIf Enso 3.65-update365 is installed and boot_config.txt exists in vs0:tai/ CBS will not be loaded, please update Enso to the latest version.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

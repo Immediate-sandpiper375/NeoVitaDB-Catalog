@@ -1,0 +1,17 @@
+{
+  "id": 870,
+  "name": "Vita Media Player PSTV",
+  "author": "SonicMastr",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "SVMP00001",
+  "repo": "SonicMastr/Vita-Media-Player",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0870-vita-media-player-pstv.png",
+  "description": "An Open Source PSVita/TV MP4 player with 1080p playback and subtitle support.\n1080i output supported on the PSTV natively and on the Vita with Sharpscale.\nSRT subtitle support (Has to be the same name as the video file)",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

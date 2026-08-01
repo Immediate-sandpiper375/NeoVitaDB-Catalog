@@ -1,0 +1,17 @@
+{
+  "id": 680,
+  "name": "Silly Tower",
+  "author": "cpasjuste",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "STOWE0001",
+  "repo": "Cpasjuste/sillytower",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0680-silly-tower.png",
+  "description": "SillyTower is a physics based game where you must build the highest possible tower!",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

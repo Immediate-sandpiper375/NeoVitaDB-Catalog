@@ -1,0 +1,17 @@
+{
+  "id": 561,
+  "name": "LCD Color Saturation",
+  "author": "Electric",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "LCDSAT000",
+  "repo": "Electric1447/lcd-color-saturation",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0561-lcd-color-saturation.png",
+  "description": "A little utility that improves color saturation ons PSVITA Slim models.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

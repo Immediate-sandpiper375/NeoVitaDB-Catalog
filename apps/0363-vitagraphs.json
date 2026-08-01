@@ -1,0 +1,17 @@
+{
+  "id": 363,
+  "name": "VitaGraphs",
+  "author": "Creckeryop",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "AF1A00001",
+  "repo": "Creckeryop/VitaGraphs",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0363-vitagraphs.png",
+  "description": "Simple Graphing Calculator written on lpp-vita",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

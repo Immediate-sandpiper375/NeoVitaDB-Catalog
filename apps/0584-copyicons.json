@@ -1,0 +1,17 @@
+{
+  "id": 584,
+  "name": "CopyIcons",
+  "author": "cy33hc",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "CPIC00001",
+  "repo": "cy33hc/copyicons",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0584-copyicons.png",
+  "description": "This application is used for bulk copying icon0.png/pic0.png from the ux0:app/GAME_ID/sce_sys to the ur0:appmeta/GAME_ID folder. To be used in conjuction with Vita Launcher.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

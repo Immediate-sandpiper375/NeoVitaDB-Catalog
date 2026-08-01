@@ -1,0 +1,17 @@
+{
+  "id": 806,
+  "name": "World of Goo Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "WRLDOFGOO",
+  "repo": "Rinnegatamante/goo_vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0806-world-of-goo-vita.png",
+  "description": "This is a wrapper/port of World of Goo for the PS Vita.\nThe port works by loading the official Android ARMv7 executable in memory, resolving its imports with native functions and patching it in order to properly run.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": true,
+  "ai": false
+}

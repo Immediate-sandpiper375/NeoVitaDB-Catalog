@@ -1,0 +1,17 @@
+{
+  "id": 1361,
+  "name": "Vita Screen Test",
+  "author": "Ibrahim Dogan",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VSTA00001",
+  "repo": "ibrahim-dogan/vita-screen-test",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1361-vita-screen-test.png",
+  "description": "A screen test utility for the PlayStation Vita to help detect OLED burn-in and test display quality.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

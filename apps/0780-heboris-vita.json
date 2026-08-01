@@ -1,0 +1,17 @@
+{
+  "id": 780,
+  "name": "Heboris-Vita",
+  "author": "L0Wigh",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "HBRS00000",
+  "repo": "l0wigh/Heboris-Vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0780-heboris-vita.png",
+  "description": "Vita port of Heboris, a Tetris clone.\nThis port is based on the Heboris SDL2 source code.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

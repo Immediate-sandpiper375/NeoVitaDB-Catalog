@@ -1,0 +1,17 @@
+{
+  "id": 1225,
+  "name": "BreadToPIA",
+  "author": "Kaon",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "BTPA11451",
+  "repo": "kaonkaon/BreadToPIA",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1225-breadtopia.png",
+  "description": "Remake of Japanese viral game \"Suika Game\" for PS Vita. Merge 2 (or sometimes 3) bread and evolve it to bigger bread. Complete the order and get scores as high as you can. \nOverclocking is need due to unoptimized code. \nThe global score are subject to change without any warning or notification before hand.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

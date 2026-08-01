@@ -1,0 +1,17 @@
+{
+  "id": 823,
+  "name": "dRally Vita",
+  "author": "Enrique Somolinos Perez",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "DERA00002",
+  "repo": "enriquesomolinos/dRally-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0823-drally-vita.png",
+  "description": "Port of Death Rally, an arcade car simulation game released in 1996, for the PSVITA.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

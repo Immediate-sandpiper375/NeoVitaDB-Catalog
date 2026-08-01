@@ -1,0 +1,17 @@
+{
+  "id": 312,
+  "name": "Virtual GC",
+  "author": "motoharu",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "PSVGC0001",
+  "repo": "motoharu-gosuto/psvgamesd",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0312-virtual-gc.png",
+  "description": "Application that allows you to dump and run your physical gamecards.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

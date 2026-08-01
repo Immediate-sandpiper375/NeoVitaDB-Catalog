@@ -1,0 +1,17 @@
+{
+  "id": 1383,
+  "name": "Vita Drop",
+  "author": "Claude AI",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VDRP00001",
+  "repo": "ibrahim-dogan/vita-drop",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1383-vita-drop.png",
+  "description": "VitaDrop transforms your PS Vita into a wireless file server. Browse, upload, download, and manage your entire Vita filesystem from any device with a web browser. No USB cables, no FTP clients, no hassle.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

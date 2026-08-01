@@ -1,0 +1,18 @@
+{
+  "id": 386,
+  "name": "rocksndiamonds",
+  "author": "rsn8887",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "ROCKS0000",
+  "repo": "rsn8887/rocksndiamonds",
+  "asset": "rocksndiamonds_vita_*.vpk",
+  "prerelease": false,
+  "icon": "0386-rocksndiamonds.png",
+  "description": "Rocks'n'Diamonds is a scrolling tile-based computer puzzle game that can be described as a combined Boulder Dash, Supaplex, Emerald Mine, and Sokoban clone. It is a free software game under the GPLv2 license created by Artsoft Entertainment and designed by Holger Schemel. For additional level packs, see the release notes at https://github.com/rsn8887/rocksndiamonds/releases/latest",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "data": "https://www.rinnegatamante.eu/files/vitadb/rocksndiamonds.zip"
+}

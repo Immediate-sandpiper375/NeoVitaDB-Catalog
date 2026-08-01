@@ -1,0 +1,17 @@
+{
+  "id": 401,
+  "name": "Henkaku Enso 3.65 Installer",
+  "author": "Team Molecule & TheFloW",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "MLCL00003",
+  "repo": "TheOfficialFloW/enso",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0401-henkaku-enso-3-65-installer.png",
+  "description": "Fork of original Henkaku enso installer to make it compatible with 3.65 firmware.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

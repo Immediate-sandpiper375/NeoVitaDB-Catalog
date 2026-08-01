@@ -1,0 +1,17 @@
+{
+  "id": 745,
+  "name": "RetroFlow Launcher",
+  "author": "jimbob4000 & VitaHEX games",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "RETROFLOW",
+  "repo": "jimbob4000/RetroFlow-Launcher",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0745-retroflow-launcher.png",
+  "description": "This is a modded version of HexFlow Launcher; a 3d coverflow like launcher for PS Vita.\nThis version includes categories for retro games which can be launched without bubbles for RetroArch and DaedalusX64. Playstation and PSP games can also be launched without having to create bubbles for every game!",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

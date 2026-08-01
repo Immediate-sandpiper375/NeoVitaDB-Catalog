@@ -1,0 +1,17 @@
+{
+  "id": 1174,
+  "name": "SoulCalibur Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SOUL00001",
+  "repo": "Rinnegatamante/soulcalibur_vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1174-soulcalibur-vita.png",
+  "description": "This is a wrapper/port of SoulCalibur for the PS Vita. The port works by loading the official Android ARMv7 executable in memory, resolving its imports with native functions and patching it in order to properly run. By doing so, it's basically as if we emulate a minimalist Android environment in which we run natively the executable as is.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": true,
+  "ai": false
+}

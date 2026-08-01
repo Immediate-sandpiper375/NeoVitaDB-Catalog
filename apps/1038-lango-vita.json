@@ -1,0 +1,17 @@
+{
+  "id": 1038,
+  "name": "Lango Vita",
+  "author": "Parallel Productions",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "LANGO0002",
+  "repo": "ParallelProductions/Lango_GodotRPG-Vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1038-lango-vita.png",
+  "description": "Lango is a simple and open source project of an RPG game in the style of the Legendary Legends of Zelda, made on the Godot Engine with the intention of serving as an initial base for you to create your own game.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

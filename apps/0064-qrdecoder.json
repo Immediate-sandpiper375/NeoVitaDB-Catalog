@@ -1,0 +1,17 @@
+{
+  "id": 64,
+  "name": "qrdecoder",
+  "author": "linhtinh11",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "GAUT16912",
+  "repo": "linhtinh11/vita_qrdecoder",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0064-qrdecoder.png",
+  "description": "A small app that decodes QR code and then opens browser with the scanned payload.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

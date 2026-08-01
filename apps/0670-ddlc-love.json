@@ -1,0 +1,17 @@
+{
+  "id": 670,
+  "name": "DDLC-LOVE",
+  "author": "LukeZGD",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "DDLCLOVE0",
+  "repo": "LukeZGD/DDLC-LOVE",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0670-ddlc-love.png",
+  "description": "DDLC-LOVE is a Doki Doki Literature Club port programmed in Lua for the Nintendo Switch, 3DS, Sony PS Vita, PSP, and PS3!",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

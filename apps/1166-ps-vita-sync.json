@@ -1,0 +1,17 @@
+{
+  "id": 1166,
+  "name": "PS Vita Sync",
+  "author": "laochun",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "SYNC00055",
+  "repo": "add-le/ps-vita-sync",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1166-ps-vita-sync.png",
+  "description": "Homebrew to sync savefiles with your Google Drive.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

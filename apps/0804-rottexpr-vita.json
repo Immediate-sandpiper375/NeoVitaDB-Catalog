@@ -1,0 +1,18 @@
+{
+  "id": 804,
+  "name": "rottexpr-vita",
+  "author": "Northfear",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "ROTT00001",
+  "repo": "Northfear/rottexpr-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0804-rottexpr-vita.png",
+  "description": "Port of rottexpr, a source port of Rise of the Triad with improvements and new features based off of the icculus Rise of the Triad source port release.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "data": "https://www.rinnegatamante.eu/files/vitadb/rottexpr_data.zip"
+}

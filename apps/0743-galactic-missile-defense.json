@@ -1,0 +1,17 @@
+{
+  "id": 743,
+  "name": "Galactic Missile Defense",
+  "author": "MDashK",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "GAMIDEF00",
+  "repo": "MDashK/Galactic-Missile-Defense-Vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0743-galactic-missile-defense.png",
+  "description": "Galactic Missile Defense is a shooter and tower defense game, where you must protect Earth from the invading Martians that declared war on our planet just because a space rover accidentally ruined their picnic! Instructions on how to patch and install the game provided in the Release page.",
+  "requirements": "- Game Data Files: PC Steam",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

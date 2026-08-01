@@ -1,0 +1,17 @@
+{
+  "id": 392,
+  "name": "PiCrest",
+  "author": "Creckeryop",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "PICRESTGM",
+  "repo": "Creckeryop/PiCrest",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0392-picrest.png",
+  "description": "A Picross game for PSVITA with a level editor to create new levels and multilanguage support.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

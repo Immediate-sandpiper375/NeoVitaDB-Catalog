@@ -1,0 +1,17 @@
+{
+  "id": 4,
+  "name": "Moon Whitelister",
+  "author": "gnmmarechal",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "GS0100001",
+  "repo": "gnmmarechal/moon-whitelister",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0004-moon-whitelister.png",
+  "description": "Whitelister homebrew for PSTV using v1 patch. Written in Lua, runs on Lua Player Plus R4.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

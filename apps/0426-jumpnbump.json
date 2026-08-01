@@ -1,0 +1,17 @@
+{
+  "id": 426,
+  "name": "JumpNBump",
+  "author": "rsn8887",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "JUMPNBUMP",
+  "repo": "rsn8887/jumpnbump",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0426-jumpnbump.png",
+  "description": "Jump'n'Bump is a simple but addictive multiplayer game. The goal is to stomp as many other rabbits as possible to win the game.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

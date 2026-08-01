@@ -1,0 +1,17 @@
+{
+  "id": 600,
+  "name": "devilutionX",
+  "author": "devilutionX Team",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "DVLX00001",
+  "repo": "diasurgical/devilutionX",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0600-devilutionx.png",
+  "description": "A port of Diablo for PSVita based on the devilutionX project, a reverse engineereed implementation of the original Diablo release for PC.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 1171,
+  "name": "Random Vita Game Launcher",
+  "author": "jimbob4000",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "RANDOMPSV",
+  "repo": "jimbob4000/Random-Vita-Game-Launcher",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1171-random-vita-game-launcher.png",
+  "description": "Spend too long choosing a game to play, or you don't get around to trying new games? Use this app to select and launch a Vita game at random for you to play.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

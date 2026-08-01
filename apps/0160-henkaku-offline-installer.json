@@ -1,0 +1,17 @@
+{
+  "id": 160,
+  "name": "Henkaku Offline Installer",
+  "author": "xyzz",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "MLCL00002",
+  "repo": "henkaku/offline-installer",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0160-henkaku-offline-installer.png",
+  "description": "Mail application exploit that allows you to start HENkaku without an Internet connection.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 809,
+  "name": "HIKE BACK Vita",
+  "author": "SilverCrow",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "RENPYHIKE",
+  "repo": "SilverCrow2323/HIKE-BACK-Vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0809-hike-back-vita.png",
+  "description": "HIKEBACK is a short visual novel about trust, self-sabotage, and never-ending cycles. You play as a driver passing through a mountain road late at night, when you spot a hitchhiker flagging you down up ahead. How you proceed from there determines not only the fate of you and the wide-eyed stranger you meet, but your combined fates across multiple planes of existence. In a cycle that seems to torment you for INFINITY, how long will it take for you to finally arrive at the THRESHOLD? Will you find the better ending you seek? Or will you succumb to what fate has in store for you?",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

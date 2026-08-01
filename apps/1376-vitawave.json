@@ -1,0 +1,17 @@
+{
+  "id": 1376,
+  "name": "VitaWave",
+  "author": "Stalgix",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VWAV00001",
+  "repo": "Jyotiraditya-Samal/Vitawave",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1376-vitawave.png",
+  "description": "A full-featured music player for the PS Vita, built from the ground up as a native homebrew app. Clean interface, solid format support, and a theme system that lets you make it yours.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

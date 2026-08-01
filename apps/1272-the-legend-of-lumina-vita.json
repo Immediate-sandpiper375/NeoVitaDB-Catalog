@@ -1,0 +1,17 @@
+{
+  "id": 1272,
+  "name": "The Legend of Lumina Vita",
+  "author": "Rocroverss",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "TLOL00020",
+  "repo": "Rocroverss/The-legend-of-lumina-patch-psvita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1272-the-legend-of-lumina-vita.png",
+  "description": "Port of The Legend of Lumina for PSVITA.\nExplore an ancient forest, push blocks to solve puzzles, and uncover a way to lift the curse on your homeland.\nOriginally developed in Godot for the KB Games ZeldaJam 2022, The Legend of Lumina is a block-pushing puzzle game with Metroidvania-style progression, set in a peaceful forest environment.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 1434,
+  "name": "Soda Dungeon Vita",
+  "author": "Claude AI",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SODA00001",
+  "repo": "reallootfury/soda-dungeon-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1434-soda-dungeon-vita.png",
+  "description": "An unofficial PS Vita loader for the Android release of Soda Dungeon. It runs the original ARMv7 libraries inside a small Android compatibility layer.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

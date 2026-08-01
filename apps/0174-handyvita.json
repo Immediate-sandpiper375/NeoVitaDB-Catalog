@@ -1,0 +1,17 @@
+{
+  "id": 174,
+  "name": "HandyVITA",
+  "author": "frangarcj",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "FRAN00002",
+  "repo": "frangarcj/HandyVITA",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0174-handyvita.png",
+  "description": "The first Atari Linx emulator for the PSVita.\nBased on Libretro Handy core.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

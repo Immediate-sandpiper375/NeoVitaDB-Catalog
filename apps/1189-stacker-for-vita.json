@@ -1,0 +1,17 @@
+{
+  "id": 1189,
+  "name": "Stacker for Vita",
+  "author": "Bunkai",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "BUNKAI015",
+  "repo": "Bunkai9448/StackerVitaGodot",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1189-stacker-for-vita.png",
+  "description": "A stacker arcade game made with Godot 3.5.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

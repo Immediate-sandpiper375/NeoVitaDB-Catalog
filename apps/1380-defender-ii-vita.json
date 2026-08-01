@@ -1,0 +1,17 @@
+{
+  "id": 1380,
+  "name": "Defender II Vita",
+  "author": "Rocroverss",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "DDEF00001",
+  "repo": "Rocroverss/Defender-II-PS-Vita-Port",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1380-defender-ii-vita.png",
+  "description": "Defender II is a pretty classic tower defense / castle defense game where you protect your castle from endless waves of enemies using a bow and powerful magic.\nYou play as the last defender, shooting arrows manually while upgrading your strength, speed, and abilities. As the game goes on, enemies become stronger and more challenging, so youÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ll need to improve your skills and unlock new defenses like magic towers and special powers.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

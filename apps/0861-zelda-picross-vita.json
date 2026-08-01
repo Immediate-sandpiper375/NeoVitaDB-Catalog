@@ -1,0 +1,17 @@
+{
+  "id": 861,
+  "name": "Zelda Picross Vita",
+  "author": "hatoving",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "ZELDAPIC1",
+  "repo": "hatoving/zeldapicross_vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0861-zelda-picross-vita.png",
+  "description": "This is a port of Zelda Picross for the PS Vita, based on the original game made by Vincent Jouillat from here: http://www.zeldaroth.fr/us/dlpicross.php",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

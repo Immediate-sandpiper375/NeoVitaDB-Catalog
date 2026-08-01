@@ -1,0 +1,17 @@
+{
+  "id": 431,
+  "name": "VitaRebootShutdown",
+  "author": "McCallum99",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "RBSD00001",
+  "repo": "McCallum99/PSVitaRebootShutdown",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0431-vitarebootshutdown.png",
+  "description": "This is an app that reboots or powers off your PSVita depending on what trigger you hold. It allows to update or restore icons database too.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

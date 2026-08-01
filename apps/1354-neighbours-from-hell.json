@@ -1,0 +1,17 @@
+{
+  "id": 1354,
+  "name": "Neighbours from Hell",
+  "author": "MaloneCZSD",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "HELL12345",
+  "repo": "malone46/NFH-PS-VITA",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1354-neighbours-from-hell.png",
+  "description": "Port of Neighbours From Hell for PSVita based on the free 1.1.5 version of Neighbours From Hell.\nNOTE: All Season 1 levels are unlocked. Season 2 levels are disabled as they are missing from the game files. Social buttons have been disabled because they caused crashes.",
+  "requirements": "- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

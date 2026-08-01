@@ -1,0 +1,17 @@
+{
+  "id": 694,
+  "name": "GUN GODZ",
+  "author": "m1s3ry",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "GUNGODZ00",
+  "repo": "m1s3ry/gungodz-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0694-gun-godz.png",
+  "description": "Original game by Vlambeer. GUN GODZ is a first person shooter about gun, gangster rap and the rich culture of Venus. Players try to escape the jail of a hotel, which is the only building on Venus and is owned by a record-label owner who happens to be the God of Guns.\nPatch and install instructions in Release Page (Github).",
+  "requirements": "- Game Data Files: PC Steam",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 751,
+  "name": "Bartender",
+  "author": "Island_Games",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "BARTENDER",
+  "repo": "island-games/Bartender",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0751-bartender.png",
+  "description": "This is a homebrew implementation of the trophy system for the PSVita. The trophies unlocked in this ecosystem do not merge with the official trophies on the PSVita.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

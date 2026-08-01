@@ -1,0 +1,17 @@
+{
+  "id": 1036,
+  "name": "Super Dungeon Delta",
+  "author": "Parallel Productions",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "DUNGEON01",
+  "repo": "ParallelProductions/super-dungeon-delve-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1036-super-dungeon-delta.png",
+  "description": "Super Dungeon Delve is retro style 2D dungeon crawl game. It was created as a learning project to learn and get started with with the Godot Engine. The game was inspired by rougelikes and the 80s Gauntlet arcade game, Gauntlet.\nThe scope was kept deliberately small, in order to achieve some sembalance of a finished/playable game",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

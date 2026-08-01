@@ -1,0 +1,17 @@
+{
+  "id": 1082,
+  "name": "Catacomb Vita",
+  "author": "L0Wigh",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "CTCB00000",
+  "repo": "l0wigh/CatacombVita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1082-catacomb-vita.png",
+  "description": "Vita port of Catacomb II (also known as The Catacomb).\nThis port is based on the Catacomb SDL2 source code",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

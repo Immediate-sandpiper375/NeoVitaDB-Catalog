@@ -1,0 +1,18 @@
+{
+  "id": 877,
+  "name": "VitaDB Downloader",
+  "author": "Rinnegatamante",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VITADBDLD",
+  "repo": "Rinnegatamante/VitaDB-Downloader",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0877-vitadb-downloader.png",
+  "description": "VitaDB Downloader is the official Vita client for VitaDB allowing to easily install homebrews from VitaDB directly from your PSVITA/PSTV.",
+  "requirements": "- libshacccg.suprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "data": "https://www.rinnegatamante.eu/files/vitadb/VitaDB.zip"
+}

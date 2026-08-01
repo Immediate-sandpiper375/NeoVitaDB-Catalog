@@ -1,0 +1,17 @@
+{
+  "id": 169,
+  "name": "SMSPlusVITA",
+  "author": "frangarcj",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "FRAN00001",
+  "repo": "frangarcj/SMSplusVITA",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0169-smsplusvita.png",
+  "description": "Sega Master System emulator for PSVITA/PSTV.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

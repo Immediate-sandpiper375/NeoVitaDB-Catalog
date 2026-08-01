@@ -1,0 +1,18 @@
+{
+  "id": 200,
+  "name": "Basilisk II",
+  "author": "meetpatty & rsn8887",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "BASILISK0",
+  "repo": "rsn8887/basiliskii-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0200-basilisk-ii.png",
+  "description": "Port of Basilisk II to the PSVita. Based off Chilly Willy's port to the PSP.\nBasilisk II is an Open Source 68k Macintosh emulator. That is, it allows you to run 68k MacOS software on your computer, even if you are using a different operating system. However, you still need a copy of MacOS and a Macintosh ROM image to use Basilisk II.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "data": "https://www.rinnegatamante.eu/files/vitadb/13/BasiliskII.zip"
+}

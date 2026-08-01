@@ -1,0 +1,17 @@
+{
+  "id": 1371,
+  "name": "Atomiks Vita",
+  "author": "withLogic",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "WLOGICAT1",
+  "repo": "withLogic/atomiks-psvita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1371-atomiks-vita.png",
+  "description": "Atomiks is a faithful remake of, and a tribute to, Atomix, a classic puzzle game created by Softtouch & RoSt and released in 1990 by the Thalion Software company. Atomiks is free software, and shares no code with the original Atomix game.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

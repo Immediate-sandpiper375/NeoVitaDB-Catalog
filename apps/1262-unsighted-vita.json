@@ -1,0 +1,17 @@
+{
+  "id": 1262,
+  "name": "Unsighted Vita",
+  "author": "PatnosD",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "UNSI22233",
+  "repo": "PatnosDD/Unsighted-Ps-Vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1262-unsighted-vita.png",
+  "description": "Port of Unsighted for PSVITA.\nThe game is a Metroidvania adventure game in which players assume the role of Alma, an automaton who has amnesia in the aftermath of a war between humans and robots.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 822,
+  "name": "Log Reset for YoYo Loader",
+  "author": "DRok17",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "YYLLOGDEL",
+  "repo": "DRok17/Log-Reset-for-YYL",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0822-log-reset-for-yoyo-loader.png",
+  "description": "Small app that deletes the yyl.log file and then launches YoYo Loader Vita.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 382,
+  "name": "Methane",
+  "author": "usineur",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "METHANE01",
+  "repo": "usineur/methane",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0382-methane.png",
+  "description": "Trap baddies in a gas cloud. Use your gas gun to throw it against a wall to destroy them.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "data": "https://www.rinnegatamante.eu/files/vitadb/smb.zip"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 758,
+  "name": "Covid 19 Apocalypse",
+  "author": "Gremlin Software",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "COVID19AP",
+  "repo": "softwaregremlin/Covid-19-Apocalypse",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0758-covid-19-apocalypse.png",
+  "description": "The year is 2521, Covid 19 has evolved into a demonic form sort of like the pink ogre creature from Doom but not as good. You are the last hope for mankind.\nThis game is \"in the style of\" the Commodore 64, with similar sounds, colour palette and resolution.\nIt's a 8 bit style point-and-shoot game based on a Covid-19 Apocalypse Theme.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

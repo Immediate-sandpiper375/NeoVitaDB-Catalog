@@ -1,0 +1,17 @@
+{
+  "id": 1400,
+  "name": "Kare wa Kanojo Vita",
+  "author": "PuppetHuggerDX",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "RPYKWKFAN",
+  "repo": "PuppetHuggerDX/Kare-wa-Kanojo-PS-Vita-Port",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1400-kare-wa-kanojo-vita.png",
+  "description": "A port of the indie visual novel Kare wa Kanojo by Max le Fou, based on the latest public release.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

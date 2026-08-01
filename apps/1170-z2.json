@@ -1,0 +1,17 @@
+{
+  "id": 1170,
+  "name": "Z2",
+  "author": "Kaon",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "Z20231227",
+  "repo": "kaonkaon/ztwo",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1170-z2.png",
+  "description": "A game inspired by Geometry Dash wave gamemode. All you need to do is get the yellow and avoid the red. Green will heal you. The highscore will be saved.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

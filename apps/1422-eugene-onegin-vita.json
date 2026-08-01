@@ -1,0 +1,17 @@
+{
+  "id": 1422,
+  "name": "Eugene Onegin Vita",
+  "author": "FARGUSJUNJA",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "ONEGAVITA",
+  "repo": "rerulon/negavita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1422-eugene-onegin-vita.png",
+  "description": "A visual novel based on the immortal novel-in-verse by Alexander Pushkin, released in September 2009. The player acts as an unseen observer, whose decisions can influence the fates of Onegin, Tatyana, and Lensky, as well as guest characters from other works of Russian classics.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

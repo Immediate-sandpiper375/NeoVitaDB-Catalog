@@ -1,0 +1,17 @@
+{
+  "id": 145,
+  "name": "idu-mode",
+  "author": "xyzz",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "XYZZ00003",
+  "repo": "xyzz/vita-idu",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0145-idu-mode.png",
+  "description": "App for your HENkaku-enabled PS Vita that lets you enable the Demo mode. \nThe Demo mode of the PSVita gives you access to more options, in particular the Package Installer. \nThe Package Installer can be used to install DRM Free official Vita apps (such as DRM free Demos, or apps like Netflix, etc...)\nPlease don't use this homebrew (and Demo mode) unless you know what you're doing because your PSVita could potentially automatically upgrade the FW if you're connected to WiFi.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

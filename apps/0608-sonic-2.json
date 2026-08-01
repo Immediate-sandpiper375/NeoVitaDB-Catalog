@@ -1,0 +1,17 @@
+{
+  "id": 608,
+  "name": "Sonic 2",
+  "author": "Xeeynamo",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "RSDK00003",
+  "repo": "Xeeynamo/Sonic-1-2-2013-Decompilation",
+  "asset": "Sonic2-xeeynamo-v*.vpk",
+  "prerelease": false,
+  "icon": "0608-sonic-2.png",
+  "description": "A port of the second game of Sonic (Sonic The Hedgehog 2) based on a full decompilation of the original game.",
+  "requirements": "- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

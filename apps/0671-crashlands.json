@@ -1,0 +1,17 @@
+{
+  "id": 671,
+  "name": "Crashlands",
+  "author": "m1s3ry",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "CRASHLAND",
+  "repo": "m1s3ry/crashlands-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0671-crashlands.png",
+  "description": "Craft, battle, and quest your way through Crashlands, a story-driven Crafting ARPG overflowing with sass! Original game by Butterscotch Shenanigans.\nInstall instructions in Release Page (Github).",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

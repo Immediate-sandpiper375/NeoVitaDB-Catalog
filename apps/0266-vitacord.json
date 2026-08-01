@@ -1,0 +1,17 @@
+{
+  "id": 266,
+  "name": "VitaCord",
+  "author": "devingDev",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VTCD00001",
+  "repo": "devingDev/VitaCord",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0266-vitacord.png",
+  "description": "A Discord client for PSVITA/PSTV.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

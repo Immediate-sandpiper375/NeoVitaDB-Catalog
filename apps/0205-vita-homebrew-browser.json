@@ -1,0 +1,17 @@
+{
+  "id": 205,
+  "name": "Vita HomeBrew Browser",
+  "author": "devnoname120",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VHBB00001",
+  "repo": "devnoname120/vhbb",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0205-vita-homebrew-browser.png",
+  "description": "Vita Homebrew Browser is a homebrew store for the PS Vita.\nFind Homebrews. Download Them. Launch them.\nThe size of your memory card is the only limit!",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 370,
+  "name": "VSOI",
+  "author": "gnmmarechal",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VSOI00001",
+  "repo": "gnmmarechal/VSOI",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0370-vsoi.png",
+  "description": "Application to replace Near bubble with VitaShell. Intended for 3.65 Enso users. Replacing Near with VitaShell will ensure you don't lose it even if you format your console.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

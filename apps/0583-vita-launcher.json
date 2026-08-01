@@ -1,0 +1,17 @@
+{
+  "id": 583,
+  "name": "Vita Launcher",
+  "author": "cy33hc",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "SMLA00001",
+  "repo": "cy33hc/vita-launcher",
+  "asset": "launcher*.vpk",
+  "prerelease": false,
+  "icon": "0583-vita-launcher.png",
+  "description": "An application that allows to launch other installed apps, roms from emulators and PSP games and homebrews thbrough Adrenaline. This removes the bubbles limit of Livearea and allows to categorize applications.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

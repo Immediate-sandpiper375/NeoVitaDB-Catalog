@@ -1,0 +1,17 @@
+{
+  "id": 604,
+  "name": "Sonic CD",
+  "author": "Xeeynamo",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "RSDK00001",
+  "repo": "Xeeynamo/Sonic-CD-11-Decompilation",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0604-sonic-cd.png",
+  "description": "Port of Sonic CD for PSVITA/PSTV based on the decompilation of Sonic CD 2011.\nThis specific decompilation is based on the PC remake with improvements & tweaks from the mobile remakes.",
+  "requirements": "- Game Data Files: Android OR PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

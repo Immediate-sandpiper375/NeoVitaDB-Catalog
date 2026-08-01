@@ -1,0 +1,17 @@
+{
+  "id": 1179,
+  "name": "Night in the Woods",
+  "author": "PatnosD",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "NITW22222",
+  "repo": "PatnosDD/Night-In-The-Woods-PS-VITA",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1179-night-in-the-woods.png",
+  "description": "NIGHT IN THE WOODS is an adventure game focused on exploration, story, and character, featuring dozens of characters to meet and lots to do across a lush, vibrant world. After a successful Kickstarter it's being made by Infinite Fall, a teamup of Alec Holowka (Aquaria), Scott Benson (Late Night Work Club), and Bethany Hockenberry.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

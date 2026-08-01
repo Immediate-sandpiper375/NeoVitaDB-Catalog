@@ -1,0 +1,17 @@
+{
+  "id": 1023,
+  "name": "Monument Valley",
+  "author": "hatoving",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "VLLY22132",
+  "repo": "hatoving/MonumentValley",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1023-monument-valley.png",
+  "description": "Port of Monument Valley for the PS Vita. In Monument Valley you will manipulate impossible architecture and guide a silent princess through a stunningly beautiful world. Monument Valley is a surreal exploration through fantastical architecture and impossible geometry. Guide the silent princess Ida through mysterious monuments, uncovering hidden paths, unfolding optical illusions and outsmarting the enigmatic Crow People. All credit of making the game goes to ustwo games.",
+  "requirements": "- Game Data Files: PC Steam/Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

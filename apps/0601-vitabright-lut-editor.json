@@ -1,0 +1,17 @@
+{
+  "id": 601,
+  "name": "Vitabright Lut Editor",
+  "author": "devnoname120",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VBRIGHTTL",
+  "repo": "devnoname120/vitabright-lut-editor",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0601-vitabright-lut-editor.png",
+  "description": "A companion app for vitabright plugin that allows to easily tweak OLED gamma tables.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

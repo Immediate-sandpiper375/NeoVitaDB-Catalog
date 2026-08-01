@@ -1,0 +1,17 @@
+{
+  "id": 928,
+  "name": "homm3hd-vita",
+  "author": "Northfear",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "HOMM00003",
+  "repo": "Northfear/homm3hd-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0928-homm3hd-vita.png",
+  "description": "This is a wrapper/port of HoMM III: HD Android for the PS Vita.\nThe port works by loading the official Android ARMv7 executable in memory, resolving its imports with native functions and patching it in order to properly run.\nBy doing so, it's basically as if we emulate a minimalist Android environment in which we run natively the executable as is.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: Android\n- kubridge.skprx",
+  "screenshots": [],
+  "trophies": true,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 150,
+  "name": "uriCaller",
+  "author": "Freakler",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "URI000001",
+  "repo": "Freakler/vita-uriCaller",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0150-uricaller.png",
+  "description": "Fast and easy solution to call URIs on an HENkaku enabled PSVITA/PSTV.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

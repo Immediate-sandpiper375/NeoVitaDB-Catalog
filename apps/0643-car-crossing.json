@@ -1,0 +1,17 @@
+{
+  "id": 643,
+  "name": "Car Crossing",
+  "author": "Team789er",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "GMSV00013",
+  "repo": "Team789er/Car-Crossing-PSVita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0643-car-crossing.png",
+  "description": "A Frogger clone where you control a car made with GameMaker for PSVITA/PSTV.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

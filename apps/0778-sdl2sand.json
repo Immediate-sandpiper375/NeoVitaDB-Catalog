@@ -1,0 +1,17 @@
+{
+  "id": 778,
+  "name": "SDL2Sand",
+  "author": "gl33ntwine",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SDLSAND01",
+  "repo": "v-atamanenko/sdl2sand",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0778-sdl2sand.png",
+  "description": "SDL2Sand is another implementation of the now-classic Falling Sand Game, old-school and minimalistic. The game simulates different particles (such as sand, water, oil or fire) interacting with each other. Freedom is given to the player to experiment with different materials in a sandbox environment.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

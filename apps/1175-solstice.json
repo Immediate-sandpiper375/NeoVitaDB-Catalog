@@ -1,0 +1,17 @@
+{
+  "id": 1175,
+  "name": "Solstice",
+  "author": "withLogic",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "WLSOLSTIC",
+  "repo": "withLogic/solstice-godot",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1175-solstice.png",
+  "description": "Solstice is a remake of the ZX Spectrum game Equinox. You control a droid with the mission to stabilize a nuclear mining complex under the attack of unknown entities. The droid has the ability to fly and shoot to destroy the enemies, to protect itself with a plasma shield and to pick items for accessing other areas. There are 8 areas to complete. Can you bring peace to the world and prevent nuclear winter?",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

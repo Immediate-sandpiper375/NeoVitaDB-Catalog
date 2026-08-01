@@ -1,0 +1,17 @@
+{
+  "id": 399,
+  "name": "RPPHS",
+  "author": "G33 & MotoLegacy",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "VGEE00001",
+  "repo": "G333333/RPPHS",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0399-rpphs.png",
+  "description": "Blast your way through those shapes in this Geometry Wars-inspired twin stick shooter for the PlayStation Vita! Enter your initials for the offline leaderboards, customize your crosshair, and mess with our super-cool settings menu.. or don't, that's entirely up to you.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

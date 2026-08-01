@@ -1,0 +1,18 @@
+{
+  "id": 553,
+  "name": "Daedalus X64",
+  "author": "Rinnegatamante",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "DEDALOX64",
+  "repo": "Rinnegatamante/DaedalusX64-vitaGL",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0553-daedalus-x64.png",
+  "description": "This download is updated every night, at midnight, PDT, to the latest nightly release. Daedalus X64 is a Nintendo 64 emulator originally for Linux and PSP ported to PSVITA thanks to vitaGL usage.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "data": "https://github.com/Rinnegatamante/DaedalusX64-vitaGL/releases/download/Nightly/DaedalusX64.zip"
+}

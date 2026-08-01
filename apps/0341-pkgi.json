@@ -1,0 +1,17 @@
+{
+  "id": 341,
+  "name": "PKGi",
+  "author": "mmozeiko",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "PKGI00000",
+  "repo": "mmozeiko/pkgi",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0341-pkgi.png",
+  "description": "PKGi allows to install original pkg files on your Vita.\nThis homebrew allows to download & unpack pkg file directly on Vita together with your NoNpDrm fake license.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

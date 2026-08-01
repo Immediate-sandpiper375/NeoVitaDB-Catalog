@@ -1,0 +1,18 @@
+{
+  "id": 369,
+  "name": "Enigma",
+  "author": "rsn8887",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "ENIGMA000",
+  "repo": "rsn8887/Enigma",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0369-enigma.png",
+  "description": "Vita port of Enigma, a skill/puzzle game inspired by Oxyd on the Atari ST and Rock'n'Roll on the Amiga.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "data": "https://www.rinnegatamante.eu/files/vitadb/enigma.zip"
+}

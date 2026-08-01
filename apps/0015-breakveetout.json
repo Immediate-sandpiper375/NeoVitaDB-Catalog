@@ -1,0 +1,17 @@
+{
+  "id": 15,
+  "name": "BreakVeetOut",
+  "author": "dal3boy & Ruben_Wolfe",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "BREWW0001",
+  "repo": "InvalidExcepti0n/BreakVeetOut",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0015-breakveetout.png",
+  "description": "BreakOut / Arkanoid clone for PSVITA/PSTV.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

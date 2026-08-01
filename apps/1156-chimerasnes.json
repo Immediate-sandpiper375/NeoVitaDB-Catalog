@@ -1,0 +1,17 @@
+{
+  "id": 1156,
+  "name": "ChimeraSNES",
+  "author": "jamsilva",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "CHIMRSNES",
+  "repo": "jamsilva/emu4vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1156-chimerasnes.png",
+  "description": "Standalone Super Nintendo emulator using ChimeraSNES as the emulation core and Emu4Vita as the frontend.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

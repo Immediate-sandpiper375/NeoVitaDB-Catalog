@@ -1,0 +1,17 @@
+{
+  "id": 1368,
+  "name": "Toziuha Night Dracula's Revenge Vita",
+  "author": "Rocroverss",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "DRRE01002",
+  "repo": "Rocroverss/Toziuha-Night-Dracula-s-Revenge-patch-psvita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1368-toziuha-night-dracula-s-revenge-vita.png",
+  "description": "Toziuha Night Dracula's Revenge is a 2D side-scrolling action platformer with classicvania style. Travel through different linear maps set in a dark fantasy world; such as a gloomy forest and Count Dracula's castle.\nPlay as Xandria, a beautiful and skilled alchemist who, using an iron whip, fights against the most fearsome demons and other alchemists.\nIt is recommended to change the graphic quality setting to 1 on the options tab to get better performance.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

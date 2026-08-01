@@ -1,0 +1,17 @@
+{
+  "id": 1039,
+  "name": "Faraway Space",
+  "author": "Parallel Productions",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "FARAWAY01",
+  "repo": "ParallelProductions/FarawaySpace",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1039-faraway-space.png",
+  "description": "A 3D arcade shooter made with Godot 3.4 ported to PSVita.\nIn current state expect framerate drops and occasional crashes.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

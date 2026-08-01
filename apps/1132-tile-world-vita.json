@@ -1,0 +1,17 @@
+{
+  "id": 1132,
+  "name": "Tile World Vita",
+  "author": "koolaidxk1d",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "TWKK00001",
+  "repo": "koolaidxk1d/tworld-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1132-tile-world-vita.png",
+  "description": "Port of Tile World for PSVITA.\nTile World (also known as TileWorld or Tileworld) is a game designed to emulate Chip's Challenge. It was written by Brian Raiter. To avoid copyright infringement with Chip's Challenge, the game does not use the original graphics, sound or music. The original level set is not bundled with Tile World, so it's legal for use.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 372,
+  "name": "HBInjector",
+  "author": "emiyl",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "HBINJECT0",
+  "repo": "emiyl/HBInjector",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0372-hbinjector.png",
+  "description": "HBInjector allows you to put VitaShell inside system apps bubbles.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

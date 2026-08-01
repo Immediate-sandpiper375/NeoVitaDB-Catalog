@@ -1,0 +1,17 @@
+{
+  "id": 831,
+  "name": "Apollo Save Tool",
+  "author": "bucanero",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "NP0APOLLO",
+  "repo": "bucanero/apollo-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0831-apollo-save-tool.png",
+  "description": "Apollo Save Tool is an application to manage save-game files on the PlayStation Vita.\nThis homebrew allows to download, unlock, patch and resign save-game files directly on your Vita.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

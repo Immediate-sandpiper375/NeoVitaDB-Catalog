@@ -1,0 +1,17 @@
+{
+  "id": 754,
+  "name": "OpenHCL",
+  "author": "JeffRulz345",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "OHCL00001",
+  "repo": "JeffRuLz/OpenHCL",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0754-openhcl.png",
+  "description": "A multiplatform port of Hydra Castle Labyrinth through SDL.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

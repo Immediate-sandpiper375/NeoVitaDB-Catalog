@@ -1,0 +1,17 @@
+{
+  "id": 1419,
+  "name": "Save Cloud Vita",
+  "author": "iamcco",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "SAVECLOUD",
+  "repo": "save-cloud/save-cloud-vita",
+  "asset": "save-cloud.vpk",
+  "prerelease": false,
+  "icon": "1419-save-cloud-vita.png",
+  "description": "An app allowing to backup saves on the cloud for PSVita.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

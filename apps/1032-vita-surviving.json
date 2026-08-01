@@ -1,0 +1,17 @@
+{
+  "id": 1032,
+  "name": "VITA Surviving",
+  "author": "pelayodc",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "KGHG89678",
+  "repo": "pelayodc/VITASurviving",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1032-vita-surviving.png",
+  "description": "Surviving 2D game for PS Vita. Fight against different enemies and upgrade your weapons while you try to survive. Its the first release and it will be uptaded with more content in the future.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

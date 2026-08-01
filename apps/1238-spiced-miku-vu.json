@@ -1,0 +1,17 @@
+{
+  "id": 1238,
+  "name": "Spiced Miku Vu",
+  "author": "null & EK720 & SonicMastr",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "MIKU00039",
+  "repo": "EK720/MikuVU",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1238-spiced-miku-vu.png",
+  "description": "Application that shows random images of Hatsune Miku from Gelbooru. Allows saving images to album, features a slideshow mode, and supports offline use. Contains optional NSFW content.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 999,
+  "name": "Dead Space Vita",
+  "author": "gl33ntwine",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "DEADSPACE",
+  "repo": "v-atamanenko/deadspace-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0999-dead-space-vita.png",
+  "description": "Dead Space is a 2011 survival horror mobile game for iOS and Android devices. A spin-off within the Dead Space series, the game is set after the events of original Dead Space and prior to the events of Dead Space 2 and shows how the Necromorph outbreak began and spread through the Titan Sprawl.\nThis homebrew is a loader of the Xperia Play release of Dead Space, based on the Android SO Loader by TheFloW. The loader provides a tailored, minimalistic Android-like environment to run the official ARMv6 game executable on the PS Vita.\nPlease, read the installation instructions on GitHub.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx v.0.3 or higher\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

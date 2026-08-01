@@ -1,0 +1,17 @@
+{
+  "id": 1341,
+  "name": "UNTITLED50 Vita",
+  "author": "Rocroverss",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "UNTIROCRO",
+  "repo": "Rocroverss/Untitled50-PSVita-android-port",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1341-untitled50-vita.png",
+  "description": "Untitled_50 is a prototype Engine-less game made entirely in SDL and ImGui made by DavideScarano and ported by Rocroverss to PSVita.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 1200,
+  "name": "Keep In Mind Remastered",
+  "author": "PatnosD",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "KPMN12352",
+  "repo": "PatnosDD/Keep-In-Mind-Remastered-PS-VITA",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1200-keep-in-mind-remastered.png",
+  "description": "Keep in Mind is a psychological indie game that follows Jonas, a man struggling with mental illness, on a journey of reflection and emotional healing. This game was created for those who struggle with mental illness or those who find themselves lost in the dark. This game is meant to be a therapeutic experience, but because of its sensitive and controversial content, some audiences may want to be wary.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

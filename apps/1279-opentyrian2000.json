@@ -1,0 +1,17 @@
+{
+  "id": 1279,
+  "name": "OpenTyrian2000",
+  "author": "andyvand",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "OPTIRYAN2",
+  "repo": "andyvand/opentyrian2000",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1279-opentyrian2000.png",
+  "description": "OpenTyrian2000 is an open-source port of the DOS game Tyrian. It is a fork of OpenTyrian, with the end goal being to replicate the experience of Tyrian 2000 as closely as possible.\nTyrian is an arcade-style vertical scrolling shooter.  The story is set in 20031 where you play as Trent Hawkins, a skilled fighter-pilot employed to fight MicroSol and save the galaxy.\nTyrian features a story mode, one- and two-player arcade modes, and networked multiplayer.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

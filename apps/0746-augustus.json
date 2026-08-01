@@ -1,0 +1,17 @@
+{
+  "id": 746,
+  "name": "Augustus",
+  "author": "devnoname120 & Julius Team & Keriew",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "AUGUSTUS1",
+  "repo": "Keriew/augustus",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0746-augustus.png",
+  "description": "Augustus is a fork of the Julius project that intends to incorporate gameplay changes. The aim of this project is to provide enhanced, customizable gameplay to Caesar 3 using project Julius UI enhancements.\nAugustus is able to load Caesar 3 and Julius saves, however saves made with Augustus will not work outside Augustus.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

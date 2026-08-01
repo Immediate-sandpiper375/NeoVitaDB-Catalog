@@ -1,0 +1,17 @@
+{
+  "id": 1319,
+  "name": "Benny",
+  "author": "xqspx",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "HBPS00001",
+  "repo": "xqwpx/benny",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1319-benny.png",
+  "description": "Homebrew in the horror genre for PlayStation Vita. Your task is to collect the keys, open the door and get out alive. But you are not alone, you are being hunted, be careful.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

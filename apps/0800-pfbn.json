@@ -1,0 +1,17 @@
+{
+  "id": 800,
+  "name": "pFBN",
+  "author": "cpasjuste",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "PFBN00001",
+  "repo": "Cpasjuste/pemu",
+  "asset": "pfbneo*.vpk",
+  "prerelease": false,
+  "icon": "0800-pfbn.png",
+  "description": "Several Arcades emulator, multiplatform port of FinalBurn Neo emulator.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

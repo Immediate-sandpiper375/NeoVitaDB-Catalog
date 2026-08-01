@@ -1,0 +1,17 @@
+{
+  "id": 1443,
+  "name": "Party Hard Vita",
+  "author": "daniemun",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "PYHD00001",
+  "repo": "daniemun/PartyHard-PSVITA-Port",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1443-party-hard-vita.png",
+  "description": "Port of Party Hard for PSVita.\nParty Hard is an action stealth video game developed by Pinokl Games and published by tinyBuild.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1404,
+  "name": "SDL Sopwith Vita",
+  "author": "withLogic",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "WLOGICSPW",
+  "repo": "withLogic/sdl-sopwith-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1404-sdl-sopwith-vita.png",
+  "description": "SDL Sopwith is a port of the game Sopwith, which was originally by BMB Compuscience Canada. The original author David L. Clark has kindly released the source code under the GNU GPL.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "data": "https://www.rinnegatamante.eu/files/vitadb/SDL-Sopwith.zip"
+}

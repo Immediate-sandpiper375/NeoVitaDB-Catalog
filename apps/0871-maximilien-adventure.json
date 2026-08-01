@@ -1,0 +1,17 @@
+{
+  "id": 871,
+  "name": "Maximilien Adventure",
+  "author": "SonicMastr",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "GDOT00001",
+  "repo": "SonicMastr/godot",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0871-maximilien-adventure.png",
+  "description": "Port of Maximilien Adventure for PSVITA/PSTV, which is a super Mario like game created with Godot.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

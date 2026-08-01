@@ -1,0 +1,17 @@
+{
+  "id": 740,
+  "name": "Crystal PSM",
+  "author": "Eli Crystal",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "ELICRY001",
+  "repo": "EliCrystal2001/CrystalPSM",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0740-crystal-psm.png",
+  "description": "CrystalPSM installer is a one click installer that downloads and installs PSM runtime for the PS Vita.\nIt aims to be legal, fast, and sports a modern sleek UI.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

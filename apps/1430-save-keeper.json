@@ -1,0 +1,17 @@
+{
+  "id": 1430,
+  "name": "Save Keeper",
+  "author": "Claude AI",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "SVK000001",
+  "repo": "falkenhawk/vita-save-keeper",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1430-save-keeper.png",
+  "description": "Back up your PS Vita and PSP save games and sync them to your own Google Drive. Made for people with more than one Vita (or a PS TV) who want their saves to follow them.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

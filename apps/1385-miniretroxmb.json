@@ -1,0 +1,17 @@
+{
+  "id": 1385,
+  "name": "MiniRetroXMB",
+  "author": "goobercx",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "MNRXMB001",
+  "repo": "goobercx/MiniRetroXMB-v1.0",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1385-miniretroxmb.png",
+  "description": "MiniRetroXMB lets you pick colors, choose a wallpaper, preview everything, and save it as a theme for RetroArch.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

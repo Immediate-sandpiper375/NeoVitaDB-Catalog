@@ -1,0 +1,17 @@
+{
+  "id": 763,
+  "name": "Bubble Recall",
+  "author": "AntHJ",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "BUBRECALL",
+  "repo": "AntHJ/Bubble-Recall",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0763-bubble-recall.png",
+  "description": "If you have a custom Vita build that you often transfer onto other systems or you swap your SD between devices, you probably know that neatly arranging your apps every time is tedious and time consuming. This will save your custom layout so it can be restored onto other systems.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

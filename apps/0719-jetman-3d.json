@@ -1,0 +1,17 @@
+{
+  "id": 719,
+  "name": "JetMan-3D",
+  "author": "Gremlin Software",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "VGLJETMAN",
+  "repo": "softwaregremlin/Jetman3D",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0719-jetman-3d.png",
+  "description": "This game is a fan-made tribute to an early 80's classic with a similar title, originally released on the ZX Spectrum and Vic 20. If the game had been re-made in the early days of 3D, perhaps for the Playstation 1 - it may have looked something like this.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

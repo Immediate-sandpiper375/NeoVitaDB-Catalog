@@ -1,0 +1,18 @@
+{
+  "id": 1353,
+  "name": "EQVita",
+  "author": "shev0k",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "EQSP00001",
+  "repo": "shev0k/EQVita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1353-eqvita.png",
+  "description": "System-wide 8-band graphic equalizer kernel plugin for PS Vita (3.65 Enso) with a companion UI app.\nThis is the first EQ app to control frequency bands across the entire PS Vita audio system (yes, globally), simply because nobody bothered to make one before.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "data": "https://www.rinnegatamante.eu/files/vitadb/eq_speaker.zip"
+}

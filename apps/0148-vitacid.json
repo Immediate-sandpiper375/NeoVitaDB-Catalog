@@ -1,0 +1,17 @@
+{
+  "id": 148,
+  "name": "VitaCID",
+  "author": "tomtomdu80",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VCID00001",
+  "repo": "tomtomdu80/VitaCID",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0148-vitacid.png",
+  "description": "Little application that gives you your PSVITA/PSTV console ID.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 657,
+  "name": "Fran Bow - Chapter Three",
+  "author": "hatoving",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "FBCH30419",
+  "repo": "hatoving/GMSVitaPortInstructions",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0657-fran-bow-chapter-three.png",
+  "description": "This is a continuation of the second chapter of Fran Bow.\nCredits to m1s3ry, Grossleymoo and Killmonday.",
+  "requirements": "- Game Data Files: Android OR PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 203,
+  "name": "Bookr MOD Vita",
+  "author": "pathway27",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "PATH00027",
+  "repo": "pathway27/bookr-mod-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0203-bookr-mod-vita.png",
+  "description": "This is a document reader for the PS VITA based on the original Bookr and bookr-mod for PSP.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

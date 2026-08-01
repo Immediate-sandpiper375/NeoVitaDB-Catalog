@@ -1,0 +1,17 @@
+{
+  "id": 394,
+  "name": "vitaSnake",
+  "author": "Grzybojad",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "GRZB00002",
+  "repo": "Grzybojad/vitaSnake",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0394-vitasnake.png",
+  "description": "A snake game with smooth rotation made for the PS Vita.\nWith 5 game modes, each with 2 difficulty modes, there are 10 unique ways to play! Customise your experience further with custom themes available in the options menu.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

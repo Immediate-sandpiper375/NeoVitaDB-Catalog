@@ -1,0 +1,18 @@
+{
+  "id": 1374,
+  "name": "Hex-A-Hop Vita",
+  "author": "withLogic",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "WLOGICHAH",
+  "repo": "withLogic/hexahop-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1374-hex-a-hop-vita.png",
+  "description": "Hex-A-Hop is a hexagonal puzzle game where the goal is to destroy all the green tiles on a level. The catch? You can only step on each tile once. As you progress, the game introduces complex mechanics that turn simple movement into a brain-teasing challenge.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "data": "https://www.rinnegatamante.eu/files/vitadb/hex-a-hop.zip"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 1066,
+  "name": "Super Mario BOOM",
+  "author": "MEGAgameBoy",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "APRL00001",
+  "repo": "MEGAgameBoy/Super-Mario-Boom-PS-Vita-Port",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1066-super-mario-boom.png",
+  "description": "This is a port of Super Mario BOOM for the PS Vita.\nSuper Mario BOOM is a non-serious Mario fan game project that was created to be an April fools joke in 2016 and now in 2023 with this port.\nThe gag in this game is that everything violently explodes when something happens.\nOriginal game by HypernovaTX.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

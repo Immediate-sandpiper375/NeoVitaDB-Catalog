@@ -1,0 +1,17 @@
+{
+  "id": 865,
+  "name": "Sonic 1 Vita",
+  "author": "SonicMastr",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SONIC0001",
+  "repo": "SonicMastr/Sonic-1-2-Vita",
+  "asset": "Sonic1*.vpk",
+  "prerelease": false,
+  "icon": "0865-sonic-1-vita.png",
+  "description": "A port of the first Sonic game (Sonic The Hedgehog) based on a full decompilation of the original game.",
+  "requirements": "- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

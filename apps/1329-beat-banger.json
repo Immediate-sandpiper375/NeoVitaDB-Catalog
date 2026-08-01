@@ -1,0 +1,17 @@
+{
+  "id": 1329,
+  "name": "Beat Banger",
+  "author": "masteroga",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "BEAT33322",
+  "repo": "masteroga101/Beat-Banger-PsVita-",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1329-beat-banger.png",
+  "description": "A port of the adult rhythm game Beat Banger for the PSVita.",
+  "requirements": "- Game Data Files: Steam",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

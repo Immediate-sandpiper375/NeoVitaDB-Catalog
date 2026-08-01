@@ -1,0 +1,17 @@
+{
+  "id": 1358,
+  "name": "pGBA",
+  "author": "cpasjuste",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "PGBA00001",
+  "repo": "Cpasjuste/pemu",
+  "asset": "pgba*.vpk",
+  "prerelease": false,
+  "icon": "1358-pgba.png",
+  "description": "Multiplatfor GBA emulator based on mGBA.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

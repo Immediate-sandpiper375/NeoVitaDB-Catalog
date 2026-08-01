@@ -1,0 +1,17 @@
+{
+  "id": 1185,
+  "name": "Doom RPG Vita",
+  "author": "jakubito",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "DOOMRPG00",
+  "repo": "jakubito/DoomRPG-RE-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1185-doom-rpg-vita.png",
+  "description": "This is a PS Vita port of the reverse engineered Doom RPG by [GEC]. All credits go to the GEC team, this project would not exist without their hard work.",
+  "requirements": "- Game Data Files: Mobile",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

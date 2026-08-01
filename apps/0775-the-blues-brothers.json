@@ -1,0 +1,17 @@
+{
+  "id": 775,
+  "name": "The Blues Brothers",
+  "author": "gl33ntwine",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "BLUES0001",
+  "repo": "v-atamanenko/blues-vita",
+  "asset": "blues*.vpk",
+  "prerelease": false,
+  "icon": "0775-the-blues-brothers.png",
+  "description": "The Blues Brothers is a 1991 platformer based on the self-titled band. You control either Jake or Elwood to evade police on your way to a blues concert. Throughout the 6 fun levels the game offers, your only weapons are agility and throwable crates.",
+  "requirements": "- Game Data Files: Amiga OR DOS",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

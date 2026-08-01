@@ -1,0 +1,18 @@
+{
+  "id": 387,
+  "name": "mirrormagic",
+  "author": "rsn8887",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "MIRROR000",
+  "repo": "rsn8887/rocksndiamonds",
+  "asset": "mirrormagic_vita_*.vpk",
+  "prerelease": false,
+  "icon": "0387-mirrormagic.png",
+  "description": "Mirrormagic is a game in the tradition of Deflektor and Mindbender written by Holger Schemel. You guide a laser beam by adjusting mirrors before the time limit runs out.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "data": "https://www.rinnegatamante.eu/files/vitadb/mirrormagic.zip"
+}

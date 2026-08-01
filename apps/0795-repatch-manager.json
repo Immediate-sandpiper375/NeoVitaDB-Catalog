@@ -1,0 +1,17 @@
+{
+  "id": 795,
+  "name": "rePatch Manager",
+  "author": "Eyeman",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "REMGR0001",
+  "repo": "Eyeman420/rePatch-Manager",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0795-repatch-manager.png",
+  "description": "Tool to enable and disable specific rePatch game. Useful to enable and disable mods that using rePatch.\nTested with FW 3.60 and 3.65.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

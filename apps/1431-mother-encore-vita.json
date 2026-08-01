@@ -1,0 +1,17 @@
+{
+  "id": 1431,
+  "name": "MOTHER Encore Vita",
+  "author": "Wolff",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "MOTHER001",
+  "repo": "WolffsRoom/MotherEncore-PSVita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1431-mother-encore-vita.png",
+  "description": "A native PlayStation Vita port of MOTHER: Encore, the free fan-made reimagining of MOTHER 1, adapted from its original Godot Engine PC release.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

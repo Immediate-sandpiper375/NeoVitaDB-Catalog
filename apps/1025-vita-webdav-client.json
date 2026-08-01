@@ -1,0 +1,17 @@
+{
+  "id": 1025,
+  "name": "vita-webdav-client",
+  "author": "cy33hc",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "WDVCLI001",
+  "repo": "cy33hc/vita-webdav-client",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1025-vita-webdav-client.png",
+  "description": "Simple WebDAV Client App for Vita for connecting to local WebDAV server or Cloud Storage that supports WebDAV.",
+  "requirements": "- libshacccg.suprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

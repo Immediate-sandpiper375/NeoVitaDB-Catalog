@@ -1,0 +1,17 @@
+{
+  "id": 1340,
+  "name": "Hill Climb Racing Vita",
+  "author": "MemoryHunter",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "HCR000000",
+  "repo": "memory-hunter/hill-climb-racing-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1340-hill-climb-racing-vita.png",
+  "description": "Hill Climb Racing is a game made by Fingersoft, a Finnish game engine where you can control a vehicle and try to survive as far as possible to get more coins for more upgrades, vehicles and stages! Each stage has a different layout, and different obstacles to overcome. Each vehicle has their own strengths and weaknesses, making certain vehicles excel in certain stages, and their vehicles have overalls.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

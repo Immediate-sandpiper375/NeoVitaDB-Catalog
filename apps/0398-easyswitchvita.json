@@ -1,0 +1,17 @@
+{
+  "id": 398,
+  "name": "EasySwitchVita",
+  "author": "Kirezar",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "EZSV00001",
+  "repo": "Kirezar/EasySwitchVita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0398-easyswitchvita.png",
+  "description": "EasySwitchVita aims to simplify the transition between playing the PS Vita as a handheld, and playing it on a big screen by allowing you to toggle the required plugins on and off and rebooting, as fast as one click, without the need to mess with the configuration files.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

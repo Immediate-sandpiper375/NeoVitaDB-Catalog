@@ -1,0 +1,17 @@
+{
+  "id": 534,
+  "name": "Noboru",
+  "author": "Creckeryop",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "NOBOR0001",
+  "repo": "Creckeryop/NOBORU",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0534-noboru.png",
+  "description": "A Manga/Comic reader app for PSVITA with both online and offline modes support.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

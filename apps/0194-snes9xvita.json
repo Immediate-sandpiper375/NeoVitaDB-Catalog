@@ -1,0 +1,17 @@
+{
+  "id": 194,
+  "name": "Snes9xVITA",
+  "author": "skogaby & frangarcj",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "SKOG00001",
+  "repo": "frangarcj/Snes9xVITA",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0194-snes9xvita.png",
+  "description": "Native SNES emulator for the PlayStation VITA.\nCurrently features Snes9x 1.52 core based on Snes9xNext.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 842,
+  "name": "Fallout 2 CE",
+  "author": "Northfear",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "FOUT00002",
+  "repo": "Northfear/fallout2-ce-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0842-fallout-2-ce.png",
+  "description": "Port of Fallout 2 for PSVITA based on a reverse engineering of the game called Fallout 2: Community Edition.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

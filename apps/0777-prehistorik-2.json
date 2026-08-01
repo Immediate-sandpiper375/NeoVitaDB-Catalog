@@ -1,0 +1,17 @@
+{
+  "id": 777,
+  "name": "Prehistorik 2",
+  "author": "gl33ntwine",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "PREHIST01",
+  "repo": "v-atamanenko/blues-vita",
+  "asset": "prehistorik-*.vpk",
+  "prerelease": false,
+  "icon": "0777-prehistorik-2.png",
+  "description": "Prehistorik 2 is a platformer where you control a neanderthal who must march through hostile pre-historic environments seeking food and keeping himself safe. Use your club to crush animal enemies, many of which then release bonus items to collect. Other bonus items are located around the levels, while yet more can be found by using your club creatively and adventurously.",
+  "requirements": "- Game Data Files: DOS",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 149,
+  "name": "RegistryEditor",
+  "author": "some1",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "REGEDIT01",
+  "repo": "some1psv/RegistryEditor",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0149-registryeditor.png",
+  "description": "Simple app that allows you to read and edit all registry settings in an organized manner. UI heavily based on TheFloW's VitaShell.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

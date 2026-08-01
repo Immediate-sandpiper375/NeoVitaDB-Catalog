@@ -1,0 +1,17 @@
+{
+  "id": 108,
+  "name": "PSVident",
+  "author": "Freakler",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "PSVIDENT0",
+  "repo": "Freakler/vita-PSVident",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0108-psvident.png",
+  "description": "Tool that bring all your Vita/PSTV info in to one place. App has a very nostalgic design for first PSP users, interface is looking very similar to well known PSPident application for PSP.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

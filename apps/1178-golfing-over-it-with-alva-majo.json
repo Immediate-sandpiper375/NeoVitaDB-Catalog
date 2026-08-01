@@ -1,0 +1,17 @@
+{
+  "id": 1178,
+  "name": "Golfing Over It with Alva Majo",
+  "author": "PatnosD",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "GOLF55533",
+  "repo": "PatnosDD/Golfing-Over-It-with-Alva-Majo-PS-VITA",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1178-golfing-over-it-with-alva-majo.png",
+  "description": "Golfing Over It with Alva Majo is a discouraging game about climbing a surreal mountain with a golf ball, a different take on 2017's hit Getting Over It with Bennett Foddy. Experience the challenge of climbing an unyielding mountain without infuriating controls being part of that challenge.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 504,
+  "name": "Vita Account Manager",
+  "author": "windsurfer1122",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "ACTM00003",
+  "repo": "windsurfer1122/Vita-Account-Manager",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0504-vita-account-manager.png",
+  "description": "Switch between multiple PSN/SEN accounts on a PS Vita or PSTV., handle execution history, dump console IDs, save and restore WLAN settings.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

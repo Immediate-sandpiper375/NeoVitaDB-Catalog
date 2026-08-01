@@ -1,0 +1,17 @@
+{
+  "id": 1307,
+  "name": "Rocky Castle Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "RKYCASTLE",
+  "repo": "Rinnegatamante/rocky-castle-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1307-rocky-castle-vita.png",
+  "description": "This is a wrapper/port of Rocky Castle for the PS Vita.\nThe port works by loading the official Android ARMv7 executables in memory, resolving their imports with native functions and patching it in order to properly run. By doing so, it's basically as if we emulate a minimalist Android environment in which we run natively the executables as they are.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

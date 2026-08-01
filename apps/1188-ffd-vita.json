@@ -1,0 +1,17 @@
+{
+  "id": 1188,
+  "name": "FFD-Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "FFDIMEN01",
+  "repo": "Rinnegatamante/ffd-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1188-ffd-vita.png",
+  "description": "This is a wrapper/port of Final Fantasy Dimensions for the PS Vita.\nThe port works by loading the official Android ARMv6 executables in memory, resolving its imports with native functions and patching it in order to properly run. By doing so, it's basically as if we emulate a minimalist Android environment in which we run natively the executable as is.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

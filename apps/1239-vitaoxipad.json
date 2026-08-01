@@ -1,0 +1,17 @@
+{
+  "id": 1239,
+  "name": "VitaOxiPad",
+  "author": "theSame & santarl & saidsay-so",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VOXIPAD01",
+  "repo": "DvaMishkiLapa/VitaOxiPad",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1239-vitaoxipad.png",
+  "description": "VitaOxiPad is a client-server application with the ability to connect your PS Vita to your PC via WiFi as if it were a DualShock 4 with support for all keys and triggers, accelerometer, gyroscope and touchpad. Windows and Linux are supported. ViGEmBus installation is required for Windows.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

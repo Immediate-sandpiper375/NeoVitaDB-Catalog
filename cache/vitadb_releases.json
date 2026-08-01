@@ -1,0 +1,3970 @@
+{
+  "01y/bstone-vita": {
+    "ok": true,
+    "tag": "0.3-vita",
+    "vpks": [
+      "bstone-0.3.vpk"
+    ]
+  },
+  "4brm01/Picture-Poker": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Ak1M1223/vitaliero": {
+    "ok": true,
+    "tag": "0.3",
+    "vpks": [
+      "openliero.vpk"
+    ]
+  },
+  "Andiweli/ZGloom-Vita-Vita2D": {
+    "ok": true,
+    "tag": "v08.2026",
+    "vpks": [
+      "ZGloomCollection.08.2026.vpk"
+    ]
+  },
+  "AntHJ/AppLocker": {
+    "ok": true,
+    "tag": "v1.2",
+    "vpks": [
+      "AppLocker-v1.2.vpk"
+    ]
+  },
+  "AntHJ/BopIt-Vita": {
+    "ok": true,
+    "tag": "v1",
+    "vpks": [
+      "BopIt.vpk"
+    ]
+  },
+  "AntHJ/Bubble-Recall": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "Bubble.Recall.vpk"
+    ]
+  },
+  "AntHJ/Custom-LiveArea": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "Custom.LiveArea.vpk"
+    ]
+  },
+  "AntHJ/Is-It-Fake": {
+    "ok": true,
+    "tag": "v2b",
+    "vpks": [
+      "IsItFake.vpk"
+    ]
+  },
+  "AntHJ/MVPlayer": {
+    "ok": true,
+    "tag": "v1.4",
+    "vpks": [
+      "MVPLAYER0.vpk"
+    ]
+  },
+  "AntHJ/Quick-Remounter": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "QuickRemounter.vpk"
+    ]
+  },
+  "AntHJ/Retroarch-Bubble-Builder": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "Retroarch.Bubble.Builder.vpk"
+    ]
+  },
+  "AntHJ/Squid-Game": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "Squid.Game.vpk"
+    ]
+  },
+  "AntHJ/Stock-App-Remover": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "Stock.App.Remover.vpk"
+    ]
+  },
+  "AntHJ/UX0toSD": {
+    "ok": true,
+    "tag": "v2.3",
+    "vpks": [
+      "UX0toSD_v2.3.vpk"
+    ]
+  },
+  "Applelo/SwitchSD2Vita": {
+    "ok": true,
+    "tag": "2.1",
+    "vpks": [
+      "switch_sd2vita.vpk"
+    ]
+  },
+  "Avellea/VitaTester": {
+    "ok": true,
+    "tag": "1.0",
+    "vpks": [
+      "VitaTester.vpk"
+    ]
+  },
+  "Avellea/mikuvu": {
+    "ok": true,
+    "tag": "1.8",
+    "vpks": [
+      "MikuVU_1.8.vpk"
+    ]
+  },
+  "Aztorius/vita-webradios": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "BlackSheepBoy69/HexFlow-Launcher-Unofficial-Custom": {
+    "ok": true,
+    "tag": "v2.9.1",
+    "vpks": [
+      "HexFlow.Custom.2.9.1.vpk"
+    ]
+  },
+  "Brendonm17/ACGC-Vita-Port": {
+    "ok": true,
+    "tag": "v0.4.1",
+    "vpks": [
+      "ac_vita.vpk"
+    ]
+  },
+  "Brendonm17/wagic-vita": {
+    "ok": true,
+    "tag": "v0.1.1",
+    "vpks": [
+      "wagic.vpk"
+    ]
+  },
+  "Bunkai9448/StackerVitaGodot": {
+    "ok": true,
+    "tag": "StackerVita-v.01.00",
+    "vpks": [
+      "Stacker.for.Vita.vpk"
+    ]
+  },
+  "BurAndBY/slendermanreturns_vita": {
+    "ok": true,
+    "tag": "v6",
+    "vpks": [
+      "slendermanreturns_v6.vpk"
+    ]
+  },
+  "CallmeBK/VitaBatteryAlarm": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "CaptainDreamcast/DolmexicaInfinite": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Ccoolguy/BitClickerVita": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "Ccoolguy/SnakeVita": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "CelloPoly314/CSPSV": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "CSPSP.vpk"
+    ]
+  },
+  "Codiak101/RegistryProfiler": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "RegistryProfiler.vpk"
+    ]
+  },
+  "Comet-Games/Worlds-Hardest-Game-Vita": {
+    "ok": false,
+    "reason": "only prereleases"
+  },
+  "Cpasjuste/SDLPoP": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Cpasjuste/pemu": {
+    "ok": true,
+    "tag": "v7.1",
+    "vpks": [
+      "pfbneo.vpk",
+      "pgba.vpk",
+      "pgen.vpk",
+      "pnes.vpk",
+      "psnes.vpk"
+    ]
+  },
+  "Cpasjuste/sillytower": {
+    "ok": true,
+    "tag": "1.3",
+    "vpks": [
+      "SillyTower-1.3.vpk"
+    ]
+  },
+  "Cpasjuste/vopentyrian": {
+    "ok": true,
+    "tag": "16-09-19",
+    "vpks": [
+      "vOpenTiryan-16-09-19.vpk"
+    ]
+  },
+  "Creckeryop/CookieClicker-Vita": {
+    "ok": false,
+    "reason": "only prereleases"
+  },
+  "Creckeryop/Flappy-Bird-Classic-vita": {
+    "ok": true,
+    "tag": "v1.21",
+    "vpks": [
+      "FBClassic.vpk"
+    ]
+  },
+  "Creckeryop/MSweep": {
+    "ok": true,
+    "tag": "v1.2.1",
+    "vpks": [
+      "MSweep.vpk"
+    ]
+  },
+  "Creckeryop/NOBORU": {
+    "ok": true,
+    "tag": "0.911",
+    "vpks": [
+      "Noboru.vpk"
+    ]
+  },
+  "Creckeryop/PiCrest": {
+    "ok": true,
+    "tag": "1.15",
+    "vpks": [
+      "PiCrest.vpk"
+    ]
+  },
+  "Creckeryop/VitaGraphs": {
+    "ok": true,
+    "tag": "0010",
+    "vpks": [
+      "VitaGraphs.vpk"
+    ]
+  },
+  "CrossCraft/CrossCraft-Classic": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "CrossCraft/CrossCraft-SurvivalTest": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "D3fau4/Helltaker-switch": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "D5C85B13876B8/hbb": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "DRok17/Log-Reset-for-YYL": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "YYLLOGDEL.vpk"
+    ]
+  },
+  "DRok17/QuickLaunch-Installer": {
+    "ok": true,
+    "tag": "v1.4",
+    "vpks": [
+      "QLINSTLPP.vpk"
+    ]
+  },
+  "Daexxxx/Balatro-Vita": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "Dane64/ConnectFour": {
+    "ok": true,
+    "tag": "1.00",
+    "vpks": [
+      "C4.vpk"
+    ]
+  },
+  "Dane64/MaDn": {
+    "ok": true,
+    "tag": "1.0",
+    "vpks": [
+      "MaDn.vpk"
+    ]
+  },
+  "Dane64/VitOut": {
+    "ok": true,
+    "tag": "2.0",
+    "vpks": [
+      "VitOut.vpk"
+    ]
+  },
+  "Day-OS/green-vita": {
+    "ok": true,
+    "tag": "v0.1.8",
+    "vpks": [
+      "green-vita.vpk"
+    ]
+  },
+  "Decomius/ccleste-vita": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "ccleste-vita.vpk"
+    ]
+  },
+  "Digital33Studios/minotaur": {
+    "ok": true,
+    "tag": "v1.5",
+    "vpks": [
+      "Minotaur.VPK"
+    ]
+  },
+  "Digital33Studios/sakurapass": {
+    "ok": true,
+    "tag": "v.075",
+    "vpks": [
+      "SakuraPass.VPK"
+    ]
+  },
+  "DrDecki/Aleph-One-Marathon-Trilogy-PsVita-": {
+    "ok": true,
+    "tag": "AlephOneVita1.4",
+    "vpks": [
+      "alephone.vpk"
+    ]
+  },
+  "DrakonPL/JellyCar": {
+    "ok": true,
+    "tag": "1.1",
+    "vpks": [
+      "JellyCarVita.vpk"
+    ]
+  },
+  "DraxTube/chexquest-vita": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "DvaMishkiLapa/VitaOxiPad": {
+    "ok": true,
+    "tag": "v1.3.0",
+    "vpks": [
+      "VitaOxiPad.vpk"
+    ]
+  },
+  "DvaMishkiLapa/biplanes-revival-vita": {
+    "ok": true,
+    "tag": "v1.2.1-fix1",
+    "vpks": [
+      "BiplanesRevival.vpk"
+    ]
+  },
+  "EK720/MikuVU": {
+    "ok": true,
+    "tag": "v1.6",
+    "vpks": [
+      "MikuVU_1.6.vpk"
+    ]
+  },
+  "EasyRPG/Player": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "Electric1447/EasyVPK": {
+    "ok": true,
+    "tag": "v2.1.0",
+    "vpks": [
+      "easyvpk.vpk"
+    ]
+  },
+  "Electric1447/Vita-DVD-Screensaver": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "dvd_screensaver.vpk"
+    ]
+  },
+  "Electric1447/lcd-color-saturation": {
+    "ok": true,
+    "tag": "v1.2.0",
+    "vpks": [
+      "lcdsat.vpk"
+    ]
+  },
+  "Electry/nfshp_vita": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "NFSHP.vpk"
+    ]
+  },
+  "EliCrystal2001/CrystalArchiver": {
+    "ok": true,
+    "tag": "v1.1",
+    "vpks": [
+      "CrystalArchiver.vpk"
+    ]
+  },
+  "EliCrystal2001/CrystalPSM": {
+    "ok": true,
+    "tag": "v2",
+    "vpks": [
+      "CrystalPSM.vpk"
+    ]
+  },
+  "Eyeman420/rePatch-Manager": {
+    "ok": true,
+    "tag": "v1.10",
+    "vpks": [
+      "rePatch.Manager.vpk"
+    ]
+  },
+  "Eywa186/FakeName-Changer-For-PSVita": {
+    "ok": true,
+    "tag": "v2.1",
+    "vpks": [
+      "FakeNameChanger_v2.1.vpk"
+    ]
+  },
+  "FWGS/xash3d-fwgs": {
+    "ok": false,
+    "reason": "only prereleases"
+  },
+  "Fimo4ka/Linne-PSVita-port": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "Freakler/vita-AdrenalineEasyInstaller": {
+    "ok": true,
+    "tag": "v1.15",
+    "vpks": [
+      "AdrenalineEasyInstaller_v115.vpk"
+    ]
+  },
+  "Freakler/vita-ConsoleID": {
+    "ok": true,
+    "tag": "1.00",
+    "vpks": [
+      "ConsoleID_v100.vpk"
+    ]
+  },
+  "Freakler/vita-Fingerprint": {
+    "ok": false,
+    "reason": "only prereleases"
+  },
+  "Freakler/vita-PSVident": {
+    "ok": true,
+    "tag": "0.43",
+    "vpks": [
+      "PSVident_v043.vpk"
+    ]
+  },
+  "Freakler/vita-uriCaller": {
+    "ok": true,
+    "tag": "0.1",
+    "vpks": [
+      "uriCaller.vpk"
+    ]
+  },
+  "G333333/RPPHS": {
+    "ok": true,
+    "tag": "v1.2",
+    "vpks": [
+      "RPPHS.vpk"
+    ]
+  },
+  "GUIDOBOT/milieTetris": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Grarak/DSVita": {
+    "ok": true,
+    "tag": "0.9.4",
+    "vpks": [
+      "dsvita.vpk"
+    ]
+  },
+  "Grimiku/Cradle-Song-Vita": {
+    "ok": true,
+    "tag": "Latest",
+    "vpks": [
+      "Cradle.Song.Vita-00.98.vpk"
+    ]
+  },
+  "Grimiku/Junipers-Knot-Vita": {
+    "ok": true,
+    "tag": "Latest",
+    "vpks": [
+      "Juniper.s.Knot-00.99.vpk"
+    ]
+  },
+  "Grzybojad/Pingo": {
+    "ok": true,
+    "tag": "2.1",
+    "vpks": [
+      "Pingo.vpk"
+    ]
+  },
+  "Grzybojad/vitaSnake": {
+    "ok": true,
+    "tag": "v1.5",
+    "vpks": [
+      "vitaSnake.vpk"
+    ]
+  },
+  "Grzybojad/wiiero-vita": {
+    "ok": true,
+    "tag": "1.2",
+    "vpks": [
+      "wiiero.vpk"
+    ]
+  },
+  "Gustavo3211/SuperMarioBros-C-Vita": {
+    "ok": true,
+    "tag": "0.1",
+    "vpks": [
+      "smbc.vpk"
+    ]
+  },
+  "Hammerill/uMario_Vita": {
+    "ok": true,
+    "tag": "1.00",
+    "vpks": [
+      "uMario.vpk"
+    ]
+  },
+  "HarommelRabbid/BetterQRScanner": {
+    "ok": true,
+    "tag": "24-07-25",
+    "vpks": [
+      "Better.QR.Scanner.vpk"
+    ]
+  },
+  "HarommelRabbid/LifeLua": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "HarommelRabbid/VitaSokoban": {
+    "ok": true,
+    "tag": "02-11-25",
+    "vpks": [
+      "Vita.Sokoban.vpk"
+    ]
+  },
+  "Hydr8gon/NooDS": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "Ibrahim778/BetterHomebrewBrowser": {
+    "ok": true,
+    "tag": "V1.45",
+    "vpks": [
+      "BetterHomebrewBrowser.vpk"
+    ]
+  },
+  "Imroy/VitaBrot": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "InvalidExcepti0n/BreakVeetOut": {
+    "ok": true,
+    "tag": "v0.3",
+    "vpks": [
+      "BreakVeetOut_v0.3.vpk"
+    ]
+  },
+  "ItsDeidara/FTPlaystation": {
+    "ok": true,
+    "tag": "0.1",
+    "vpks": [
+      "FTPlaystation.vpk"
+    ]
+  },
+  "JJH47E/MemoryGame": {
+    "ok": true,
+    "tag": "1.0",
+    "vpks": [
+      "MemoryGame1.0.vpk"
+    ]
+  },
+  "JJH47E/snake": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "JeffRuLz/OpenHCL": {
+    "ok": true,
+    "tag": "untagged-289a342ec6863598160c",
+    "vpks": [
+      "OpenHCL_Vita.vpk"
+    ]
+  },
+  "JoseTomasTocino/freegemas": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "Jyotiraditya-Samal/Vitawave": {
+    "ok": true,
+    "tag": "v1.0.0-stable",
+    "vpks": [
+      "VitaWave.vpk"
+    ]
+  },
+  "Keriew/augustus": {
+    "ok": true,
+    "tag": "v4.0.0",
+    "vpks": [
+      "augustus-4.0.0-vita.vpk"
+    ]
+  },
+  "KimsoftStudio/asteroidsvh": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "Kirezar/EasySwitchVita": {
+    "ok": true,
+    "tag": "1.0",
+    "vpks": [
+      "EasySwitchVita.vpk"
+    ]
+  },
+  "Kirezar/VitaGrafixConfigurator": {
+    "ok": true,
+    "tag": "v3.0",
+    "vpks": [
+      "VitaGrafixConfigurator.vpk"
+    ]
+  },
+  "LaGaipaG/vitaAirHockey": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Lapy055/Save_the_Scene": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "LnlyPie/Evie-Vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Lordchickenblaster/Crazy-Cattle-Vita": {
+    "ok": true,
+    "tag": "1.4",
+    "vpks": [
+      "CC3DV1.4.vpk"
+    ]
+  },
+  "LukeZGD/DDLC-LOVE": {
+    "ok": true,
+    "tag": "v1.2.3",
+    "vpks": [
+      "DDLC-LOVE.vpk"
+    ]
+  },
+  "LumenTuoma/RTDink": {
+    "ok": true,
+    "tag": "1.3.1",
+    "vpks": [
+      "RTDink.vpk"
+    ]
+  },
+  "MDashK/Flop-Rocket-Vita": {
+    "ok": true,
+    "tag": "v1.0.0",
+    "vpks": [
+      "FLOP_ROCKET.VPK"
+    ]
+  },
+  "MDashK/Galactic-Missile-Defense-Vita": {
+    "ok": true,
+    "tag": "v1.0.0",
+    "vpks": [
+      "GAMIDEF00.VPK"
+    ]
+  },
+  "MDashK/Sonic-2-SMS-Remake-Vita": {
+    "ok": true,
+    "tag": "v2.9.2-vita",
+    "vpks": [
+      "SOSR00002.VPK"
+    ]
+  },
+  "MDashK/cook-serve-delicious-vita": {
+    "ok": true,
+    "tag": "v1.0.0",
+    "vpks": [
+      "CSDLICIUS.VPK"
+    ]
+  },
+  "MDashK/sonic-1-sms-remake-vita": {
+    "ok": true,
+    "tag": "v1.9.2-vita",
+    "vpks": [
+      "SOSR00001.VPK"
+    ]
+  },
+  "MEGAgameBoy/I-Wanna-Reach-The-Unity-PS-Vita-Port": {
+    "ok": true,
+    "tag": "1.0",
+    "vpks": [
+      "iwrtu.vpk"
+    ]
+  },
+  "MEGAgameBoy/Italian-Plumber-Adventures-PS-Vita": {
+    "ok": true,
+    "tag": "1.1",
+    "vpks": [
+      "ipa.vpk"
+    ]
+  },
+  "MEGAgameBoy/Sonic-Time-Twisted-PS-Vita-Port": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "MEGAgameBoy/Super-Mario-Boom-PS-Vita-Port": {
+    "ok": true,
+    "tag": "1.0",
+    "vpks": [
+      "smb1.0.VPK"
+    ]
+  },
+  "MEGAgameBoy/Super-Mario-UniMaker-PS-Vita-Port": {
+    "ok": true,
+    "tag": "1.2.3.4",
+    "vpks": [
+      "unimaker.vpk"
+    ]
+  },
+  "Macperek/PixelChess": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "PixelChess.vpk"
+    ]
+  },
+  "McCallum99/PSVitaRebootShutdown": {
+    "ok": true,
+    "tag": "v1.08",
+    "vpks": [
+      "VitaRebootShutdown.vpk"
+    ]
+  },
+  "Mips96/Trogdor-Reburninated": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "Mode8fx/SuDokuL": {
+    "ok": true,
+    "tag": "v1.5",
+    "vpks": [
+      "SuDokuL-v1.5-vita.vpk"
+    ]
+  },
+  "Mode8fx/blockamok": {
+    "ok": true,
+    "tag": "v1.21",
+    "vpks": [
+      "BlockamokRemix-v1.2-vita.vpk"
+    ]
+  },
+  "MuukalainenPuhuu/Vita-MH-DH": {
+    "ok": true,
+    "tag": "1.1",
+    "vpks": [
+      "MHDH.vpk"
+    ]
+  },
+  "MyLegGuy/Higurashi-Vita": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "MyLegGuy/MangaDownloader-Vita": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "NamelessGhoul0/PSVibe": {
+    "ok": true,
+    "tag": "v2-final",
+    "vpks": [
+      "PSVibe.v2-final.vpk"
+    ]
+  },
+  "NamelessGhoul0/VitaPong": {
+    "ok": true,
+    "tag": "v1.10",
+    "vpks": [
+      "Pong.vpk"
+    ]
+  },
+  "NamelessGhoul0/VitaScreenFlasher": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "NamelessGhoul0/VitaTester": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "NandXor96/gravity_hunters_vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Narwher/Howard": {
+    "ok": true,
+    "tag": "0.1a",
+    "vpks": [
+      "Howard.VPK"
+    ]
+  },
+  "NathanKewley/godot_save_the_bees": {
+    "ok": true,
+    "tag": "release-v0.0.2",
+    "vpks": [
+      "SaveTheBees.vpk"
+    ]
+  },
+  "NekoMimiOfficial/NekoDrome": {
+    "ok": true,
+    "tag": "v1.01",
+    "vpks": [
+      "nekodrome.vpk"
+    ]
+  },
+  "NeoLTK/VITAPluginsManager": {
+    "ok": true,
+    "tag": "0.6",
+    "vpks": [
+      "VITAPluginsManager.vpk"
+    ]
+  },
+  "Nevak/bgda-vita": {
+    "ok": true,
+    "tag": "v1.06",
+    "vpks": [
+      "bgda.vpk"
+    ]
+  },
+  "Northfear/Commander-Genius": {
+    "ok": true,
+    "tag": "v3.0.9-vita.2",
+    "vpks": [
+      "CommanderGenius.vpk"
+    ]
+  },
+  "Northfear/OpenXcom-vita": {
+    "ok": true,
+    "tag": "v.7.10.0-vita.1",
+    "vpks": [
+      "oxce.vpk"
+    ]
+  },
+  "Northfear/Vanilla-Conquer-vita": {
+    "ok": true,
+    "tag": "v1.0-r914",
+    "vpks": [
+      "vanillara.vpk",
+      "vanillatd.vpk"
+    ]
+  },
+  "Northfear/dunelegacy-vita": {
+    "ok": true,
+    "tag": "0.97.02-vita.1",
+    "vpks": [
+      "dunelegacy.vpk"
+    ]
+  },
+  "Northfear/fallout1-ce-vita": {
+    "ok": true,
+    "tag": "v1.1.0-vita.4",
+    "vpks": [
+      "fallout-ce.vpk"
+    ]
+  },
+  "Northfear/fallout2-ce-vita": {
+    "ok": true,
+    "tag": "v1.3.0-vita.8",
+    "vpks": [
+      "fallout2-ce.vpk"
+    ]
+  },
+  "Northfear/gemrb-vita": {
+    "ok": true,
+    "tag": "v0.8.8-vita.7",
+    "vpks": [
+      "gemrb.vpk"
+    ]
+  },
+  "Northfear/homm3hd-vita": {
+    "ok": true,
+    "tag": "v1.2.3",
+    "vpks": [
+      "HOMM3.vpk"
+    ]
+  },
+  "Northfear/rottexpr-vita": {
+    "ok": true,
+    "tag": "v1.0-vita.1",
+    "vpks": [
+      "rottexpr.vpk"
+    ]
+  },
+  "Northfear/stratagus-vita": {
+    "ok": true,
+    "tag": "v3.3.2-vita.3",
+    "vpks": [
+      "stratagus.vpk"
+    ]
+  },
+  "Northfear/systemshock-vita": {
+    "ok": true,
+    "tag": "v0.8.2-vita.1",
+    "vpks": [
+      "systemshock.vpk"
+    ]
+  },
+  "OrbitalFlagStudio/VitaGamesReleases": {
+    "ok": true,
+    "tag": "fast-areas.NEON.v1.0.1",
+    "vpks": [
+      "fast-areas.NEON.-.Vita.Edition.-.Release.1.0.1.vpk"
+    ]
+  },
+  "OsirizX/REDRIVER2": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "OsirizX/ShaRKF00D": {
+    "ok": true,
+    "tag": "1.3",
+    "vpks": [
+      "ShaRKF00D.vpk"
+    ]
+  },
+  "ParallelProductions/FarawaySpace": {
+    "ok": true,
+    "tag": "Vita-v0.1b",
+    "vpks": [
+      "Faraway.Space.vpk"
+    ]
+  },
+  "ParallelProductions/Lango_GodotRPG-Vita": {
+    "ok": true,
+    "tag": "v0.1.0-vita",
+    "vpks": [
+      "Lango.vpk"
+    ]
+  },
+  "ParallelProductions/godot-2d-space-game-PSVita": {
+    "ok": true,
+    "tag": "v0.1.0",
+    "vpks": [
+      "Harvester.vpk"
+    ]
+  },
+  "ParallelProductions/super-dungeon-delve-vita": {
+    "ok": true,
+    "tag": "v1.0.1-vita.2",
+    "vpks": [
+      "Dungeon.UI.Update.vpk"
+    ]
+  },
+  "PatnosDD/Cat-Quest-Ps-Vita": {
+    "ok": true,
+    "tag": "V1.0",
+    "vpks": [
+      "CatQuest.vpk"
+    ]
+  },
+  "PatnosDD/Coffee-Talk-PS-VITA": {
+    "ok": true,
+    "tag": "Release",
+    "vpks": [
+      "coffeetalk.vpk"
+    ]
+  },
+  "PatnosDD/Cuphead-PS-VITA": {
+    "ok": true,
+    "tag": "V0.82",
+    "vpks": [
+      "Cuphead.vpk"
+    ]
+  },
+  "PatnosDD/Golfing-Over-It-with-Alva-Majo-PS-VITA": {
+    "ok": true,
+    "tag": "Release",
+    "vpks": [
+      "GolfingOverIt.vpk"
+    ]
+  },
+  "PatnosDD/Hollow-Knight-PsVita": {
+    "ok": true,
+    "tag": "0.81",
+    "vpks": [
+      "HollowKnight.vpk"
+    ]
+  },
+  "PatnosDD/Keep-In-Mind-Remastered-PS-VITA": {
+    "ok": true,
+    "tag": "Release",
+    "vpks": [
+      "KeepInMindRemastered.vpk"
+    ]
+  },
+  "PatnosDD/Night-In-The-Woods-PS-VITA": {
+    "ok": true,
+    "tag": "Release",
+    "vpks": [
+      "NightInTheWoods.vpk"
+    ]
+  },
+  "PatnosDD/Punch-Club-Ps-Vita": {
+    "ok": true,
+    "tag": "V1.0",
+    "vpks": [
+      "PunchClub.vpk"
+    ]
+  },
+  "PatnosDD/Pureya-PS-VITA": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "pureya.vpk"
+    ]
+  },
+  "PatnosDD/Unsighted-Ps-Vita": {
+    "ok": true,
+    "tag": "V0.3",
+    "vpks": [
+      "Unsighted.vpk"
+    ]
+  },
+  "Princess-of-Sleeping/Crash-Dump-Delete": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "Princess-of-Sleeping/PSV-PUP-Extractor": {
+    "ok": true,
+    "tag": "1.3",
+    "vpks": [
+      "PUP-Extractor.vpk"
+    ]
+  },
+  "PuppetHuggerDX/Kare-wa-Kanojo-PS-Vita-Port": {
+    "ok": true,
+    "tag": "v01.00",
+    "vpks": [
+      "Kare.wa.Kanojo-01.00.vpk"
+    ]
+  },
+  "RaycGaming/SculptorVita": {
+    "ok": true,
+    "tag": "v1.1",
+    "vpks": [
+      "Sculptor-1.-1.vpk"
+    ]
+  },
+  "RegularCharacter07/SuperMegaRunnersVita": {
+    "ok": true,
+    "tag": "1.0",
+    "vpks": [
+      "smrun.vpk"
+    ]
+  },
+  "RetroGamer74/Kill-em-All": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "RetroGamer74/SuperPixelRun": {
+    "ok": true,
+    "tag": "1.0",
+    "vpks": [
+      "buildspr.vpk"
+    ]
+  },
+  "Rinnegatamante/2ship2harkinian": {
+    "ok": true,
+    "tag": "v.1.2",
+    "vpks": [
+      "2ship2harkinian.vpk"
+    ]
+  },
+  "Rinnegatamante/32secs_vita": {
+    "ok": true,
+    "tag": "v.0.8",
+    "vpks": [
+      "32secs.vpk"
+    ]
+  },
+  "Rinnegatamante/AbbayeDesMorts-Vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/Aerofoil-Vita": {
+    "ok": true,
+    "tag": "v.1.0",
+    "vpks": [
+      "Aerofoil.vpk"
+    ]
+  },
+  "Rinnegatamante/Alisa-Vita": {
+    "ok": true,
+    "tag": "v.1.2",
+    "vpks": [
+      "alisa.vpk"
+    ]
+  },
+  "Rinnegatamante/AntiBlacklist": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/AvP-Gold-Vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/BillyFrontier": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/Bugdom2": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/CandyCrisis": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/CroMagRally": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/DaedalusX64-vitaGL": {
+    "ok": true,
+    "tag": "Nightly",
+    "vpks": [
+      "DaedalusX64.vpk"
+    ]
+  },
+  "Rinnegatamante/Death-Road-to-Canada-Lite": {
+    "ok": true,
+    "tag": "v.1.0",
+    "vpks": [
+      "Canada.vpk"
+    ]
+  },
+  "Rinnegatamante/Doom64EX": {
+    "ok": true,
+    "tag": "v.1.0.1",
+    "vpks": [
+      "Doom64EX.vpk"
+    ]
+  },
+  "Rinnegatamante/DoomIIRPG-RE": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/DstroyVita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/EDuke32-Vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/Ghostship": {
+    "ok": true,
+    "tag": "v.1.2",
+    "vpks": [
+      "Ghostship.vpk"
+    ]
+  },
+  "Rinnegatamante/HCL-Vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/Into-The-Breach-Vita": {
+    "ok": true,
+    "tag": "v.1.0",
+    "vpks": [
+      "breach.vpk"
+    ]
+  },
+  "Rinnegatamante/Isotope-244-Collection": {
+    "ok": true,
+    "tag": "v.1.0",
+    "vpks": [
+      "isotope.vpk"
+    ]
+  },
+  "Rinnegatamante/K.E.T.M.-Vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/MicroCHIP": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/MightyMike": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/MinicraftVita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/NRedneck-Vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/Nanosaur": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/Nanosaur2": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/NumptyPhysics-Vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/OpenFMV": {
+    "ok": true,
+    "tag": "v.1.0-ls",
+    "vpks": [
+      "lateshift.vpk"
+    ]
+  },
+  "Rinnegatamante/OpenMRac": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/OpenSyobon-Vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/OttoMatic": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/Pekka-Kana-2-Vita": {
+    "ok": true,
+    "tag": "v.1.0",
+    "vpks": [
+      "Pekka2.vpk"
+    ]
+  },
+  "Rinnegatamante/Poppy-Kart-Collection": {
+    "ok": true,
+    "tag": "v.1.0",
+    "vpks": [
+      "PoppyKart.vpk"
+    ]
+  },
+  "Rinnegatamante/PostalVita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/Quakespasm": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/RetroLivearea": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/RigelEngine": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/ShaRKBR33D": {
+    "ok": true,
+    "tag": "v.1.2",
+    "vpks": [
+      "ShaRKBR33D.vpk"
+    ]
+  },
+  "Rinnegatamante/Shipwright": {
+    "ok": true,
+    "tag": "v.1.2",
+    "vpks": [
+      "soh.vpk"
+    ]
+  },
+  "Rinnegatamante/SpaghettiKart": {
+    "ok": true,
+    "tag": "v.1.1",
+    "vpks": [
+      "spaghetti.vpk"
+    ]
+  },
+  "Rinnegatamante/Starship": {
+    "ok": true,
+    "tag": "v.1.0",
+    "vpks": [
+      "Starship.vpk"
+    ]
+  },
+  "Rinnegatamante/UT99-Vita": {
+    "ok": true,
+    "tag": "v.0.8",
+    "vpks": [
+      "ut99.vpk"
+    ]
+  },
+  "Rinnegatamante/UnityBubbleGame": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/VitaDB-Downloader": {
+    "ok": true,
+    "tag": "v.2.5",
+    "vpks": [
+      "VitaDB.vpk"
+    ]
+  },
+  "Rinnegatamante/VitaPad": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/WolfensteinRPG-RE": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/ZeldaOLB": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/abuse-vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/afterburner-vita": {
+    "ok": true,
+    "tag": "v.1.1",
+    "vpks": [
+      "afterburner.vpk"
+    ]
+  },
+  "Rinnegatamante/anomaly-defenders_vita": {
+    "ok": true,
+    "tag": "v.1.1",
+    "vpks": [
+      "anomaly_defenders.vpk"
+    ]
+  },
+  "Rinnegatamante/anomaly-korea_vita": {
+    "ok": true,
+    "tag": "v.1.2",
+    "vpks": [
+      "anomaly_korea.vpk"
+    ]
+  },
+  "Rinnegatamante/anomaly-we_vita": {
+    "ok": true,
+    "tag": "v.1.2",
+    "vpks": [
+      "anomaly.vpk"
+    ]
+  },
+  "Rinnegatamante/anomaly2_vita": {
+    "ok": true,
+    "tag": "v.1.2",
+    "vpks": [
+      "anomaly2.vpk"
+    ]
+  },
+  "Rinnegatamante/babel-vita": {
+    "ok": true,
+    "tag": "v.1.0",
+    "vpks": [
+      "babel.vpk"
+    ]
+  },
+  "Rinnegatamante/beat2x-vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/d3es-vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/dariusburst-vita": {
+    "ok": true,
+    "tag": "v.1.0",
+    "vpks": [
+      "dariusburst.vpk"
+    ]
+  },
+  "Rinnegatamante/desertgolfing_vita": {
+    "ok": true,
+    "tag": "v.1.0",
+    "vpks": [
+      "desertgolfing.vpk"
+    ]
+  },
+  "Rinnegatamante/dethrace": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/eldritch-vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/enbornx_vita": {
+    "ok": true,
+    "tag": "v.1.0",
+    "vpks": [
+      "enbornx.vpk"
+    ]
+  },
+  "Rinnegatamante/fahrenheit-vita": {
+    "ok": true,
+    "tag": "v.0.9.1",
+    "vpks": [
+      "Fahrenheit.vpk"
+    ]
+  },
+  "Rinnegatamante/ff4_vita": {
+    "ok": true,
+    "tag": "v.1.3.1",
+    "vpks": [
+      "FF4.vpk"
+    ]
+  },
+  "Rinnegatamante/ff4a_vita": {
+    "ok": true,
+    "tag": "v.1.0.1",
+    "vpks": [
+      "FF4AY.vpk"
+    ]
+  },
+  "Rinnegatamante/ffd-vita": {
+    "ok": true,
+    "tag": "v.1.2",
+    "vpks": [
+      "ffd.vpk"
+    ]
+  },
+  "Rinnegatamante/fink_vita": {
+    "ok": true,
+    "tag": "v.1.0",
+    "vpks": [
+      "fink.vpk"
+    ]
+  },
+  "Rinnegatamante/flappy-nyan-vita": {
+    "ok": true,
+    "tag": "v.1.0",
+    "vpks": [
+      "flappy.vpk"
+    ]
+  },
+  "Rinnegatamante/flare-engine": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/flycast-vita": {
+    "ok": true,
+    "tag": "v.1.1",
+    "vpks": [
+      "Flycast.vpk"
+    ]
+  },
+  "Rinnegatamante/freespace-vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/freeways-vita": {
+    "ok": true,
+    "tag": "v.1.0",
+    "vpks": [
+      "freeways.vpk"
+    ]
+  },
+  "Rinnegatamante/funky_vita": {
+    "ok": true,
+    "tag": "v.1.1",
+    "vpks": [
+      "funky.vpk"
+    ]
+  },
+  "Rinnegatamante/goo_vita": {
+    "ok": true,
+    "tag": "v.1.2.1",
+    "vpks": [
+      "GOO.vpk"
+    ]
+  },
+  "Rinnegatamante/hassey-collection": {
+    "ok": true,
+    "tag": "v.0.9",
+    "vpks": [
+      "hassey.vpk"
+    ]
+  },
+  "Rinnegatamante/hazard-vita": {
+    "ok": true,
+    "tag": "v.1.1",
+    "vpks": [
+      "hazard.vpk"
+    ]
+  },
+  "Rinnegatamante/hrm-vita": {
+    "ok": true,
+    "tag": "v.1.3.1",
+    "vpks": [
+      "HRM.vpk"
+    ]
+  },
+  "Rinnegatamante/jetcarstunts_vita": {
+    "ok": true,
+    "tag": "v.1.0",
+    "vpks": [
+      "jetcarstunts.vpk"
+    ]
+  },
+  "Rinnegatamante/jfblood": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/jfduke3d-vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/jfsw-vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/jftekwar": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/layton-vita": {
+    "ok": true,
+    "tag": "v.1.1",
+    "vpks": [
+      "layton.vpk"
+    ]
+  },
+  "Rinnegatamante/layton2-vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/layton3-vita": {
+    "ok": true,
+    "tag": "v.1.0",
+    "vpks": [
+      "layton3.vpk"
+    ]
+  },
+  "Rinnegatamante/lpp-vita": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "Rinnegatamante/mad-bullets-vita": {
+    "ok": true,
+    "tag": "v.1.1",
+    "vpks": [
+      "bullets.vpk"
+    ]
+  },
+  "Rinnegatamante/mcpixel-vita": {
+    "ok": true,
+    "tag": "v.1.1.1",
+    "vpks": [
+      "mcpixel.vpk"
+    ]
+  },
+  "Rinnegatamante/meritous-vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/nKaruga": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/neverball": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/not_a_hero-vita": {
+    "ok": true,
+    "tag": "v.1.0.1",
+    "vpks": [
+      "notahero.vpk"
+    ]
+  },
+  "Rinnegatamante/nyan-vita": {
+    "ok": true,
+    "tag": "v.1.0",
+    "vpks": [
+      "nyan.vpk"
+    ]
+  },
+  "Rinnegatamante/pang-vita": {
+    "ok": true,
+    "tag": "v.1.1",
+    "vpks": [
+      "pang.vpk"
+    ]
+  },
+  "Rinnegatamante/paper-train-vita": {
+    "ok": true,
+    "tag": "v.1.0",
+    "vpks": [
+      "papertrain.vpk"
+    ]
+  },
+  "Rinnegatamante/paper_rush-vita": {
+    "ok": true,
+    "tag": "v.1.0",
+    "vpks": [
+      "papertrainrush.vpk"
+    ]
+  },
+  "Rinnegatamante/partia-vita": {
+    "ok": true,
+    "tag": "v.1.0",
+    "vpks": [
+      "Partia.vpk"
+    ]
+  },
+  "Rinnegatamante/perfect_dark": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/pickleball_vita": {
+    "ok": true,
+    "tag": "v.1.0",
+    "vpks": [
+      "pickleball.vpk"
+    ]
+  },
+  "Rinnegatamante/prototype-vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/psv-qr-scanner": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/raider-vita": {
+    "ok": true,
+    "tag": "v.1.2",
+    "vpks": [
+      "Raider.vpk"
+    ]
+  },
+  "Rinnegatamante/rct-vita": {
+    "ok": true,
+    "tag": "v.1.0",
+    "vpks": [
+      "rct.vpk"
+    ]
+  },
+  "Rinnegatamante/relic-looter-vita": {
+    "ok": true,
+    "tag": "v.1.0",
+    "vpks": [
+      "relic.vpk"
+    ]
+  },
+  "Rinnegatamante/rinCheat": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "Rinnegatamante/rocky-castle-2-vita": {
+    "ok": true,
+    "tag": "v.1.0",
+    "vpks": [
+      "rocky2.vpk"
+    ]
+  },
+  "Rinnegatamante/rocky-castle-vita": {
+    "ok": true,
+    "tag": "v.1.1",
+    "vpks": [
+      "rocky.vpk"
+    ]
+  },
+  "Rinnegatamante/rolling-down-vita": {
+    "ok": true,
+    "tag": "v.1.0",
+    "vpks": [
+      "emoji.vpk"
+    ]
+  },
+  "Rinnegatamante/rrm-vita": {
+    "ok": true,
+    "tag": "v.1.0",
+    "vpks": [
+      "rrm.vpk"
+    ]
+  },
+  "Rinnegatamante/rvgl-vita": {
+    "ok": true,
+    "tag": "v.1.2",
+    "vpks": [
+      "RVGL.vpk"
+    ]
+  },
+  "Rinnegatamante/rvgl-vita-native": {
+    "ok": true,
+    "tag": "v.1.0",
+    "vpks": [
+      "RVGL.vpk"
+    ]
+  },
+  "Rinnegatamante/seven-vita": {
+    "ok": true,
+    "tag": "v.1.1",
+    "vpks": [
+      "billion.vpk"
+    ]
+  },
+  "Rinnegatamante/sleepwalkers-vita": {
+    "ok": true,
+    "tag": "v.1.2",
+    "vpks": [
+      "sleepwalkers.vpk"
+    ]
+  },
+  "Rinnegatamante/smashrush-vita": {
+    "ok": true,
+    "tag": "v.1.0",
+    "vpks": [
+      "smashrush.vpk"
+    ]
+  },
+  "Rinnegatamante/smb2se-vita": {
+    "ok": true,
+    "tag": "v.122",
+    "vpks": [
+      "smb2se.vpk"
+    ]
+  },
+  "Rinnegatamante/smw": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/smw-vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/soulcalibur_vita": {
+    "ok": true,
+    "tag": "v.1.1",
+    "vpks": [
+      "soulcalibur.vpk"
+    ]
+  },
+  "Rinnegatamante/superfluous-vita": {
+    "ok": true,
+    "tag": "v.0.5",
+    "vpks": [
+      "superfluous.vpk"
+    ]
+  },
+  "Rinnegatamante/swordigo-vita": {
+    "ok": true,
+    "tag": "v.1.1",
+    "vpks": [
+      "swordigo.vpk"
+    ]
+  },
+  "Rinnegatamante/thimbleweed-vita": {
+    "ok": true,
+    "tag": "v.1.2",
+    "vpks": [
+      "thimbleweed.vpk"
+    ]
+  },
+  "Rinnegatamante/toon-rescue-vita": {
+    "ok": true,
+    "tag": "v.0.8",
+    "vpks": [
+      "toon-rescue.vpk"
+    ]
+  },
+  "Rinnegatamante/ufoai": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/valiant-vita": {
+    "ok": true,
+    "tag": "v.1.1.1",
+    "vpks": [
+      "valiant.vpk"
+    ]
+  },
+  "Rinnegatamante/vitaExhumed": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/vitaHexenII": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/vitaQuake": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/vitaQuakeII": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/vitaQuakeIII": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/vitaRTCW": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/vitaVoyager": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/vitaWolfen": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/wipeout-rewrite": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/wordle_clone": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/yoyoloader_vita": {
+    "ok": true,
+    "tag": "Nightly",
+    "vpks": [
+      "YoYoLoader.vpk"
+    ]
+  },
+  "Rinnegatamante/zelda3": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/zikzak-vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rocroverss/A-Bite-at-Freddy-s-psvita": {
+    "ok": true,
+    "tag": "V1.01",
+    "vpks": [
+      "AbAF-v1.01.vpk"
+    ]
+  },
+  "Rocroverss/Dark-Lands-psvita": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "dla.vpk"
+    ]
+  },
+  "Rocroverss/Defender-II-PS-Vita-Port": {
+    "ok": true,
+    "tag": "v1.01",
+    "vpks": [
+      "defender2_vita_1.01.vpk"
+    ]
+  },
+  "Rocroverss/JumpKingGodot": {
+    "ok": true,
+    "tag": "v1.01",
+    "vpks": [
+      "JumpKing.vpk"
+    ]
+  },
+  "Rocroverss/The-legend-of-lumina-patch-psvita": {
+    "ok": true,
+    "tag": "first",
+    "vpks": [
+      "TLOL.vpk"
+    ]
+  },
+  "Rocroverss/Toziuha-Night-Dracula-s-Revenge-patch-psvita": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "Toziuha.Night.-.Dracula.s.Revenge.vpk"
+    ]
+  },
+  "Rocroverss/Untitled50-PSVita-android-port": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "UNTITLED50.vpk"
+    ]
+  },
+  "Rocroverss/katzenklein-redux-psvita-port": {
+    "ok": true,
+    "tag": "v1.0.reihen",
+    "vpks": [
+      "kkr.vpk"
+    ]
+  },
+  "Rocroverss/resolutiion-patch-psvita": {
+    "ok": true,
+    "tag": "v1.0.reihen",
+    "vpks": [
+      "Resolution.vpk"
+    ]
+  },
+  "SKGleba/CBS-Manager": {
+    "ok": true,
+    "tag": "v3.1",
+    "vpks": [
+      "cbs_manager.vpk"
+    ]
+  },
+  "SKGleba/IMCUnlockLite": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "SKGleba/PSP2-batteryFixer": {
+    "ok": true,
+    "tag": "v3.0.1",
+    "vpks": [
+      "batteryFixer.vpk"
+    ]
+  },
+  "SKGleba/VITA-NoAutoAvls": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "naavls.vpk"
+    ]
+  },
+  "SKGleba/VitaTools": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "SKGleba/enso_ex": {
+    "ok": true,
+    "tag": "v5.0",
+    "vpks": [
+      "enso_ex.vpk"
+    ]
+  },
+  "SKGleba/iTLS-Enso": {
+    "ok": true,
+    "tag": "v3.2.1",
+    "vpks": [
+      "iTLS-Enso.vpk"
+    ]
+  },
+  "SKGleba/yamt-vita": {
+    "ok": true,
+    "tag": "v4.0",
+    "vpks": [
+      "yamt.vpk"
+    ]
+  },
+  "Samuel85/Abbey": {
+    "ok": true,
+    "tag": "Vita_v1.0",
+    "vpks": [
+      "abbey_v1.0.vpk"
+    ]
+  },
+  "ScratchEverywhere/ScratchEverywhere": {
+    "ok": true,
+    "tag": "1.0",
+    "vpks": [
+      "scratch-vita.vpk"
+    ]
+  },
+  "SemvdH/cybershot-PSVita": {
+    "ok": false,
+    "reason": "only prereleases"
+  },
+  "Serph/PlumbersDontWearTies-SDL-vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "ShadowPrince/advremap": {
+    "ok": false,
+    "reason": "only prereleases"
+  },
+  "SilverCrow2323/HIKE-BACK-Vita": {
+    "ok": true,
+    "tag": "v.1.1",
+    "vpks": [
+      "HIKE.BACK-v1.1.vpk"
+    ]
+  },
+  "SilverCrow2323/Sakura-Succubus-2-Vita": {
+    "ok": true,
+    "tag": "v.1.1",
+    "vpks": [
+      "Sakura.Succubus.II-01.10.vpk"
+    ]
+  },
+  "SilverCrow2323/Sakura-Succubus-3-Vita": {
+    "ok": true,
+    "tag": "v.1.1",
+    "vpks": [
+      "Sakura.Succubus.III-v.1.1.vpk"
+    ]
+  },
+  "SilverCrow2323/Sakura-Succubus-4-Vita": {
+    "ok": true,
+    "tag": "v.1.1",
+    "vpks": [
+      "Sakura.Succubus.IV-01.10.vpk"
+    ]
+  },
+  "SilverCrow2323/Sakura-Succubus-Vita": {
+    "ok": true,
+    "tag": "v.1.1",
+    "vpks": [
+      "Sakura.Succubus-01.10.vpk"
+    ]
+  },
+  "SiulPop/Cars-vita": {
+    "ok": true,
+    "tag": "v1.2",
+    "vpks": [
+      "cars.VPK"
+    ]
+  },
+  "SiulPop/Spelunky.Classic.HD.VITA.": {
+    "ok": true,
+    "tag": "speunky.vita",
+    "vpks": [
+      "Spelunky-Classic.VPK"
+    ]
+  },
+  "SonicMastr/Contract-Demon-Vita": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "Contract.Demon-01.00.vpk"
+    ]
+  },
+  "SonicMastr/Doki-Doki-Literature-Club-Vita": {
+    "ok": true,
+    "tag": "v1.01",
+    "vpks": [
+      "Doki.Doki.Literature.Club-01.01.vpk"
+    ]
+  },
+  "SonicMastr/Mad-Bomber-Vita": {
+    "ok": true,
+    "tag": "1.0",
+    "vpks": [
+      "Mad_Bomber_Vita.vpk"
+    ]
+  },
+  "SonicMastr/Sonic-1-2-Vita": {
+    "ok": true,
+    "tag": "1.1.0",
+    "vpks": [
+      "Sonic1.vpk",
+      "Sonic2.vpk"
+    ]
+  },
+  "SonicMastr/Sonic-CD-Vita": {
+    "ok": true,
+    "tag": "0.2",
+    "vpks": [
+      "SonicCD.vpk"
+    ]
+  },
+  "SonicMastr/Sonic-Mania-Vita": {
+    "ok": true,
+    "tag": "1.1",
+    "vpks": [
+      "SonicMania.vpk"
+    ]
+  },
+  "SonicMastr/Vita-Media-Player": {
+    "ok": true,
+    "tag": "v1.01-PSTV",
+    "vpks": [
+      "VitaMediaPlayer-1080i.vpk"
+    ]
+  },
+  "SonicMastr/godot": {
+    "ok": true,
+    "tag": "3.5-rc5-vita1",
+    "vpks": [
+      "maximilien-adventure-godot-demo.vpk"
+    ]
+  },
+  "SoulTieGames/BoggleVita": {
+    "ok": true,
+    "tag": "Vita",
+    "vpks": [
+      "boggle_v2.0.VPK"
+    ]
+  },
+  "SpanishFreddy/Cut-The-Rope-Vita": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "SpanishFreddy/SanicBall-PSVita-Port": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "SpanishFreddy/Slither.io-Vita": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "SpanishFreddy/Sunshine-Cat-PSVita-Port": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "THEN00P/EasyPlugin": {
+    "ok": true,
+    "tag": "1.1.1",
+    "vpks": [
+      "easyplugin.vpk"
+    ]
+  },
+  "Tau5/mkrandom": {
+    "ok": true,
+    "tag": "1.00",
+    "vpks": [
+      "mkrandom.vpk"
+    ]
+  },
+  "Team789er/Car-Crossing-PSVita": {
+    "ok": true,
+    "tag": "1.0.0",
+    "vpks": [
+      "Classic.Car.Crossing.vpk"
+    ]
+  },
+  "Team789er/Fishpod-the-Platformer": {
+    "ok": true,
+    "tag": "1.0.0",
+    "vpks": [
+      "fishpod.vpk"
+    ]
+  },
+  "Tearff/shiromino": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "TheLostPantheon/ArxLibertatis": {
+    "ok": true,
+    "tag": "v1.003",
+    "vpks": [
+      "arx.vpk"
+    ]
+  },
+  "TheLostPantheon/openmw": {
+    "ok": true,
+    "tag": "V2.0",
+    "vpks": [
+      "openmw.vpk"
+    ]
+  },
+  "TheMorc/MilkyTrackerVita": {
+    "ok": true,
+    "tag": "1.03",
+    "vpks": [
+      "MilkyTracker.vpk"
+    ]
+  },
+  "TheOfficialFloW/Adrenaline": {
+    "ok": true,
+    "tag": "v7",
+    "vpks": [
+      "Adrenaline.vpk"
+    ]
+  },
+  "TheOfficialFloW/VitaShell": {
+    "ok": true,
+    "tag": "v2.02",
+    "vpks": [
+      "VitaShell.vpk"
+    ]
+  },
+  "TheOfficialFloW/bc2_vita": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "BC2.vpk"
+    ]
+  },
+  "TheOfficialFloW/bully_vita": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "Bully.vpk"
+    ]
+  },
+  "TheOfficialFloW/conduit_vita": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "CONDUIT.vpk"
+    ]
+  },
+  "TheOfficialFloW/crazytaxi_vita": {
+    "ok": true,
+    "tag": "v1.2",
+    "vpks": [
+      "CRAZYTAXI.vpk"
+    ]
+  },
+  "TheOfficialFloW/enso": {
+    "ok": true,
+    "tag": "v1.1",
+    "vpks": [
+      "enso.vpk"
+    ]
+  },
+  "TheOfficialFloW/gtactw_vita": {
+    "ok": true,
+    "tag": "v1.2",
+    "vpks": [
+      "GTACTW.vpk"
+    ]
+  },
+  "TheOfficialFloW/gtasa_vita": {
+    "ok": true,
+    "tag": "v2.1",
+    "vpks": [
+      "GTASA.vpk"
+    ]
+  },
+  "TheOfficialFloW/modoru": {
+    "ok": true,
+    "tag": "v2.3",
+    "vpks": [
+      "modoru.vpk"
+    ]
+  },
+  "TheOfficialFloW/twom_vita": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "TWOM.vpk"
+    ]
+  },
+  "TheXTech/TheXTech": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "VMHoss/Innyume-Vita": {
+    "ok": false,
+    "reason": "only prereleases"
+  },
+  "VegettoSan/Halo2D_PsVita": {
+    "ok": true,
+    "tag": "1.76",
+    "vpks": [
+      "Halo2D.vpk"
+    ]
+  },
+  "VitaHEX-Games/Consolepedia-3D": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "Voxel9/Stem-Loader": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "Voxel9/VitaDL": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "WeegeeDEVELOPER/uMario-PSVita-Port": {
+    "ok": true,
+    "tag": "1.2.7",
+    "vpks": [
+      "uMario.vpk"
+    ]
+  },
+  "WolffsRoom/BeachBuggyRacing-Vita": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "BeachBuggyRacing.Vita-v1.0.vpk"
+    ]
+  },
+  "WolffsRoom/DeltaruneVita": {
+    "ok": true,
+    "tag": "v0.64",
+    "vpks": [
+      "Deltarune-v0.64.vpk"
+    ]
+  },
+  "WolffsRoom/FMVita": {
+    "ok": true,
+    "tag": "v0.6.1",
+    "vpks": [
+      "FileManager_v0.6.1.vpk"
+    ]
+  },
+  "WolffsRoom/GoldenIdol-PSVita": {
+    "ok": true,
+    "tag": "v0.8.7",
+    "vpks": [
+      "GoldenIdol-Vita-v0.8.7.vpk"
+    ]
+  },
+  "WolffsRoom/MotherEncore-PSVita": {
+    "ok": true,
+    "tag": "v0.2b",
+    "vpks": [
+      "MotherEncore-Vita-v0.2b.vpk"
+    ]
+  },
+  "WolffsRoom/ZombieTsunami-Vita": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "ZombieTsunami-v1.0.vpk"
+    ]
+  },
+  "Xeeynamo/Sonic-1-2-2013-Decompilation": {
+    "ok": true,
+    "tag": "v1.1.0",
+    "vpks": [
+      "Sonic1-xeeynamo-v110.vpk",
+      "Sonic2-xeeynamo-v110.vpk"
+    ]
+  },
+  "Xeeynamo/Sonic-CD-11-Decompilation": {
+    "ok": true,
+    "tag": "v2",
+    "vpks": [
+      "SonicCD-xeeynamo-unofficial-v2.vpk"
+    ]
+  },
+  "Yoti/psv_idpsdump": {
+    "ok": true,
+    "tag": "v1.1",
+    "vpks": [
+      "PSV_IDPS_Dumper_v1.1.vpk"
+    ]
+  },
+  "Yoti/psv_npdrmfix": {
+    "ok": true,
+    "tag": "v2.1",
+    "vpks": [
+      "PSM_Manager.vpk"
+    ]
+  },
+  "YuriSizuku/psv-OnscripterJH": {
+    "ok": true,
+    "tag": "v0.5.1.3",
+    "vpks": [
+      "VitaOns.vpk"
+    ]
+  },
+  "ZFhuang/ZATO-vita": {
+    "ok": true,
+    "tag": "v01_00",
+    "vpks": [
+      "Z.A.T.O.I.Love.the.World.and.Everything.In.It-01.00.vpk"
+    ]
+  },
+  "aagallag/Vita_Doom": {
+    "ok": true,
+    "tag": "aagallag_v1.1",
+    "vpks": [
+      "Vita_Doom.vpk"
+    ]
+  },
+  "add-le/ps-vita-sync": {
+    "ok": true,
+    "tag": "v0.01",
+    "vpks": [
+      "ps_vita_sync.vpk"
+    ]
+  },
+  "alim395/FamilyFisticuffsVita": {
+    "ok": true,
+    "tag": "v1.00",
+    "vpks": [
+      "FamilyFeud.vpk"
+    ]
+  },
+  "ammeir/hurrican": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "ammeir/vicevita": {
+    "ok": true,
+    "tag": "v1.2",
+    "vpks": [
+      "vicevita.vpk"
+    ]
+  },
+  "ammeir/worminator": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "anas-halid/HYPERFIGHT-VITA": {
+    "ok": true,
+    "tag": "Release",
+    "vpks": [
+      "HYPERFIGHT.vpk"
+    ]
+  },
+  "anas-halid/SF1MR-VITA": {
+    "ok": true,
+    "tag": "release",
+    "vpks": [
+      "SF1MR.vpk"
+    ]
+  },
+  "andyvand/opentyrian2000": {
+    "ok": true,
+    "tag": "3.0.0-SDL3",
+    "vpks": [
+      "OpenTyrian2000-PSVita.vpk"
+    ]
+  },
+  "angguss/OpenTTD": {
+    "ok": true,
+    "tag": "0.3-vita",
+    "vpks": [
+      "openttd.vpk"
+    ]
+  },
+  "argarak/uqm-vita": {
+    "ok": true,
+    "tag": "rev1",
+    "vpks": [
+      "uqm.vpk"
+    ]
+  },
+  "bomblik/BlockOut_II_PSVITA": {
+    "ok": true,
+    "tag": "BlockOut_II_PSVITA_2.5",
+    "vpks": [
+      "BlockOut_II.vpk"
+    ]
+  },
+  "bomblik/GNU_Robbo_PSVITA_PSP": {
+    "ok": true,
+    "tag": "GNU_Robbo_0.68_PSVITA",
+    "vpks": [
+      "gnurobbo_0.68.vpk"
+    ]
+  },
+  "bucanero/apollo-vita": {
+    "ok": true,
+    "tag": "v2.3.2",
+    "vpks": [
+      "apollo-vita.vpk"
+    ]
+  },
+  "bvschaik/julius": {
+    "ok": true,
+    "tag": "v1.8.0",
+    "vpks": [
+      "julius-1.8.0-vita.vpk"
+    ]
+  },
+  "c0nduitra1n/QuantimmumChess": {
+    "ok": false,
+    "reason": "only prereleases"
+  },
+  "cnsldv/CardUnlock": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "CardUnlock.vpk"
+    ]
+  },
+  "cnsldv/MediaImporter": {
+    "ok": false,
+    "reason": "only prereleases"
+  },
+  "cpasjuste/pfba": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "cxziaho/fontInstaller": {
+    "ok": true,
+    "tag": "1.0",
+    "vpks": [
+      "fontInstaller.vpk"
+    ]
+  },
+  "cy33hc/copyicons": {
+    "ok": true,
+    "tag": "1.01",
+    "vpks": [
+      "CopyIcons.vpk"
+    ]
+  },
+  "cy33hc/vita-ezremote-client": {
+    "ok": true,
+    "tag": "1.12",
+    "vpks": [
+      "ezremoteclient.vpk"
+    ]
+  },
+  "cy33hc/vita-ftp-client": {
+    "ok": true,
+    "tag": "latest",
+    "vpks": [
+      "ftpclient.vpk"
+    ]
+  },
+  "cy33hc/vita-launcher": {
+    "ok": true,
+    "tag": "latest",
+    "vpks": [
+      "AdrenalineLauncher.vpk",
+      "launcher.vpk",
+      "yoyo_launcher.vpk"
+    ]
+  },
+  "cy33hc/vita-smb-client": {
+    "ok": true,
+    "tag": "latest",
+    "vpks": [
+      "smbclient.vpk"
+    ]
+  },
+  "cy33hc/vita-webdav-client": {
+    "ok": true,
+    "tag": "latest",
+    "vpks": [
+      "webdavclient.vpk"
+    ]
+  },
+  "d3m3vilurr/vita-savemgr": {
+    "ok": true,
+    "tag": "nightly",
+    "vpks": [
+      "savemgr.vpk"
+    ]
+  },
+  "daniemun/PartyHard-PSVITA-Port": {
+    "ok": true,
+    "tag": "v0.01",
+    "vpks": [
+      "PartyHardVita.vpk"
+    ]
+  },
+  "davidcralph/CandyWrapper_vita": {
+    "ok": true,
+    "tag": "01.00",
+    "vpks": [
+      "CandyWrapper.vpk"
+    ]
+  },
+  "deltaclock/Database-Manager": {
+    "ok": true,
+    "tag": "v1.20",
+    "vpks": [
+      "Database.Manager.vpk"
+    ]
+  },
+  "devingDev/VitaCord": {
+    "ok": true,
+    "tag": "1.5fix1",
+    "vpks": [
+      "vita_cord.vpk"
+    ]
+  },
+  "devnoname120/RegistryEditorMOD": {
+    "ok": true,
+    "tag": "1.3",
+    "vpks": [
+      "RegistryEditor.vpk"
+    ]
+  },
+  "devnoname120/vhbb": {
+    "ok": true,
+    "tag": "0.92",
+    "vpks": [
+      "VitaHBBrowser.vpk"
+    ]
+  },
+  "devnoname120/vita-restart": {
+    "ok": true,
+    "tag": "0.10",
+    "vpks": [
+      "vita-restart.vpk"
+    ]
+  },
+  "devnoname120/vitabright-lut-editor": {
+    "ok": true,
+    "tag": "1.1",
+    "vpks": [
+      "vitabright-lut-editor-1.1.vpk"
+    ]
+  },
+  "diasurgical/devilutionX": {
+    "ok": true,
+    "tag": "1.5.5",
+    "vpks": [
+      "devilutionx-vita.vpk"
+    ]
+  },
+  "domis4/lua-gameoflife": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "dragonflylee/switchfin": {
+    "ok": true,
+    "tag": "0.9.3",
+    "vpks": [
+      "Switchfin.vpk"
+    ]
+  },
+  "einmueller/exult-vita": {
+    "ok": true,
+    "tag": "v1.9.vita.2",
+    "vpks": [
+      "exult.vpk"
+    ]
+  },
+  "eleriaqueen/luaVitaSeccy": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "elliencode/actionsquad-psv-internal": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "elliencode/nba-jam-psv": {
+    "ok": true,
+    "tag": "v1.00",
+    "vpks": [
+      "com.eamobile.nbajam_row_wf-v1.00.vpk"
+    ]
+  },
+  "elpapadelospollitos/Omega-strike-vita": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "OmegaStrike.VPK"
+    ]
+  },
+  "emiyl/HBInjector": {
+    "ok": true,
+    "tag": "v1.2.6",
+    "vpks": [
+      "HBInjector.vpk"
+    ]
+  },
+  "enriquesomolinos/Another-World-Vita": {
+    "ok": true,
+    "tag": "v0.2.1",
+    "vpks": [
+      "Another_world.vpk"
+    ]
+  },
+  "enriquesomolinos/REminiscence-Vita": {
+    "ok": true,
+    "tag": "v0.4.2",
+    "vpks": [
+      "REminiscence-0.4.2.vpk"
+    ]
+  },
+  "enriquesomolinos/dRally-vita": {
+    "ok": true,
+    "tag": "v0.2.1-vita",
+    "vpks": [
+      "Death_rally.vpk"
+    ]
+  },
+  "erfg12/SharkShark": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "falkenhawk/vita-save-keeper": {
+    "ok": true,
+    "tag": "v1.2.0",
+    "vpks": [
+      "save-keeper.vpk"
+    ]
+  },
+  "fgsfdsfgs/Serious-Engine": {
+    "ok": true,
+    "tag": "psvita2",
+    "vpks": [
+      "ssam_tfe_v2.vpk",
+      "ssam_tse_v2.vpk"
+    ]
+  },
+  "fgsfdsfgs/UE1": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "fgsfdsfgs/chocolate-doom": {
+    "ok": false,
+    "reason": "only prereleases"
+  },
+  "fgsfdsfgs/max_vita": {
+    "ok": true,
+    "tag": "r4",
+    "vpks": [
+      "MaxPayne_r4.vpk"
+    ]
+  },
+  "fgsfdsfgs/prboom-plus": {
+    "ok": false,
+    "reason": "only prereleases"
+  },
+  "fgsfdsfgs/vitaXash3D": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "frangarcj/Genesis-Plus-GX": {
+    "ok": true,
+    "tag": "1.7.5-RC-Henkaku",
+    "vpks": [
+      "GenesisPlusGXVITA.vpk"
+    ]
+  },
+  "frangarcj/HandyVITA": {
+    "ok": true,
+    "tag": "1.4-Henkaku",
+    "vpks": [
+      "HandyVITA.vpk"
+    ]
+  },
+  "frangarcj/NeopopVITA": {
+    "ok": true,
+    "tag": "0.71.15-Henkaku",
+    "vpks": [
+      "NeopopVITA.vpk"
+    ]
+  },
+  "frangarcj/SMSplusVITA": {
+    "ok": true,
+    "tag": "1.3.1-Henkaku",
+    "vpks": [
+      "smsplusvita.vpk"
+    ]
+  },
+  "frangarcj/Snes9xVITA": {
+    "ok": true,
+    "tag": "1.1-Henkaku",
+    "vpks": [
+      "Snes9xVITA.vpk"
+    ]
+  },
+  "frangarcj/ff3_vita": {
+    "ok": true,
+    "tag": "v1.2.3",
+    "vpks": [
+      "FF3.vpk"
+    ]
+  },
+  "frangarcj/ff5_vita": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "FF5.vpk"
+    ]
+  },
+  "frangarcj/geometrizer": {
+    "ok": false,
+    "reason": "only prereleases"
+  },
+  "gl00mm/Blasphemous_PSVITA": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "gl00mm/Inscryption_PSVITA": {
+    "ok": true,
+    "tag": "Inscryption_PSVITA-alpha.1",
+    "vpks": [
+      "inscryption.vpk"
+    ]
+  },
+  "gl00mm/Pikuniku_PSVITA": {
+    "ok": true,
+    "tag": "Pikuniku_PSVITA-v1.00",
+    "vpks": [
+      "pikuniku.vpk"
+    ]
+  },
+  "gm666q/lswtcs-vita": {
+    "ok": false,
+    "reason": "only prereleases"
+  },
+  "gnmmarechal/VSOI": {
+    "ok": true,
+    "tag": "v0.1",
+    "vpks": [
+      "VSOI.vpk"
+    ]
+  },
+  "gnmmarechal/moon-whitelister": {
+    "ok": true,
+    "tag": "v1.0c",
+    "vpks": [
+      "MoonWhitelisterv1.0c.vpk"
+    ]
+  },
+  "gnmmarechal/starfield-vita": {
+    "ok": true,
+    "tag": "v0.2",
+    "vpks": [
+      "Starfield-Vita-v0.2.vpk"
+    ]
+  },
+  "gokuhs/devilutionX": {
+    "ok": false,
+    "reason": "only prereleases"
+  },
+  "goobercx/MiniRetroXMB-v1.0": {
+    "ok": true,
+    "tag": "RELEASE",
+    "vpks": [
+      "MiniRetroXMB.vpk"
+    ]
+  },
+  "goodgamesipromise/HappyLand": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "hatoving/GMSVitaPortInstructions": {
+    "ok": true,
+    "tag": "5_FranBowCH4",
+    "vpks": [
+      "FBCH4.vpk"
+    ]
+  },
+  "hatoving/MonumentValley": {
+    "ok": true,
+    "tag": "1.0.1",
+    "vpks": [
+      "MV.vpk"
+    ]
+  },
+  "hatoving/PonyIsland": {
+    "ok": true,
+    "tag": "1.2-vita",
+    "vpks": [
+      "PonyIsland.vpk"
+    ]
+  },
+  "hatoving/csd2": {
+    "ok": true,
+    "tag": "1.0",
+    "vpks": [
+      "CSD2VITA0.vpk"
+    ]
+  },
+  "hatoving/gdash-vita": {
+    "ok": true,
+    "tag": "v1.02",
+    "vpks": [
+      "gdash.vpk"
+    ]
+  },
+  "hatoving/imscared": {
+    "ok": true,
+    "tag": "1.2",
+    "vpks": [
+      "IMSCARED0.vpk"
+    ]
+  },
+  "hatoving/starwarfare-vita": {
+    "ok": true,
+    "tag": "0.9-hotfix.0",
+    "vpks": [
+      "starwarfare.vpk"
+    ]
+  },
+  "hatoving/zeldapicross_vita": {
+    "ok": true,
+    "tag": "1.1",
+    "vpks": [
+      "ZeldaPicross.vpk"
+    ]
+  },
+  "henkaku/enso": {
+    "ok": true,
+    "tag": "v1.1",
+    "vpks": [
+      "enso.vpk"
+    ]
+  },
+  "henkaku/offline-installer": {
+    "ok": true,
+    "tag": "1.0",
+    "vpks": [
+      "offlineInstaller.vpk"
+    ]
+  },
+  "huceus/vitavault-vpk": {
+    "ok": true,
+    "tag": "1.01",
+    "vpks": [
+      "vitavault.vpk"
+    ]
+  },
+  "huckleberrypie/IsabelleDanceStudio": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "ibrahim-dogan/vita-drop": {
+    "ok": true,
+    "tag": "v1.0.0",
+    "vpks": [
+      "vita_drop.vpk"
+    ]
+  },
+  "ibrahim-dogan/vita-screen-test": {
+    "ok": true,
+    "tag": "v1.0.0",
+    "vpks": [
+      "vita_screen_test.vpk"
+    ]
+  },
+  "ihhub/fheroes2": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "island-games/A-Super-Small-Shmup": {
+    "ok": true,
+    "tag": "v1.02",
+    "vpks": [
+      "ASUPERSMALLSHMUP.vpk"
+    ]
+  },
+  "island-games/Bartender": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "Bartender.vpk"
+    ]
+  },
+  "island-games/Defendguin": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "Defendguin.vpk"
+    ]
+  },
+  "island-games/Tux-Football-Vita": {
+    "ok": true,
+    "tag": "1.0",
+    "vpks": [
+      "TuxFootball.vpk"
+    ]
+  },
+  "island-games/slime-vball": {
+    "ok": true,
+    "tag": "v1.0.0",
+    "vpks": [
+      "Slime-vBall.vpk"
+    ]
+  },
+  "jakubito/DoomRPG-RE-vita": {
+    "ok": true,
+    "tag": "v1.1.0",
+    "vpks": [
+      "DoomRPG_vita_v1.1.0.vpk"
+    ]
+  },
+  "jamsilva/emu4vita": {
+    "ok": true,
+    "tag": "deb8a92_20231001",
+    "vpks": [
+      "ChimeraSNES_v1.01.vpk"
+    ]
+  },
+  "jimbob4000/Random-Vita-Game-Launcher": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "Random_Vita_Game_Launcher_v1.0.vpk"
+    ]
+  },
+  "jimbob4000/RetroFlow-Launcher": {
+    "ok": true,
+    "tag": "v8.2.0",
+    "vpks": [
+      "RetroFlow_v8.2.0.vpk"
+    ]
+  },
+  "jitZpc/vita-activator": {
+    "ok": true,
+    "tag": "v1.1",
+    "vpks": [
+      "vita-activator.vpk"
+    ]
+  },
+  "joel16/ElevenMPV": {
+    "ok": true,
+    "tag": "v2.10",
+    "vpks": [
+      "ElevenMPV.vpk"
+    ]
+  },
+  "joel16/PickrVITA": {
+    "ok": true,
+    "tag": "1.1",
+    "vpks": [
+      "PickrVITA.vpk"
+    ]
+  },
+  "joel16/VITA-Homebrew-Sorter": {
+    "ok": true,
+    "tag": "v1.27",
+    "vpks": [
+      "VITA-Homebrew-Sorter.vpk"
+    ]
+  },
+  "joel16/VITAforecast": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "joel16/VITAident": {
+    "ok": true,
+    "tag": "0.7.4",
+    "vpks": [
+      "VITAident.vpk",
+      "VITAident_GUI.vpk"
+    ]
+  },
+  "joel16/VITAlbum": {
+    "ok": true,
+    "tag": "v1.40",
+    "vpks": [
+      "VITAlbum.vpk"
+    ]
+  },
+  "joel16/VitaBackup": {
+    "ok": true,
+    "tag": "2.00",
+    "vpks": [
+      "VitaBackup.vpk"
+    ]
+  },
+  "joel16/vitaPDF": {
+    "ok": true,
+    "tag": "v1.03",
+    "vpks": [
+      "vitaPDF.vpk"
+    ]
+  },
+  "joshaxey/textquest": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "jtothebell/fake-08": {
+    "ok": false,
+    "reason": "only prereleases"
+  },
+  "kaaass/Kero-Blaster-vita": {
+    "ok": true,
+    "tag": "v1.2",
+    "vpks": [
+      "Kero-Blaster.vpk",
+      "Kero-Blaster_cn.vpk"
+    ]
+  },
+  "kaonkaon/BreadToPIA": {
+    "ok": true,
+    "tag": "v1.1.0",
+    "vpks": [
+      "BreadToPIA.VPK"
+    ]
+  },
+  "kaonkaon/ztwo": {
+    "ok": true,
+    "tag": "v1.2.0",
+    "vpks": [
+      "z2.VPK"
+    ]
+  },
+  "keltar/ps4linkcontrols-gui": {
+    "ok": true,
+    "tag": "0.1",
+    "vpks": [
+      "ps4linkcontrols-gui.vpk"
+    ]
+  },
+  "knight-ryu12/badapplevita": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "badapple_VITA.vpk"
+    ]
+  },
+  "koolaidxk1d/tworld-vita": {
+    "ok": true,
+    "tag": "1.0.0",
+    "vpks": [
+      "tworld-vita.vpk"
+    ]
+  },
+  "l0wigh/CatacombVita": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "Catacomb-Vita.vpk"
+    ]
+  },
+  "l0wigh/Heboris-Vita": {
+    "ok": true,
+    "tag": "v1.0.0-Vita",
+    "vpks": [
+      "Heboris-Vita.vpk"
+    ]
+  },
+  "libretro/retroarch": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "linhtinh11/vita_qrdecoder": {
+    "ok": true,
+    "tag": "0.2.1",
+    "vpks": [
+      "qrdecoder.vpk"
+    ]
+  },
+  "lp1dev/vita_ports_scanner": {
+    "ok": true,
+    "tag": "v0.10.0",
+    "vpks": [
+      "ports_scanner.vpk"
+    ]
+  },
+  "lp1dev/vita_virtualkeyboard": {
+    "ok": false,
+    "reason": "only prereleases"
+  },
+  "m-bartlett/vita-tetris": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "m1s3ry/crashlands-vita": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "Crashlands_v1.0.0.KyuHEN.Version.VPK"
+    ]
+  },
+  "m1s3ry/gato-roboto-vita": {
+    "ok": true,
+    "tag": "v1.0.1",
+    "vpks": [
+      "Gato_Roboto_v1.0.0.VPK"
+    ]
+  },
+  "m1s3ry/gungodz-vita": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "GUN_GODZ_v1.0.VPK"
+    ]
+  },
+  "m1s3ry/ink-vita": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "INK-v1.0.0_KYUHEN.VPK"
+    ]
+  },
+  "m1s3ry/minit-fun-racer-vita": {
+    "ok": true,
+    "tag": "1.0",
+    "vpks": [
+      "Minit_Fun_Racer-v1.0.VPK"
+    ]
+  },
+  "m1s3ry/minit-vita": {
+    "ok": true,
+    "tag": "v1.1",
+    "vpks": [
+      "Minit.VPK"
+    ]
+  },
+  "majonessyltetoy/airpressure": {
+    "ok": true,
+    "tag": "v1.0.0",
+    "vpks": [
+      "airpressure.vpk"
+    ]
+  },
+  "malone46/BewilderHouseOpSource": {
+    "ok": true,
+    "tag": "Pre-Final",
+    "vpks": [
+      "BewilderHouseBuild43.vpk"
+    ]
+  },
+  "malone46/NFH-PS-VITA": {
+    "ok": true,
+    "tag": "V1.0",
+    "vpks": [
+      "NFHV1.0.vpk"
+    ]
+  },
+  "malone46/Slendrina2DVita": {
+    "ok": true,
+    "tag": "Slendrina",
+    "vpks": [
+      "Slendrina2D.vpk"
+    ]
+  },
+  "malone46/SlendrinaFree": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "SlendrinaFree.vpk"
+    ]
+  },
+  "malone46/VanishVita": {
+    "ok": true,
+    "tag": "Beta",
+    "vpks": [
+      "VanishB16.vpk"
+    ]
+  },
+  "masterfeizz/DeSmuME-Vita": {
+    "ok": false,
+    "reason": "only prereleases"
+  },
+  "masteroga101/Beat-Banger-PsVita-": {
+    "ok": true,
+    "tag": "v0.99",
+    "vpks": [
+      "Beat.Banger.vpk"
+    ]
+  },
+  "mauricio-gg/vitaki-vitarps5": {
+    "ok": true,
+    "tag": "v3.0.2",
+    "vpks": [
+      "VitakiFork-v3.0.2.vpk"
+    ]
+  },
+  "mcallbosco/pacman-cedx-vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "mcallbosco/super-hexagon-vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "memory-hunter/garfield-wild-ride-vita": {
+    "ok": true,
+    "tag": "1.0",
+    "vpks": [
+      "garfield.vpk"
+    ]
+  },
+  "memory-hunter/hill-climb-racing-vita": {
+    "ok": true,
+    "tag": "beta2",
+    "vpks": [
+      "hcr.vpk"
+    ]
+  },
+  "mgba-emu/mgba": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "michal4132/cspot_vita": {
+    "ok": true,
+    "tag": "v0.2.9",
+    "vpks": [
+      "cspot_vita.vpk"
+    ]
+  },
+  "mmozeiko/pkgi": {
+    "ok": true,
+    "tag": "v0.05",
+    "vpks": [
+      "pkgi-v0.05.vpk"
+    ]
+  },
+  "motoharu-gosuto/psvgamesd": {
+    "ok": true,
+    "tag": "v2.0",
+    "vpks": [
+      "psvgc.vpk"
+    ]
+  },
+  "mrdivdiz/aowv": {
+    "ok": true,
+    "tag": "v1.1",
+    "vpks": [
+      "aowv2.vpk"
+    ]
+  },
+  "mrdivdiz/bpvita": {
+    "ok": true,
+    "tag": "1.4",
+    "vpks": [
+      "BPV1.4.vpk"
+    ]
+  },
+  "nn9dev/tamatool-vita": {
+    "ok": true,
+    "tag": "vita-0.1",
+    "vpks": [
+      "tamatool-vita-0.1.vpk"
+    ]
+  },
+  "nop90-PSVITA/SDLLopan-VITA": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "SDLLopan.vpk"
+    ]
+  },
+  "notnotme/NotEngine_PSV": {
+    "ok": true,
+    "tag": "11.17.2016",
+    "vpks": [
+      "floodit.vpk"
+    ]
+  },
+  "noword/Emu4VitaPlus": {
+    "ok": true,
+    "tag": "v0.77",
+    "vpks": [
+      "Emu4VitaPlus_v0.77.vpk"
+    ]
+  },
+  "nyorem/vitapong": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "vitapong.vpk"
+    ]
+  },
+  "nzp-team/nzportable": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "onurkuru/skyrift": {
+    "ok": true,
+    "tag": "v1.2.0",
+    "vpks": [
+      "skyrift.vpk"
+    ]
+  },
+  "parindraaa867/AT-CardWars-Vita": {
+    "ok": true,
+    "tag": "v5",
+    "vpks": [
+      "CardWars_Stub.vpk"
+    ]
+  },
+  "pathway27/bookr-mod-vita": {
+    "ok": true,
+    "tag": "v0.3.1",
+    "vpks": [
+      "bookr-mod-vita-v0.3.1.vpk"
+    ]
+  },
+  "pelayodc/VITASurviving": {
+    "ok": true,
+    "tag": "v1.1",
+    "vpks": [
+      "vs11.vpk"
+    ]
+  },
+  "pyroesp/vitaFFT": {
+    "ok": true,
+    "tag": "v0.1.6",
+    "vpks": [
+      "VitaFFT.vpk"
+    ]
+  },
+  "raidengugga/Neet-Girl-Date-Night-PSVITA": {
+    "ok": true,
+    "tag": "Latest",
+    "vpks": [
+      "NGDN-01.00.vpk"
+    ]
+  },
+  "reallootfury/bloons-td-5-vita": {
+    "ok": true,
+    "tag": "v1.0.0",
+    "vpks": [
+      "btd5-vita-v1.00-logging.vpk",
+      "btd5-vita-v1.00.vpk"
+    ]
+  },
+  "reallootfury/soda-dungeon-vita": {
+    "ok": true,
+    "tag": "vpk",
+    "vpks": [
+      "soda-redistributable.vpk"
+    ]
+  },
+  "rerulon/dushi4kDX": {
+    "ok": true,
+    "tag": "#deadsouls",
+    "vpks": [
+      "Book.of.the.Dead-01.00.vpk"
+    ]
+  },
+  "rerulon/negavita": {
+    "ok": true,
+    "tag": "#negavita",
+    "vpks": [
+      "Eugene.Onegin-01.00.vpk"
+    ]
+  },
+  "rerulon/redvitas": {
+    "ok": true,
+    "tag": "#redvitas",
+    "vpks": [
+      "Red.Space-01.00.vpk"
+    ]
+  },
+  "rodentcat/deadknight-vita-port": {
+    "ok": true,
+    "tag": "1.0",
+    "vpks": [
+      "DeadKnight.VPK"
+    ]
+  },
+  "rompelhd/VitaSSH": {
+    "ok": true,
+    "tag": "v.1.0.0",
+    "vpks": [
+      "VitaSSH-1.0.0.vpk"
+    ]
+  },
+  "rsn8887/Enigma": {
+    "ok": true,
+    "tag": "1.16",
+    "vpks": [
+      "enigma_1.11.vpk"
+    ]
+  },
+  "rsn8887/basiliskii-vita": {
+    "ok": true,
+    "tag": "0.33hgit-rsn8887",
+    "vpks": [
+      "BasiliskII_Vita_v0.33h.vpk"
+    ]
+  },
+  "rsn8887/cannonball": {
+    "ok": true,
+    "tag": "1.08switchgit-vita/switch-rsn8887",
+    "vpks": [
+      "Cannonball_1.05.vpk"
+    ]
+  },
+  "rsn8887/jumpnbump": {
+    "ok": true,
+    "tag": "1.02",
+    "vpks": [
+      "jumpnbump_1.00.vpk"
+    ]
+  },
+  "rsn8887/openbor": {
+    "ok": true,
+    "tag": "v4704-rsn8887git-1.2",
+    "vpks": [
+      "OpenBOR.vpk"
+    ]
+  },
+  "rsn8887/rocksndiamonds": {
+    "ok": true,
+    "tag": "1.15",
+    "vpks": [
+      "mirrormagic_vita_1.12.vpk",
+      "rocksndiamonds_vita_1.12.vpk"
+    ]
+  },
+  "rsn8887/uae4all2": {
+    "ok": true,
+    "tag": "2.12",
+    "vpks": [
+      "uae4all_2.10.vpk"
+    ]
+  },
+  "save-cloud/save-cloud-vita": {
+    "ok": true,
+    "tag": "v2024.02.28",
+    "vpks": [
+      "save-cloud-2026-04-06.vpk",
+      "save-cloud.vpk"
+    ]
+  },
+  "scummvm/scummvm": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "sergiou87/open-supaplex": {
+    "ok": true,
+    "tag": "v7.2.2",
+    "vpks": [
+      "OpenSupaplex.vpk"
+    ]
+  },
+  "sharkwouter/oceanpop": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "sharkwouter/panel-pop": {
+    "ok": true,
+    "tag": "0.0.3-vita",
+    "vpks": [
+      "panel-pop.vpk"
+    ]
+  },
+  "shev0k/EQVita": {
+    "ok": true,
+    "tag": "v1.14.0",
+    "vpks": [
+      "EQVita.vpk"
+    ]
+  },
+  "sinusinu/vita-timer": {
+    "ok": true,
+    "tag": "1.03",
+    "vpks": [
+      "vita-timer.vpk"
+    ]
+  },
+  "sjoerdev/fluid-simulation-vitagl": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "VitaSPH.vpk"
+    ]
+  },
+  "skogaby/CATSFC-libretro": {
+    "ok": true,
+    "tag": "1.3.0",
+    "vpks": [
+      "CATSFC-libretro-vita-1.3.0.vpk"
+    ]
+  },
+  "softwaregremlin/Attack-of-the-Lettuce-Munching-Caterpillars": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "softwaregremlin/Covid-19-Apocalypse": {
+    "ok": true,
+    "tag": "v1,0",
+    "vpks": [
+      "covid19Apocalypse.vpk"
+    ]
+  },
+  "softwaregremlin/Jetman3D": {
+    "ok": true,
+    "tag": "Main",
+    "vpks": [
+      "JetMan-3D.vpk"
+    ]
+  },
+  "softwaregremlin2/Quake1ModelViewer": {
+    "ok": true,
+    "tag": "Homebrew",
+    "vpks": [
+      "mdlviewer.vpk"
+    ]
+  },
+  "some1psv/RegistryEditor": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "RegistryEditor.vpk"
+    ]
+  },
+  "stoicpingu/leos-fortune-vita": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "leosfortune.vpk"
+    ]
+  },
+  "suicvne/SpaceCadetPinball_Vita": {
+    "ok": true,
+    "tag": "Release_1.1.1_VitaBuild_2",
+    "vpks": [
+      "SpaceCadetPinballVita_VB2.vpk"
+    ]
+  },
+  "svennd/vita-chain": {
+    "ok": false,
+    "reason": "only prereleases"
+  },
+  "svennd/vita-tetromino": {
+    "ok": false,
+    "reason": "only prereleases"
+  },
+  "technicaljicama/OpenRCT2-CE": {
+    "ok": true,
+    "tag": "vita-1",
+    "vpks": [
+      "openrct2.vpk"
+    ]
+  },
+  "thatoneham/Tiny-Crate-Vita": {
+    "ok": true,
+    "tag": "Main",
+    "vpks": [
+      "Tiny.Crate.vpk"
+    ]
+  },
+  "thcolin/gamepad-media-center-aggregator": {
+    "ok": true,
+    "tag": "v1.1.0",
+    "vpks": [
+      "GMCA.vpk"
+    ]
+  },
+  "theorywrong/ps4relink": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "thesuicidalrobot/Galactic-Federation": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "tomtomdu80/VitaCID": {
+    "ok": true,
+    "tag": "1.0",
+    "vpks": [
+      "VitaCID.vpk"
+    ]
+  },
+  "tomtomdu80/VitaRW": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "unveroleone/vita-save-sync": {
+    "ok": true,
+    "tag": "v0.1.4",
+    "vpks": [
+      "vita-save-cloud.vpk"
+    ]
+  },
+  "usineur/SDLPoP-Vita": {
+    "ok": true,
+    "tag": "vita-1.7",
+    "vpks": [
+      "SDLPoP-Vita.vpk"
+    ]
+  },
+  "usineur/Zelda3T": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "usineur/ZeldaNSQ": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "usineur/ZeldaROTH": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "usineur/bermuda": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "usineur/clive-vita": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "clive.vpk"
+    ]
+  },
+  "usineur/f2bgl": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "usineur/hode": {
+    "ok": true,
+    "tag": "0.2.9d",
+    "vpks": [
+      "hode.vpk"
+    ]
+  },
+  "usineur/hota": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "usineur/methane": {
+    "ok": true,
+    "tag": "1.1",
+    "vpks": [
+      "Methane.vpk"
+    ]
+  },
+  "usineur/naught-vita": {
+    "ok": true,
+    "tag": "v1.1",
+    "vpks": [
+      "naught.vpk"
+    ]
+  },
+  "usineur/naught2-vita": {
+    "ok": true,
+    "tag": "v1.1",
+    "vpks": [
+      "naught2.vpk"
+    ]
+  },
+  "usineur/openjazz": {
+    "ok": true,
+    "tag": "1.1",
+    "vpks": [
+      "OpenJazz.vpk"
+    ]
+  },
+  "usineur/opentitus": {
+    "ok": true,
+    "tag": "1.0",
+    "vpks": [
+      "Moktar.vpk",
+      "Titus.vpk"
+    ]
+  },
+  "usineur/pop2-vita": {
+    "ok": true,
+    "tag": "v1.3",
+    "vpks": [
+      "pop2.vpk"
+    ]
+  },
+  "usineur/sdlpal": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "v-atamanenko/baba-is-you-vita": {
+    "ok": true,
+    "tag": "v1.4",
+    "vpks": [
+      "BABAISYOU.vpk"
+    ]
+  },
+  "v-atamanenko/blues-vita": {
+    "ok": true,
+    "tag": "1.0",
+    "vpks": [
+      "bb-jukebox.vpk",
+      "blues.vpk",
+      "prehistorik-2.vpk"
+    ]
+  },
+  "v-atamanenko/deadspace-vita": {
+    "ok": true,
+    "tag": "v1.3",
+    "vpks": [
+      "Dead.Space.v1.3.vpk"
+    ]
+  },
+  "v-atamanenko/gof2-vita": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "GalaxyOnFire2_v1.0.vpk"
+    ]
+  },
+  "v-atamanenko/masseffect-vita": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "MassEffectInfiltrator.vpk"
+    ]
+  },
+  "v-atamanenko/osu-octave": {
+    "ok": true,
+    "tag": "1.20",
+    "vpks": [
+      "osu-octave.vpk"
+    ]
+  },
+  "v-atamanenko/sdl2sand": {
+    "ok": true,
+    "tag": "1.0",
+    "vpks": [
+      "sdlsand.vpk"
+    ]
+  },
+  "v-atamanenko/sonic3air": {
+    "ok": true,
+    "tag": "beta-2",
+    "vpks": [
+      "sonic3air-beta2.vpk"
+    ]
+  },
+  "v-atamanenko/vitohlyad": {
+    "ok": true,
+    "tag": "v0.9",
+    "vpks": [
+      "vitohlyad.vpk"
+    ]
+  },
+  "windsurfer1122/Vita-Account-Manager": {
+    "ok": true,
+    "tag": "vita-account-manager-0.91",
+    "vpks": [
+      "vita-account-manager-0.91.vpk"
+    ]
+  },
+  "withLogic/atomiks-psvita": {
+    "ok": true,
+    "tag": "1.0.0",
+    "vpks": [
+      "atomiks.vpk"
+    ]
+  },
+  "withLogic/fire-and-fondness-2": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "withLogic/fire-and-fondness-ee": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "withLogic/hexahop-vita": {
+    "ok": true,
+    "tag": "v1.1.0-vita",
+    "vpks": [
+      "Hex-A-Hop.vpk"
+    ]
+  },
+  "withLogic/mog-vita": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "mog.vpk"
+    ]
+  },
+  "withLogic/sdl-sopwith-vita": {
+    "ok": true,
+    "tag": "1.0.0",
+    "vpks": [
+      "SDL-Sopwith.vpk"
+    ]
+  },
+  "withLogic/solstice-godot": {
+    "ok": true,
+    "tag": "v1.0.4",
+    "vpks": [
+      "Solstice.vpk"
+    ]
+  },
+  "withLogic/starcatcher": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "withLogic/waterCloset": {
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "watercloset.vpk"
+    ]
+  },
+  "xCorra/SwitchtoPSTV": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "xamthor/Tema": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "xerpi/realboy-vita": {
+    "ok": true,
+    "tag": "1.2",
+    "vpks": [
+      "realboy.vpk"
+    ]
+  },
+  "xfangfang/DungeonRush-PSV": {
+    "ok": true,
+    "tag": "01.00",
+    "vpks": [
+      "dungeonrush_01.00.vpk"
+    ]
+  },
+  "xfangfang/wiliwili": {
+    "ok": true,
+    "tag": "v1.6.0",
+    "vpks": [
+      "wiliwili-PSV.vpk"
+    ]
+  },
+  "xqwpx/benny": {
+    "ok": true,
+    "tag": "Release",
+    "vpks": [
+      "Benny.vpk"
+    ]
+  },
+  "xyzz/vita-button-swapper": {
+    "ok": true,
+    "tag": "1.0",
+    "vpks": [
+      "button-swapper.vpk"
+    ]
+  },
+  "xyzz/vita-idu": {
+    "ok": true,
+    "tag": "1.0",
+    "vpks": [
+      "idu-mode.vpk"
+    ]
+  },
+  "xyzz/vita-moonlight": {
+    "ok": true,
+    "tag": "0.13.2",
+    "vpks": [
+      "moonlight.vpk"
+    ]
+  },
+  "yoyz/picoloop": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "yukkurisinai/vita-flappybird": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "ywnico/bugdom-vita": {
+    "ok": true,
+    "tag": "1.3.4-vita.1",
+    "vpks": [
+      "Bugdom-1.3.4-vita.1.vpk"
+    ]
+  },
+  "ywnico/flowit-vita": {
+    "ok": true,
+    "tag": "v1.03",
+    "vpks": [
+      "Flowit_v1.03.vpk"
+    ]
+  },
+  "ywnico/vitaki-fork": {
+    "ok": true,
+    "tag": "v0.06d",
+    "vpks": [
+      "Vitaki.vpk"
+    ]
+  }
+}

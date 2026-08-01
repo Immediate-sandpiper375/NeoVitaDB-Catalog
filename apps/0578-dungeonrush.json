@@ -1,0 +1,17 @@
+{
+  "id": 578,
+  "name": "DungeonRush",
+  "author": "xfangfang",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "DUNGEON00",
+  "repo": "xfangfang/DungeonRush-PSV",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0578-dungeonrush.png",
+  "description": "Port of Dungeon Rush for PSVita.\nDungeon Rush is a game inspired by Snake.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 544,
+  "name": "ConsoleID",
+  "author": "Freakler",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "CONSOLEID",
+  "repo": "Freakler/vita-ConsoleID",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0544-consoleid.png",
+  "description": "An application that displays the PlayStation's unique Console Identification String.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

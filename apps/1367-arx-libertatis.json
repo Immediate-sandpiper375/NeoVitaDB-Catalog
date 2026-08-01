@@ -1,0 +1,17 @@
+{
+  "id": 1367,
+  "name": "Arx Libertatis",
+  "author": "KingTorro",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "ARXL00001",
+  "repo": "TheLostPantheon/ArxLibertatis",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1367-arx-libertatis.png",
+  "description": "Arx Libertatis is an open-source reimplementation of the Arx Fatalis engine, ported to PS Vita via vitaGL. Explore the dungeons of Arx as you fight, sneak, and cast your way through a full-length RPG with an immersive underground world.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

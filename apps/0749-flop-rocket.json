@@ -1,0 +1,17 @@
+{
+  "id": 749,
+  "name": "Flop Rocket",
+  "author": "MDashK",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "FLOPROCKE",
+  "repo": "MDashK/Flop-Rocket-Vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0749-flop-rocket.png",
+  "description": "It has been said that launching rockets from the depths of danger-filled caves is a terrible idea. Prove the haters wrong by blasting Space Ducks and nuking Space Worms to clear a path to Space Space.\nPilot your Flop Rocket through a cave filled with stalactites, dangerous creatures, and other space-time anomalies as you try to prevent an underfunded space program from going bust. Why is your space program housed in a cave? GOOD QUESTION. Can you defy all odds and make it to space? BETTER QUESTION!",
+  "requirements": "- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

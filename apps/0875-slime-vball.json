@@ -1,0 +1,17 @@
+{
+  "id": 875,
+  "name": "Slime-vBall",
+  "author": "Island_Games",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "ISLD00002",
+  "repo": "island-games/slime-vball",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0875-slime-vball.png",
+  "description": "Port of slime-vball for PSVITA/PSTV.\nslime-vball is a clone of the slime volleyball game http://oneslime.net/ in C and SDL.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

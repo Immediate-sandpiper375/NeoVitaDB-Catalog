@@ -1,0 +1,17 @@
+{
+  "id": 642,
+  "name": "Fishpod",
+  "author": "Team789er",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "FISHPOD01",
+  "repo": "Team789er/Fishpod-the-Platformer",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0642-fishpod.png",
+  "description": "A platformer game for PSVITA made with GameMaker.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

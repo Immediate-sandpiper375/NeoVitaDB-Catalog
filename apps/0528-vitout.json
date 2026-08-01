@@ -1,0 +1,17 @@
+{
+  "id": 528,
+  "name": "VitOut",
+  "author": "Dane64",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "VITABREAK",
+  "repo": "Dane64/VitOut",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0528-vitout.png",
+  "description": "A BreakOut/Arkanoid clone for PSVITA/PSTV.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

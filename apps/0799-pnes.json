@@ -1,0 +1,17 @@
+{
+  "id": 799,
+  "name": "pNES",
+  "author": "cpasjuste",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "PNES00001",
+  "repo": "Cpasjuste/pemu",
+  "asset": "pnes*.vpk",
+  "prerelease": false,
+  "icon": "0799-pnes.png",
+  "description": "NES emulator, multiplatform port of Nestopia emulator.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

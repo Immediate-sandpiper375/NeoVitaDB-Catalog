@@ -1,0 +1,17 @@
+{
+  "id": 475,
+  "name": "Super Pixel Run",
+  "author": "RetroGamer74",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "SPPX12345",
+  "repo": "RetroGamer74/SuperPixelRun",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0475-super-pixel-run.png",
+  "description": "A platformer game similar to The Impossible Game for PSVITA/PSTV.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

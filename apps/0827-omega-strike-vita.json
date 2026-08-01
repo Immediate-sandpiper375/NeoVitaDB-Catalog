@@ -1,0 +1,17 @@
+{
+  "id": 827,
+  "name": "Omega Strike Vita",
+  "author": "elpapadelospollitos",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "OMEGAVITA",
+  "repo": "elpapadelospollitos/Omega-strike-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0827-omega-strike-vita.png",
+  "description": "Omega Strike is a metroidvania game with a vast, open ended world and multiple playable characters. Explore the world, learn new abilities, upgrade your weapons and defeat Doctor Omega and his mutant armies!",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 552,
+  "name": "OpenSupaplex",
+  "author": "sergiou87",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "OSPX00001",
+  "repo": "sergiou87/open-supaplex",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0552-opensupaplex.png",
+  "description": "OpenSupaplex is an open-source reimplementation of Supaplex by sergiou87. Supaplex is a video game created by Philip Jespersen and Michael Stopp, two Swiss students, and published by Digital Integration in 1991. It is an extended clone of Boulder Dash.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

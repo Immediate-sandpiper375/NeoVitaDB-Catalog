@@ -1,0 +1,17 @@
+{
+  "id": 75,
+  "name": "CATSFC-libretro-vita",
+  "author": "Malachi & skogaby",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "SKOG10001",
+  "repo": "skogaby/CATSFC-libretro",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0075-catsfc-libretro-vita.png",
+  "description": "CATSFC-libretro-vita is a SNES emulator for the PSVita and PSTV. It is based on CATSFC-libretro, which is based on Snes9x 1.43.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

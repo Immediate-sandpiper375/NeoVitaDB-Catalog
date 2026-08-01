@@ -1,0 +1,17 @@
+{
+  "id": 440,
+  "name": "Easy Plugin",
+  "author": "THEN00P",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "ESPL00009",
+  "repo": "THEN00P/EasyPlugin",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0440-easy-plugin.png",
+  "description": "Easy Plugin is a plugin installer that downloads and installs plugins from VitaDB.\nIt installs most plugins without problems and has support for plugins with data folders or config files.\nIt also has an easy to use menu to choose what app to install the plugin for.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

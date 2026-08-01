@@ -1,0 +1,17 @@
+{
+  "id": 1418,
+  "name": "Save Sync",
+  "author": "Claude AI & iamcco",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "SAVSYNC01",
+  "repo": "unveroleone/vita-save-sync",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1418-save-sync.png",
+  "description": "Save Sync backs up PS Vita save data to a zip and uploads it to your own server. Download and restore on another device to keep saves in sync. Works with any number of Vitas and PSTVs sharing one server.\nThe server can be created with the prebuilt docker image.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

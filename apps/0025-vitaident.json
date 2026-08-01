@@ -1,0 +1,17 @@
+{
+  "id": 25,
+  "name": "VITAident",
+  "author": "joel16",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VID000016",
+  "repo": "joel16/VITAident",
+  "asset": "VITAident.vpk",
+  "prerelease": false,
+  "icon": "0025-vitaident.png",
+  "description": "VITAident is a tool inspired by PSPident - which was originally developed by Jas0nuk and later updated by Yoti. The tool was used to obtain more information about your PSP's motherboard, firmware etc. Similarly the VITA version - VITAident aims to display more information about your PS VITA. It is currently a work in progress.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

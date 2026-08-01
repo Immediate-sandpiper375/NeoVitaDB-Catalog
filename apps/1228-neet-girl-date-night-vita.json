@@ -1,0 +1,17 @@
+{
+  "id": 1228,
+  "name": "Neet Girl Date Night Vita",
+  "author": "raidengugga",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "NGDN00000",
+  "repo": "raidengugga/Neet-Girl-Date-Night-PSVITA",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1228-neet-girl-date-night-vita.png",
+  "description": "Port of NEET Girl Date Night for PSVITA.\nNEET Girl Date Night is a small visual novel.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

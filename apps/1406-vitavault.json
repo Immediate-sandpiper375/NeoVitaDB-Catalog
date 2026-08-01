@@ -1,0 +1,17 @@
+{
+  "id": 1406,
+  "name": "VitaVault",
+  "author": "huceus",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "HUCE00101",
+  "repo": "huceus/vitavault-vpk",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1406-vitavault.png",
+  "description": "A PSVita save manager using a remote server connection to transfer saves between consoles.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

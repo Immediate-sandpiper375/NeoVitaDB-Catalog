@@ -1,0 +1,17 @@
+{
+  "id": 737,
+  "name": "Sonic 1 SMS Remake",
+  "author": "MDashK & Creative Araya",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "S1SMSR001",
+  "repo": "MDashK/sonic-1-sms-remake-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0737-sonic-1-sms-remake.png",
+  "description": "Sonic 1 SMS Remake is a fan game that represents a redesigned version of the Master System game released by SEGA in 1991.\nThis is an official port, based on version 1.9 of the game.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

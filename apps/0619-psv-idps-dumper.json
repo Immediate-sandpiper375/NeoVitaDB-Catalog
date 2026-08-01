@@ -1,0 +1,17 @@
+{
+  "id": 619,
+  "name": "PSV IDPS Dumper",
+  "author": "Yoti",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "YPID00001",
+  "repo": "Yoti/psv_idpsdump",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0619-psv-idps-dumper.png",
+  "description": "A little utility that allows to dump your console IDPS-",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

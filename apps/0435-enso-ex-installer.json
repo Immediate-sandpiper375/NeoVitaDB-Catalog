@@ -1,0 +1,17 @@
+{
+  "id": 435,
+  "name": "enso ex Installer",
+  "author": "SKGleba & Team Molecule",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "MLCL00003",
+  "repo": "SKGleba/enso_ex",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0435-enso-ex-installer.png",
+  "description": "Untethered jailbreak and CFW loader for PlayStation Vita/TV units on firmware 3.65\nFeatures:\n - Custom kernel loader\n - Support for unsigned base kernel modules\n - Code execution on the bootloader level\n - SD2VITA and EMMC -based recovery\n - Various tweaks such as custom bootlogo or DevKit VitaTV mode support",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

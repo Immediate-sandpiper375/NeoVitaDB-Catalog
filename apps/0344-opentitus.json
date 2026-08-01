@@ -1,0 +1,17 @@
+{
+  "id": 344,
+  "name": "OpenTitus",
+  "author": "usineur",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "OPENTITUS",
+  "repo": "usineur/opentitus",
+  "asset": "Titus*.vpk",
+  "prerelease": false,
+  "icon": "0344-opentitus.png",
+  "description": "A port of the game engine behind the DOS versions of Titus the Fox.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

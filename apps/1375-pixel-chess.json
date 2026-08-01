@@ -1,0 +1,17 @@
+{
+  "id": 1375,
+  "name": "Pixel Chess",
+  "author": "Macperek",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "PIXC02137",
+  "repo": "Macperek/PixelChess",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1375-pixel-chess.png",
+  "description": "A homebrew pixel-art chess game developed specifically for the PlayStation Vita. Please note that this is an amateur project created for fun and learning.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

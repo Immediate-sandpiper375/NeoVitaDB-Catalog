@@ -1,0 +1,17 @@
+{
+  "id": 1270,
+  "name": "Crazy Cattle Vita",
+  "author": "LordChickenBlaster & Dimolade & Anna3d",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "CCDV33333",
+  "repo": "Lordchickenblaster/Crazy-Cattle-Vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1270-crazy-cattle-vita.png",
+  "description": "Port of the Unity remake made by Dimolade. Welcome to Crazy Cattle 3D, an exhilarating battle royale game where you control explosive sheep in a chaotic survival challenge across three distinct global environments. Master physics-based movement, outwit your opponents, and be the last sheep standing!",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

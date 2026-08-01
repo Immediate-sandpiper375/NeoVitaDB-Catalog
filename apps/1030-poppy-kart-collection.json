@@ -1,0 +1,17 @@
+{
+  "id": 1030,
+  "name": "Poppy Kart Collection",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "POPPYKART",
+  "repo": "Rinnegatamante/Poppy-Kart-Collection",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1030-poppy-kart-collection.png",
+  "description": "This is a wrapper/port of Poppy Kart and Poppy Kart 2 for the PS Vita.\nThe port works by loading the official Android ARMv7 executables in memory, resolving their imports with native functions and patching them in order to properly run. By doing so, it's basically as if we emulate a minimalist Android environment in which we run natively the executables as they are.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

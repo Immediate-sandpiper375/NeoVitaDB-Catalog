@@ -1,0 +1,17 @@
+{
+  "id": 724,
+  "name": "UX0 to SD CloneTool",
+  "author": "AntHJ",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "ANTSCT001",
+  "repo": "AntHJ/UX0toSD",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0724-ux0-to-sd-clonetool.png",
+  "description": "This simple to use tool has been designed to semi-automate the SD migration process. It will assign your memory allocations, and clone your Sony memory to the SD. Works with SD2Vita, PSVSD and USB on PSTVs and Vitas.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 1176,
+  "name": "Jet Car Stunts 2 Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "JETCAR002",
+  "repo": "Rinnegatamante/jetcarstunts_vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1176-jet-car-stunts-2-vita.png",
+  "description": "This is a wrapper/port of Jet Car Stunts 2 for the PS Vita. The port works by loading the official Android ARMv7 executable in memory, resolving its imports with native functions and patching it in order to properly run. By doing so, it's basically as if we emulate a minimalist Android environment in which we run natively the executable as is.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

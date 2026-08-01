@@ -1,0 +1,17 @@
+{
+  "id": 1024,
+  "name": "vita-smb-client",
+  "author": "cy33hc",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "SMBCLI001",
+  "repo": "cy33hc/vita-smb-client",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1024-vita-smb-client.png",
+  "description": "Simple SMB Client App for Vita for connecting to remote Windows Shares, Linux SMB Shares and NAS SMB shares to transfer files back and forth.",
+  "requirements": "- libshacccg.suprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

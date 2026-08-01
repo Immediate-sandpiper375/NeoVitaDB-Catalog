@@ -1,0 +1,17 @@
+{
+  "id": 762,
+  "name": "Custom LiveArea",
+  "author": "AntHJ",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "CSTMLIVEA",
+  "repo": "AntHJ/Custom-LiveArea",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0762-custom-livearea.png",
+  "description": "Using custom themes is good fun but your limited to only being able to change the stock app bubbles, but now you can customise a whole lot more.\nCustomise icons, title names and images of your apps and games bubbles.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

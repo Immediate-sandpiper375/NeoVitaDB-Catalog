@@ -1,0 +1,17 @@
+{
+  "id": 1079,
+  "name": "VitaTester MOD",
+  "author": "Avellea & Pookette & NamelessGhoul0",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VITATESTR",
+  "repo": "Avellea/VitaTester",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1079-vitatester-mod.png",
+  "description": "A simple homebrew for testing the input data on the PSVita.\nThis mod currently implements also gyroscope and accelerometer testing.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

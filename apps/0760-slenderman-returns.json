@@ -1,0 +1,17 @@
+{
+  "id": 760,
+  "name": "Slenderman Returns",
+  "author": "BurAndBY",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SLMR26110",
+  "repo": "BurAndBY/slendermanreturns_vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0760-slenderman-returns.png",
+  "description": "Slenderman Returns is a game inspired by the original indie game Slender: The Eight Pages, but redesigned to run on the popular Unity game engine. Ported to PSVita. You need to collect 8 pages in different houses marked on the map, to escape from Slenderman. Come to the house for first page and note. Slenderman will try to hunt you down, but don't come close to him.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

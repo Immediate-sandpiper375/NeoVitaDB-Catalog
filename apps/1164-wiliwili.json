@@ -1,0 +1,17 @@
+{
+  "id": 1164,
+  "name": "wiliwili",
+  "author": "xfangfang",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "WILIWILI0",
+  "repo": "xfangfang/wiliwili",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1164-wiliwili.png",
+  "description": "wiliwili is a third-party cross-platform Bilibili client specially designed for gamepad control, It supports hardware decoding for PSVita.\nBilibili is like the Chinese version of YouTube, with main users in China, Japan, South Korea, and Southeast Asia. (offical website: https://www.bilibili.com/).",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

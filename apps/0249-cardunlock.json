@@ -1,0 +1,17 @@
+{
+  "id": 249,
+  "name": "CardUnlock",
+  "author": "cnsldv",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "CARDUNLOK",
+  "repo": "cnsldv/CardUnlock",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0249-cardunlock.png",
+  "description": "This homebrew mounts the card in a way that id.dat isn't checked, deletes the file and unmounts again. On reboot the Vita thinks it's a new card and it passes the check. Probably only works on Slim/TV as needs to run HENkaku without a card inserted.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

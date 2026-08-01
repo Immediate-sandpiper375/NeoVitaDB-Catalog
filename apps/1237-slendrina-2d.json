@@ -1,0 +1,17 @@
+{
+  "id": 1237,
+  "name": "Slendrina 2D",
+  "author": "MaloneCZSD",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SLEN20000",
+  "repo": "malone46/Slendrina2DVita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1237-slendrina-2d.png",
+  "description": "Slendrina is back in a new scary adventure! This time in a type 2D side scroller game!\nSlendrina are evil and want to kill anyone who intrudes on her territory. Examine an abandoned house and solve different tasks to pass this game.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

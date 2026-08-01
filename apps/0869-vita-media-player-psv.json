@@ -1,0 +1,17 @@
+{
+  "id": 869,
+  "name": "Vita Media Player PSV",
+  "author": "SonicMastr",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "SVMP00001",
+  "repo": "SonicMastr/Vita-Media-Player",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0869-vita-media-player-psv.png",
+  "description": "An Open Source PSVita MP4 player with 1080p playback and subtitle support.\nSRT subtitle support (Has to be the same name as the video file)",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

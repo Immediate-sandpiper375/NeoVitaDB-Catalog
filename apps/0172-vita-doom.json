@@ -1,0 +1,17 @@
+{
+  "id": 172,
+  "name": "Vita Doom",
+  "author": "MrNetrix & aagallag",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "DOOM00666",
+  "repo": "aagallag/Vita_Doom",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0172-vita-doom.png",
+  "description": "Doom 1/Doom 2 port for PSVITA based on DoomPSP.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

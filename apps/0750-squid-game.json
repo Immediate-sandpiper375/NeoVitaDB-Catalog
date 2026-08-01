@@ -1,0 +1,17 @@
+{
+  "id": 750,
+  "name": "Squid Game",
+  "author": "AntHJ",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "SQUIDGAME",
+  "repo": "AntHJ/Squid-Game",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0750-squid-game.png",
+  "description": "A challenge based game inspired by the hit Netflix show. Created in Lua using Lua Player Plus.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

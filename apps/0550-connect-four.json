@@ -1,0 +1,17 @@
+{
+  "id": 550,
+  "name": "Connect Four",
+  "author": "Dane64",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "CONNECT04",
+  "repo": "Dane64/ConnectFour",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0550-connect-four.png",
+  "description": "A simple Connect 4 game for PSVITA/PSTV with Minimax algorithm implemented.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1269,
+  "name": "OpenRCT2-CE Vita",
+  "author": "technicaljicama",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "OPRCT0002",
+  "repo": "technicaljicama/OpenRCT2-CE",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1269-openrct2-ce-vita.png",
+  "description": "Port of OpenRCT2 for PSVITA.\nOpenRCT2 is an open-source re-implementation of RollerCoaster Tycoon 2. A construction and management simulation video game that simulates amusement park management.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "data": "https://www.rinnegatamante.eu/files/vitadb/openrct2.zip"
+}

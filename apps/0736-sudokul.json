@@ -1,0 +1,17 @@
+{
+  "id": 736,
+  "name": "SuDokuL",
+  "author": "Mode8fx",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "SDKL39690",
+  "repo": "Mode8fx/SuDokuL",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0736-sudokul.png",
+  "description": "A multiplatform Sudoku game made in C++ using SDL.\nFeatures:\n- Sudoku puzzle generator\n- Touch screen support\n- A scrolling background that lets you change the size, scroll speed and scroll direction\n- Those mini-numbers to help you keep track of harder puzzles\n- An optional cheat that auto-fills a cell (press X or Y 10 times)\n- 7 different MOD format songs",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

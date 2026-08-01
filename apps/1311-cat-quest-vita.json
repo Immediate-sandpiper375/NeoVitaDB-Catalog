@@ -1,0 +1,17 @@
+{
+  "id": 1311,
+  "name": "Cat Quest Vita",
+  "author": "PatnosD",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "CATS11111",
+  "repo": "PatnosDD/Cat-Quest-Ps-Vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1311-cat-quest-vita.png",
+  "description": "Cat Quest is an open world RPG set in the pawsome world of cats!\nLeap into a grand adventure in purrsuit of the evil Drakoth and your catnapped sister! Explore Felingard's huge overworld map, risk life and limb delving into dungeons for epic loot, and lend a paw to a furry cast of characters in a flurry of side quests.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

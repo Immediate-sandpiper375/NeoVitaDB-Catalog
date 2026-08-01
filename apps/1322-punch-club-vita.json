@@ -1,0 +1,17 @@
+{
+  "id": 1322,
+  "name": "Punch Club Vita",
+  "author": "PatnosD",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "PNCH11111",
+  "repo": "PatnosDD/Punch-Club-Ps-Vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1322-punch-club-vita.png",
+  "description": "Punch Club is a sporting management simulation developed by Lazy Bear Games and published by tinyBuild. In the game, the player manages an upcoming boxer in training and preparation for a series of boxing matches at a local club, while searching for clues of who killed their father.",
+  "requirements": "- Game Data Files: Steam",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

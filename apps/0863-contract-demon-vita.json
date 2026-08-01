@@ -1,0 +1,17 @@
+{
+  "id": 863,
+  "name": "Contract Demon Vita",
+  "author": "SonicMastr",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "RNPYDEMON",
+  "repo": "SonicMastr/Contract-Demon-Vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0863-contract-demon-vita.png",
+  "description": "Port of Contract Demon for PSVITA/PSTV.\nCONTRACT DEMON is a visual novel created for NaNoRenO 2019. an angel summons a demon, and they end up... in love?! it takes 20-30 minutes to read through the story. there are no choices or alternate endings.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}
