@@ -1,0 +1,9 @@
+{
+  "$comment": "Category slugs and the numeric type the on-device parser expects. PSP entries are emitted with +10 because the app subtracts 10 when parsing the PSP list. Value 3 is unused: the app's filter index skips it.",
+  "categories": [
+    { "slug": "game",     "label": "Original Game", "type": 1 },
+    { "slug": "port",     "label": "Game Port",     "type": 2 },
+    { "slug": "utility",  "label": "Utility",       "type": 4 },
+    { "slug": "emulator", "label": "Emulator",      "type": 5 }
+  ]
+}

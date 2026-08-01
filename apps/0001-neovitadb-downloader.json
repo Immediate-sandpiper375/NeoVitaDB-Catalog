@@ -1,0 +1,21 @@
+{
+  "id": 1,
+  "name": "NeoVitaDB Downloader",
+  "author": "robin994, Rinnegatamante",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "NEOVITADB",
+
+  "repo": "robin994/NeoVitaDB-Downloader",
+  "asset": "*.vpk",
+  "prerelease": false,
+
+  "icon": "0001-neovitadb-downloader.png",
+
+  "description": "The store itself. Browse, install and keep PSVita and PSP homebrew up to date.\nThis entry is what lets the app update itself, so its id must never change.",
+  "requirements": "",
+
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

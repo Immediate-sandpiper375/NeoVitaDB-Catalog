@@ -1,0 +1,123 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://robin994.github.io/NeoVitaDB-Catalog/schema/app.schema.json",
+  "title": "NeoVitaDB catalog entry",
+  "description": "One homebrew entry. Contributors write this file; the build workflow resolves the rest (version, date, size, download count, checksums, download URL) from the GitHub release.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "name", "author", "category", "platform", "repo", "icon", "description"],
+
+  "properties": {
+    "id": {
+      "description": "Stable numeric id, never reused. It is the catalog primary key: the app stores it in the favourites file and uses it to recognise itself. Max 4 digits.",
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 9999
+    },
+
+    "name": {
+      "description": "Homebrew name, without version. The app renders 'name version'.",
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 100,
+      "not": { "pattern": "[\"\\\\]" }
+    },
+
+    "author": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 100,
+      "not": { "pattern": "[\"\\\\]" }
+    },
+
+    "category": {
+      "description": "Maps to the numeric type the app filters on.",
+      "enum": ["game", "port", "utility", "emulator"]
+    },
+
+    "platform": {
+      "enum": ["vita", "psp"]
+    },
+
+    "titleid": {
+      "description": "Required for vita entries, ignored for psp. Exactly 9 uppercase alphanumerics.",
+      "type": "string",
+      "pattern": "^[A-Z0-9]{9}$"
+    },
+
+    "repo": {
+      "description": "GitHub repository holding the releases, as owner/name.",
+      "type": "string",
+      "pattern": "^[A-Za-z0-9._-]+/[A-Za-z0-9._-]+$"
+    },
+
+    "asset": {
+      "description": "Glob matching the release asset to publish. Defaults to *.vpk.",
+      "type": "string",
+      "maxLength": 100,
+      "default": "*.vpk"
+    },
+
+    "prerelease": {
+      "description": "Set true to track pre-releases too. Nightly builds should stay false, or every build looks like an update.",
+      "type": "boolean",
+      "default": false
+    },
+
+    "icon": {
+      "description": "File name under icons/. The app shards storage by the first two characters, so names must be unique and start with two safe characters.",
+      "type": "string",
+      "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]{2,60}\\.png$"
+    },
+
+    "description": {
+      "description": "Shown in the info panel. May contain newlines. Must never contain the two-character sequence quote-comma, which terminates the field in the on-device parser.",
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 4000,
+      "not": { "pattern": "\",", "$comment": "reserved terminator" }
+    },
+
+    "requirements": {
+      "description": "Plain text shown before install. No quotes at all: this field is terminated by the first quote.",
+      "type": "string",
+      "maxLength": 1000,
+      "not": { "pattern": "[\"]" }
+    },
+
+    "screenshots": {
+      "description": "Paths relative to the published catalog root, e.g. screenshots/0001-1.png. Joined with ';' and must fit 511 characters in total.",
+      "type": "array",
+      "maxItems": 4,
+      "items": { "type": "string", "maxLength": 120, "not": { "pattern": "[\";]" } }
+    },
+
+    "trailer": {
+      "description": "Base name of an mp4 published under videos/ in the catalog.",
+      "type": "string",
+      "maxLength": 56,
+      "not": { "pattern": "[\"]" }
+    },
+
+    "data": {
+      "description": "Optional full URL of a separate data-files archive (zip or psarc).",
+      "type": "string",
+      "format": "uri",
+      "maxLength": 120
+    },
+
+    "trophies": { "type": "boolean", "default": false },
+    "ai": {
+      "description": "Flags homebrew built with AI assistance. Surfaced by a dedicated filter and icon.",
+      "type": "boolean",
+      "default": false
+    }
+  },
+
+  "allOf": [
+    {
+      "if": { "properties": { "platform": { "const": "vita" } }, "required": ["platform"] },
+      "then": { "required": ["titleid"] }
+    }
+  ]
+}

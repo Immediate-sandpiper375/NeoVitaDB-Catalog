@@ -1,0 +1,70 @@
+name: Build catalog
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  schedule:
+    # Every six hours: picks up new releases from the homebrew repositories.
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: catalog
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install jsonschema
+
+      - name: Build
+        env:
+          # Raises the API budget from 60 to 5000 calls an hour.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python tools/build_catalog.py
+
+      - name: Stage icons alongside the catalog
+        run: cp -r icons dist/icons
+
+      # On pull requests we stop here: the build having succeeded is the check.
+      - name: Commit refreshed checksum cache
+        if: github.event_name != 'pull_request'
+        run: |
+          if git diff --quiet cache/hashes.json; then
+            echo "cache unchanged"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add cache/hashes.json
+            git commit -m "Refresh checksum cache"
+            git push
+          fi
+
+      - uses: actions/upload-pages-artifact@v3
+        if: github.event_name != 'pull_request'
+        with:
+          path: dist
+
+  deploy:
+    if: github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
