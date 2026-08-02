@@ -13,6 +13,5 @@
   "requirements": "- fd_fix.skprx OR repatch_ex.skprx\n- Game Data Files: PC",
   "screenshots": [],
   "trophies": false,
-  "ai": false,
-  "data": "https://www.rinnegatamante.eu/files/vitadb/VanillaRA.zip"
+  "ai": false
 }

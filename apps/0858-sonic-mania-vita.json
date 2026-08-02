@@ -13,6 +13,5 @@
   "requirements": "- Game Data Files: PC Steam OR PS4 OR Switch",
   "screenshots": [],
   "trophies": true,
-  "ai": false,
-  "data": "https://www.rinnegatamante.eu/files/vitadb/Mania.zip"
+  "ai": false
 }

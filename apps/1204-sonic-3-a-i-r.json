@@ -13,6 +13,5 @@
   "requirements": "- libshacccg.suprx\n- Game Data Files: PC/Genesis/MegaDrive",
   "screenshots": [],
   "trophies": true,
-  "ai": false,
-  "data": "https://www.rinnegatamante.eu/files/vitadb/sonic3air.zip"
+  "ai": false
 }

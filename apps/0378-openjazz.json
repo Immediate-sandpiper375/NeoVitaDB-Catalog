@@ -13,6 +13,5 @@
   "requirements": "- Game Data Files: PC",
   "screenshots": [],
   "trophies": false,
-  "ai": false,
-  "data": "https://www.rinnegatamante.eu/files/vitadb/jazz.zip"
+  "ai": false
 }

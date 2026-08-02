@@ -13,6 +13,5 @@
   "requirements": "- Game Data Files",
   "screenshots": [],
   "trophies": false,
-  "ai": false,
-  "data": "https://www.rinnegatamante.eu/files/vitadb/cannonball.zip"
+  "ai": false
 }
