@@ -14,5 +14,6 @@
   "screenshots": [],
   "trophies": false,
   "ai": false,
-  "data": "https://github.com/v-atamanenko/osu-octave/releases/download/1.20/data-maps.zip"
+  "data": "https://github.com/v-atamanenko/osu-octave/releases/download/1.20/data-maps.zip",
+  "trusted": false
 }

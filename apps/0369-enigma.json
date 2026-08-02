@@ -14,5 +14,6 @@
   "screenshots": [],
   "trophies": false,
   "ai": false,
-  "data": "https://github.com/rsn8887/Enigma/releases/download/1.16/data.zip"
+  "data": "https://github.com/rsn8887/Enigma/releases/download/1.16/data.zip",
+  "trusted": false
 }

@@ -13,5 +13,6 @@
   "requirements": "- Game Data Files: PC Steam OR PS4 OR Switch",
   "screenshots": [],
   "trophies": true,
-  "ai": false
+  "ai": false,
+  "trusted": true
 }

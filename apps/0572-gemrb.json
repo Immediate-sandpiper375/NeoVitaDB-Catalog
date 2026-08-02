@@ -14,5 +14,6 @@
   "screenshots": [],
   "trophies": false,
   "ai": false,
-  "data": "https://github.com/Northfear/gemrb-vita/releases/download/v0.8.8-vita.7/gemrb_data.zip"
+  "data": "https://github.com/Northfear/gemrb-vita/releases/download/v0.8.8-vita.7/gemrb_data.zip",
+  "trusted": true
 }

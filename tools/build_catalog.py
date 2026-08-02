@@ -125,8 +125,10 @@ def pick_release(repo: str, allow_prerelease: bool) -> dict | None:
 
 
 def pick_asset(release: dict, pattern: str) -> dict | None:
+    """Match case-insensitively: some authors publish `.VPK`, and the
+    extension's case carries no meaning worth rejecting a release over."""
     for asset in release.get("assets", []):
-        if fnmatch.fnmatch(asset["name"], pattern):
+        if fnmatch.fnmatch(asset["name"].lower(), pattern.lower()):
             return asset
     return None
 
@@ -258,7 +260,12 @@ def build() -> None:
         type_num = categories[entry["category"]] + (10 if is_psp else 0)
 
         data_url = entry.get("data", "")
-        stars = repo_stars(repo)
+        trusted = repo_stars(repo) > TRUSTED_STARS
+        if "trusted" not in entry or entry["trusted"] != trusted:
+            entry["trusted"] = trusted
+            path.write_text(json.dumps(entry, indent=2, ensure_ascii=False) + "\n")
+            log(f"  trusted -> {trusted}")
+
         fields = {
             "name": entry["name"],
             "icon": entry["icon"],
@@ -284,7 +291,7 @@ def build() -> None:
             "data": data_url,
             "url": asset["browser_download_url"],
             "changelog": sanitise_changelog(release.get("body") or ""),
-            "trusted": "1" if stars > TRUSTED_STARS else "0",
+            "trusted": "1" if trusted else "0",
         }
 
         out["psp" if is_psp else "vita"].append(emit_entry(fields, is_psp))

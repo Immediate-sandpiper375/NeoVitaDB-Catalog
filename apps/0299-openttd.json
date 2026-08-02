@@ -14,5 +14,6 @@
   "screenshots": [],
   "trophies": false,
   "ai": false,
-  "data": "https://github.com/angguss/OpenTTD/releases/download/0.3-vita/data.zip"
+  "data": "https://github.com/angguss/OpenTTD/releases/download/0.3-vita/data.zip",
+  "trusted": false
 }

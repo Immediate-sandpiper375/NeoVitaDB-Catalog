@@ -13,5 +13,6 @@
   "requirements": "- Game Data Files: Amiga OR DOS",
   "screenshots": [],
   "trophies": false,
-  "ai": false
+  "ai": false,
+  "trusted": false
 }

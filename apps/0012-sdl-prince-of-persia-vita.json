@@ -14,5 +14,6 @@
   "screenshots": [],
   "trophies": false,
   "ai": false,
-  "data": "https://github.com/usineur/SDLPoP/releases/download/vita-1.7/prince.zip"
+  "data": "https://github.com/usineur/SDLPoP/releases/download/vita-1.7/prince.zip",
+  "trusted": false
 }

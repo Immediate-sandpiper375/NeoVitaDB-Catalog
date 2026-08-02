@@ -14,5 +14,6 @@
   "screenshots": [],
   "trophies": false,
   "ai": false,
-  "data": "https://github.com/fgsfdsfgs/Serious-Engine/releases/download/psvita2/data_tse_v2.zip"
+  "data": "https://github.com/fgsfdsfgs/Serious-Engine/releases/download/psvita2/data_tse_v2.zip",
+  "trusted": false
 }

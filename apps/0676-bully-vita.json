@@ -14,5 +14,6 @@
   "screenshots": [],
   "trophies": false,
   "ai": false,
-  "data": "https://github.com/TheOfficialFloW/bully_vita/releases/download/v1.0/gamefiles.zip"
+  "data": "https://github.com/TheOfficialFloW/bully_vita/releases/download/v1.0/gamefiles.zip",
+  "trusted": true
 }

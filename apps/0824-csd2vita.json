@@ -13,5 +13,6 @@
   "requirements": "- YoYo Loader\n- Game Data Files: PC Steam",
   "screenshots": [],
   "trophies": false,
-  "ai": false
+  "ai": false,
+  "trusted": false
 }

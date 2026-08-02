@@ -14,5 +14,6 @@
   "screenshots": [],
   "trophies": false,
   "ai": false,
-  "data": "https://github.com/Rinnegatamante/Shipwright/releases/download/v.1.2/soh.zip"
+  "data": "https://github.com/Rinnegatamante/Shipwright/releases/download/v.1.2/soh.zip",
+  "trusted": false
 }

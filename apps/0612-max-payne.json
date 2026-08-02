@@ -14,5 +14,6 @@
   "screenshots": [],
   "trophies": false,
   "ai": false,
-  "data": "https://github.com/fgsfdsfgs/max_vita/releases/download/r4/data.zip"
+  "data": "https://github.com/fgsfdsfgs/max_vita/releases/download/r4/data.zip",
+  "trusted": true
 }

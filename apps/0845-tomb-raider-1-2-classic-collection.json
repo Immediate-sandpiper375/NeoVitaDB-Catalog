@@ -14,5 +14,6 @@
   "screenshots": [],
   "trophies": true,
   "ai": false,
-  "data": "https://github.com/Rinnegatamante/raider-vita/releases/download/v.1.2/datafiles.zip"
+  "data": "https://github.com/Rinnegatamante/raider-vita/releases/download/v.1.2/datafiles.zip",
+  "trusted": false
 }

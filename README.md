@@ -18,9 +18,14 @@ Published at `https://robin994.github.io/NeoVitaDB-Catalog/`.
 
 You only describe the project. Version, release date, download size, download
 count, checksums and the download URL all come from your latest GitHub release —
-publish a new release and the catalog follows within six hours. The `trusted`
-flag shown by the app is likewise computed at build time from your repository's
-GitHub star count (currently more than 50), not something you set.
+publish a new release and the catalog follows within six hours.
+
+The one exception is `trusted`: unlike the fields above, it *is* written into
+your `apps/NNNN-your-slug.json`, but not by you. Every build recomputes it from
+your repository's GitHub star count (currently more than 50) and, when it
+changes, rewrites the field in place and commits it back — same mechanism as
+`cache/hashes.json`. Setting it yourself in a PR has no lasting effect; the next
+scheduled build overwrites it with the real star count.
 
 ```json
 {

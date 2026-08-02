@@ -13,5 +13,6 @@
   "requirements": "- Game Data Files: Android\n- kubridge.skprx",
   "screenshots": [],
   "trophies": false,
-  "ai": false
+  "ai": false,
+  "trusted": false
 }

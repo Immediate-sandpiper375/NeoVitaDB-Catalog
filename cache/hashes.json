@@ -171,6 +171,14 @@
     "hash": "668114d451621d0ecbab9e19cd42c99a",
     "hash2": ""
   },
+  "Digital33Studios/minotaur@489934923@2026-07-26T01:54:04Z": {
+    "hash": "0c91c430c618744af1f84c6e84f68c93",
+    "hash2": "c2faf158c9a5cd1cde71809374aee757"
+  },
+  "Digital33Studios/sakurapass@320451292@2025-11-25T01:08:37Z": {
+    "hash": "0c91c430c618744af1f84c6e84f68c93",
+    "hash2": "c9c8f32c2497ab440df19ba0e3e6480e"
+  },
   "DrDecki/Aleph-One-Marathon-Trilogy-PsVita-@464647743@2026-07-02T19:41:14Z": {
     "hash": "05fff4cf7834d69ef43da5f6cf47d1be",
     "hash2": ""
@@ -331,6 +339,26 @@
     "hash": "0ef59613ee602238b25922a8354af0cf",
     "hash2": ""
   },
+  "MDashK/Flop-Rocket-Vita@48654452@2021-11-04T22:07:32Z": {
+    "hash": "0c91c430c618744af1f84c6e84f68c93",
+    "hash2": "90608e11fe2b88a6d4abe98f381e2a25"
+  },
+  "MDashK/Galactic-Missile-Defense-Vita@47215428@2021-10-17T20:49:09Z": {
+    "hash": "0c91c430c618744af1f84c6e84f68c93",
+    "hash2": "342d69dda875468dce821a628064f87c"
+  },
+  "MDashK/Sonic-2-SMS-Remake-Vita@86589188@2022-12-01T05:59:13Z": {
+    "hash": "0c91c430c618744af1f84c6e84f68c93",
+    "hash2": "5bac59902d81cbe317c7769a3b9923eb"
+  },
+  "MDashK/cook-serve-delicious-vita@46673701@2021-10-11T00:36:58Z": {
+    "hash": "0c91c430c618744af1f84c6e84f68c93",
+    "hash2": "a4e09a5c38db15e9d3c1d1795cc2a9f0"
+  },
+  "MDashK/sonic-1-sms-remake-vita@86584668@2022-12-01T05:18:14Z": {
+    "hash": "0c91c430c618744af1f84c6e84f68c93",
+    "hash2": "202a2f52a5351bd8ba2526705647e79e"
+  },
   "MEGAgameBoy/I-Wanna-Reach-The-Unity-PS-Vita-Port@97186227@2023-02-26T13:23:16Z": {
     "hash": "b057e4944d90b0d54007ca1d9c96e6d1",
     "hash2": "00dc38792087a665a018f67df58084ba"
@@ -338,6 +366,10 @@
   "MEGAgameBoy/Italian-Plumber-Adventures-PS-Vita@96105142@2023-02-17T19:49:29Z": {
     "hash": "e7f7d8e33ef090442ea78bca395808fb",
     "hash2": "9f562c36bdd2d50a6dc038d70b132ff3"
+  },
+  "MEGAgameBoy/Super-Mario-Boom-PS-Vita-Port@101876958@2023-04-01T10:03:58Z": {
+    "hash": "d1c2c79211e09f6a933cab1d3bc42bed",
+    "hash2": "0f9180a2d93864351386dc14f3b559e8"
   },
   "MEGAgameBoy/Super-Mario-UniMaker-PS-Vita-Port@96106324@2023-02-17T20:01:16Z": {
     "hash": "fc3ee46f79c7fca46a5c6cbec1274f14",
@@ -370,6 +402,10 @@
   "NamelessGhoul0/VitaPong@4761272@2017-09-06T20:54:22Z": {
     "hash": "7bb373b99722865dcd7c90cb615cea7a",
     "hash2": ""
+  },
+  "Narwher/Howard@310952743@2025-10-31T14:01:40Z": {
+    "hash": "0c91c430c618744af1f84c6e84f68c93",
+    "hash2": "d9274e529c09d737f3bed81ea5038a81"
   },
   "NathanKewley/godot_save_the_bees@191482224@2024-09-09T14:13:43Z": {
     "hash": "3333846b67ff62c18a9bb1349884e929",
@@ -899,6 +935,14 @@
     "hash": "8445829cdea61154c8b91dc3ce8e8f6b",
     "hash2": ""
   },
+  "SiulPop/Cars-vita@79444709@2022-09-29T17:25:09Z": {
+    "hash": "0c91c430c618744af1f84c6e84f68c93",
+    "hash2": "81b081511b2bc46fea1cf783529d4c05"
+  },
+  "SiulPop/Spelunky.Classic.HD.VITA.@81466405@2022-10-18T22:05:47Z": {
+    "hash": "0c91c430c618744af1f84c6e84f68c93",
+    "hash2": "2861a4860f51582d3b91ebd740f8116b"
+  },
   "SonicMastr/Contract-Demon-Vita@44973920@2021-09-17T00:26:52Z": {
     "hash": "8445829cdea61154c8b91dc3ce8e8f6b",
     "hash2": ""
@@ -934,6 +978,10 @@
   "SonicMastr/godot@71423874@2022-07-13T07:22:34Z": {
     "hash": "db8497f77ac539e49447585097f69286",
     "hash2": "bd1a5f252d43b8c52c8fb5a36486d55c"
+  },
+  "SoulTieGames/BoggleVita@170409270@2024-05-27T22:06:23Z": {
+    "hash": "0c91c430c618744af1f84c6e84f68c93",
+    "hash2": "e54de1451aed4023755ed112a08eb2a5"
   },
   "THEN00P/EasyPlugin@21593258@2020-06-09T21:51:04Z": {
     "hash": "7a888eee8637c90388a1190f0ddb46f0",
@@ -1203,6 +1251,10 @@
     "hash": "d464cca070338fd663a63920864a4e48",
     "hash2": ""
   },
+  "elpapadelospollitos/Omega-strike-vita@66310623@2022-05-23T00:49:37Z": {
+    "hash": "0c91c430c618744af1f84c6e84f68c93",
+    "hash2": ""
+  },
   "emiyl/HBInjector@6766476@2018-04-07T10:45:24Z": {
     "hash": "8a75166323fcbe516de7758de7ec85b0",
     "hash2": ""
@@ -1415,6 +1467,14 @@
     "hash": "1b169b71087364887922385f0fecfdac",
     "hash2": ""
   },
+  "kaonkaon/BreadToPIA@192348721@2024-09-13T03:04:28Z": {
+    "hash": "ae028ddbc603883f18a27ef842d78e41",
+    "hash2": "4ec040aa455c23aa9dca6e55a50454ec"
+  },
+  "kaonkaon/ztwo@142918408@2023-12-29T15:00:23Z": {
+    "hash": "0c91c430c618744af1f84c6e84f68c93",
+    "hash2": "a7318c638f9221bc58889783563d9067"
+  },
   "keltar/ps4linkcontrols-gui@21690492@2020-06-12T12:59:58Z": {
     "hash": "54e4c53c5a4bf6dbc8bcae32b0c346e2",
     "hash2": ""
@@ -1442,6 +1502,30 @@
   "lp1dev/vita_ports_scanner@219400449@2025-01-10T11:46:46Z": {
     "hash": "ce457701be8c3304e5d8ae50b134821e",
     "hash2": ""
+  },
+  "m1s3ry/crashlands-vita@37230096@2021-05-20T10:05:07Z": {
+    "hash": "0c91c430c618744af1f84c6e84f68c93",
+    "hash2": "efcf79ded82288e14e2ca1127cb7555e"
+  },
+  "m1s3ry/gato-roboto-vita@54489066@2022-01-20T17:11:11Z": {
+    "hash": "0c91c430c618744af1f84c6e84f68c93",
+    "hash2": "ec7a96969c624070c94f20181e502613"
+  },
+  "m1s3ry/gungodz-vita@38216035@2021-06-07T17:48:33Z": {
+    "hash": "0c91c430c618744af1f84c6e84f68c93",
+    "hash2": "15a664f986853b9c924410eb1762cc25"
+  },
+  "m1s3ry/ink-vita@37596851@2021-05-26T21:11:51Z": {
+    "hash": "0c91c430c618744af1f84c6e84f68c93",
+    "hash2": "dc72ca0b9778cbdf2e46dcd1454a6a1d"
+  },
+  "m1s3ry/minit-fun-racer-vita@35012705@2021-04-14T15:18:57Z": {
+    "hash": "0c91c430c618744af1f84c6e84f68c93",
+    "hash2": "de1bb4a52b7a280a7f4588eafe5379b2"
+  },
+  "m1s3ry/minit-vita@34765335@2021-04-10T18:02:20Z": {
+    "hash": "0c91c430c618744af1f84c6e84f68c93",
+    "hash2": "af1cf865fe64543c991fd12e6fead227"
   },
   "majonessyltetoy/airpressure@86229766@2022-11-28T13:07:47Z": {
     "hash": "8445829cdea61154c8b91dc3ce8e8f6b",
@@ -1566,6 +1650,10 @@
   "rerulon/redvitas@427591144@2026-05-23T03:14:08Z": {
     "hash": "8445829cdea61154c8b91dc3ce8e8f6b",
     "hash2": ""
+  },
+  "rodentcat/deadknight-vita-port@54846350@2022-01-24T20:46:16Z": {
+    "hash": "0c91c430c618744af1f84c6e84f68c93",
+    "hash2": "2721212ef49cee337f9765c89cf7b16e"
   },
   "rompelhd/VitaSSH@374522583@2026-03-15T21:58:39Z": {
     "hash": "4604db21f30ac73056a22ff1cdd14b09",

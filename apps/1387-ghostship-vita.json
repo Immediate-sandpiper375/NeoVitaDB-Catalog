@@ -14,5 +14,6 @@
   "screenshots": [],
   "trophies": true,
   "ai": false,
-  "data": "https://github.com/Rinnegatamante/Ghostship/releases/download/v.1.2/ghostship.zip"
+  "data": "https://github.com/Rinnegatamante/Ghostship/releases/download/v.1.2/ghostship.zip",
+  "trusted": false
 }

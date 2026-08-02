@@ -111,6 +111,11 @@
       "description": "Flags homebrew built with AI assistance. Surfaced by a dedicated filter and icon.",
       "type": "boolean",
       "default": false
+    },
+    "trusted": {
+      "description": "Whether the repository has more than TRUSTED_STARS GitHub stars. Written by tools/build_catalog.py itself on every run; do not set this by hand, a scheduled build overwrites it.",
+      "type": "boolean",
+      "default": false
     }
   },
 
