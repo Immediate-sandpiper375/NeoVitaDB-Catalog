@@ -18,7 +18,9 @@ Published at `https://robin994.github.io/NeoVitaDB-Catalog/`.
 
 You only describe the project. Version, release date, download size, download
 count, checksums and the download URL all come from your latest GitHub release —
-publish a new release and the catalog follows within six hours.
+publish a new release and the catalog follows within six hours. The `trusted`
+flag shown by the app is likewise computed at build time from your repository's
+GitHub star count (currently more than 50), not something you set.
 
 ```json
 {

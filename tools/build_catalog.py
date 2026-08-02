@@ -3,7 +3,8 @@
 
 For every entry this resolves the latest GitHub release, picks the asset, and
 derives the fields the app cannot compute for itself: version, date, size,
-download count and the MD5 checksums used for update detection.
+download count, the MD5 checksums used for update detection, and a trust flag
+from the repository's star count.
 
 The output format is dictated by the on-device parser, which is not a JSON
 parser: get_value_from_json() in source/database.cpp walks the text with strstr
@@ -38,12 +39,19 @@ API = "https://api.github.com"
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
 
 # Order is fixed: the parser reads these sequentially. hash2 is vita-only.
+# "trusted" is appended at the very end deliberately: an app build that
+# predates this field simply stops reading before it and is unaffected,
+# whereas inserting it earlier would shift every field the old parser reads
+# afterwards. A future app release can start reading it once this lands.
 FIELD_ORDER = [
     "name", "icon", "version", "author", "type", "id", "date", "titleid",
     "screenshots", "long_description", "downloads", "source", "release_page",
     "trailer", "size", "data_size", "hash", "hash2", "requirements",
-    "trophies", "ai", "data", "url", "changelog",
+    "trophies", "ai", "data", "url", "changelog", "trusted",
 ]
+
+# A repo needs more stars than this to be flagged trusted.
+TRUSTED_STARS = 50
 
 # Engine loaders keep eboot.bin identical across releases, so the app also
 # checksums the engine's main asset. Kept in sync with aux_main_files in
@@ -79,6 +87,15 @@ def fetch(url: str) -> bytes:
         req.add_header("Authorization", f"Bearer {TOKEN}")
     with urllib.request.urlopen(req, timeout=300) as r:
         return r.read()
+
+
+def repo_stars(repo: str) -> int:
+    try:
+        info = api_get(f"/repos/{repo}")
+    except urllib.error.HTTPError as e:
+        log(f"  ! {repo}: repo info unavailable ({e.code})")
+        return 0
+    return info.get("stargazers_count", 0)
 
 
 def head_size(url: str) -> int:
@@ -241,6 +258,7 @@ def build() -> None:
         type_num = categories[entry["category"]] + (10 if is_psp else 0)
 
         data_url = entry.get("data", "")
+        stars = repo_stars(repo)
         fields = {
             "name": entry["name"],
             "icon": entry["icon"],
@@ -266,6 +284,7 @@ def build() -> None:
             "data": data_url,
             "url": asset["browser_download_url"],
             "changelog": sanitise_changelog(release.get("body") or ""),
+            "trusted": "1" if stars > TRUSTED_STARS else "0",
         }
 
         out["psp" if is_psp else "vita"].append(emit_entry(fields, is_psp))
